@@ -1,0 +1,24 @@
+{
+  "words": [
+    {"id": "w001", "word": "apple", "pronunciation": "/\u0259pl/", "partOfSpeech": "n.", "definition": "苹果", "exampleSentenceEn": "I eat an apple every day.", "exampleSentenceCn": "我每天吃一个苹果。"},
+    {"id": "w002", "word": "banana", "pronunciation": "/\u026a\u02c8b\u0101n\u0259/", "partOfSpeech": "n.", "definition": "香蕉", "exampleSentenceEn": "Monkeys love bananas.", "exampleSentenceCn": "猴子喜欢香蕉。"},
+    {"id": "w003", "word": "cat", "pronunciation": "/\u0259t/", "partOfSpeech": "n.", "definition": "猫", "exampleSentenceEn": "The cat sleeps on the sofa.", "exampleSentenceCn": "猫在沙发上睡觉。"},
+    {"id": "w004", "word": "dog", "pronunciation": "/\u0259g/", "partOfSpeech": "n.", "definition": "狗", "exampleSentenceEn": "My dog barks loudly.", "exampleSentenceCn": "我的狗叫得很大声。"},
+    {"id": "w005", "word": "elephant", "pronunciation": "/\u0259\u02c8lef\u0259nt/", "partOfSpeech": "n.", "definition": "大象", "exampleSentenceEn": "The elephant has a long nose.", "exampleSentenceCn": "大象有一个长鼻子。"},
+    {"id": "w006", "word": "fish", "pronunciation": "/f\u026a\u0283/", "partOfSpeech": "n.", "definition": "鱼", "exampleSentenceEn": "Fish swim in the water.", "exampleSentenceCn": "鱼在水里游。"},
+    {"id": "w007", "word": "green", "pronunciation": "/gri\u02d0n/", "partOfSpeech": "adj.", "definition": "绿色的", "exampleSentenceEn": "The grass is green.", "exampleSentenceCn": "草是绿色的。"},
+    {"id": "w008", "word": "happy", "pronunciation": "/\u02c8h\u0101pi/", "partOfSpeech": "adj.", "definition": "快乐的", "exampleSentenceEn": "She looks very happy today.", "exampleSentenceCn": "她今天看起来很开心。"},
+    {"id": "w009", "word": "ice cream", "pronunciation": "/\u026as \u02c8kri\u02d0m/", "partOfSpeech": "n.", "definition": "冰淇淋", "exampleSentenceEn": "Let's eat ice cream!", "exampleSentenceCn": "让我们吃冰淇淋吧！"},
+    {"id": "w010", "word": "juice", "pronunciation": "/d\u0292u\u026as/", "partOfSpeech": "n.", "definition": "果汁", "exampleSentenceEn": "Orange juice is my favorite drink.", "exampleSentenceCn": "橙汁是我喜欢的饮料。"},
+    {"id": "w011", "word": "kind", "pronunciation": "/ka\u026and/", "partOfSpeech": "adj.", "definition": "友好的", "exampleSentenceEn": "He is a kind boy.", "exampleSentenceCn": "他是一个好孩子。"},
+    {"id": "w012", "word": "large", "pronunciation": "/l\u025c\u026ard\u0292/", "partOfSpeech": "adj.", "definition": "大的", "exampleSentenceEn": "This is a large book.", "exampleSentenceCn": "这是一本大书。"},
+    {"id": "w013", "word": "monkey", "pronunciation": "/\u02c8m\u025bŋki/", "partOfSpeech": "n.", "definition": "猴子", "exampleSentenceEn": "The monkey jumps on the tree.", "exampleSentenceCn": "猴子在树上跳。"},
+    {"id": "w014", "word": "nice", "pronunciation": "/na\u026as/", "partOfSpeech": "adj.", "definition": "美好的，好的", "exampleSentenceEn": "Nice to meet you!", "exampleSentenceCn": "很高兴见到你！"},
+    {"id": "w015", "word": "orange", "pronunciation": "/\u02c8\u0254r\u026and\u0292/", "partOfSpeech": "n.", "definition": "橙子", "exampleSentenceEn": "I like oranges very much.", "exampleSentenceCn": "我非常喜欢橙子。"},
+    {"id": "w016", "word": "pig", "pronunciation": "/p\u026a\u0243/", "partOfSpeech": "n.", "definition": "猪", "exampleSentenceEn": "Pigs eat corn and vegetables.", "exampleSentenceCn": "猪吃玉米和蔬菜。"},
+    {"id": "w017", "word": "quiet", "pronunciation": "/\u02c8kwa\u026at/", "partOfSpeech": "adj.", "definition": "安静的", "exampleSentenceEn": "Please be quiet in the library.", "exampleSentenceCn": "请在图书馆保持安静。"},
+    {"id": "w018", "word": "red", "pronunciation": "/r\u025bd/", "partOfSpeech": "adj.", "definition": "红色的", "exampleSentenceEn": "The apple is red and sweet.", "exampleSentenceCn": "苹果是红色又甜的。"},
+    {"id": "w019", "word": "school bus", "pronunciation": "/sku\u02d0l b\u025bs/", "partOfSpeech": "n.", "definition": "校车", "exampleSentenceEn": "The school bus arrives at 7:30 AM.", "exampleSentenceCn": "校车早上七点半到达。"},
+    {"id": "w020", "word": "teacher", "pronunciation": "/\u02c8ti\u02d0t\u026a\u0251(r)/", "partOfSpeech": "n.", "definition": "老师", "exampleSentenceEn": "Our teacher is very friendly.", "exampleSentenceCn": "我们的老师很友好。"}
+  ]
+}

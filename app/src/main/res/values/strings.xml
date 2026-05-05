@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordDaily Kids 📚</string>
+    <string name="welcome_title">背单词 - 每日进步！</string>
+    
+    <string name="streak_label">🔥 连续学习天数</string>
+    <string name="today_goal">今日目标：5-8 个新单词</string>
+    
+    <string name="start_learning">开始今天的学习 🎉</string>
+    <string name="next_word">下一个单词 →</string>
+    <string name="learning_complete">🎉 学习完成！</string>
+    
+    <string name="word_text">单词文本</string>
+    <string name="pronunciation">音标/发音</string>
+    <string name="part_of_speech">词性</string>
+    <string name="definition">中文释义</string>
+    <string name="example_sentence_en">英文例句</string>
+    <string name="example_sentence_cn">中文翻译</string>
+    
+    <string name="option_correct">正确 ✅</string>
+    <string name="option_wrong">错误 ❌</string>
+    <string name="option_uncertain">不确定 ⚠️</string>
+    
+    <string name="progress_text">进度：1/5 | 20% 完成</string>
+    <string name="tip_of_day">💡 今日小贴士：Practice makes perfect!</string>
+</resources>
