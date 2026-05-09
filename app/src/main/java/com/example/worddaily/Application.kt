@@ -27,6 +27,6 @@ class WordDailyApplication : Application() {
             applicationContext,
             WordDailyDB::class.java,
             "worddaily_db"
-        ).build()
+        ).fallbackToDestructiveMigration().build()
     }
 }

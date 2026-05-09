@@ -9,6 +9,7 @@ import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.Fragment
 import com.example.worddaily.R
 import com.example.worddaily.data.local.WordEntity
+import com.example.worddaily.util.TtsManager
 
 class LearningFragment : Fragment() {
 
@@ -26,6 +27,7 @@ class LearningFragment : Fragment() {
 
     private var currentWordIndex = 0
     private lateinit var words: List<WordEntity>
+    private var ttsManager: TtsManager? = null
 
     // UI references
     private lateinit var tvWordText: TextView
@@ -39,6 +41,8 @@ class LearningFragment : Fragment() {
     private lateinit var btnOptionA: Button
     private lateinit var btnOptionB: Button
     private lateinit var btnOptionC: Button
+    private lateinit var btnSpeakWord: Button
+    private lateinit var btnSpeakExample: Button
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -50,6 +54,9 @@ class LearningFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
+        // 初始化 TTS
+        ttsManager = TtsManager(requireContext())
 
         @Suppress("DEPRECATION")
         words = arguments?.getParcelableArrayList(ARG_WORDS) ?: emptyList()
@@ -71,6 +78,8 @@ class LearningFragment : Fragment() {
         btnOptionA = view.findViewById(R.id.btnOptionA)
         btnOptionB = view.findViewById(R.id.btnOptionB)
         btnOptionC = view.findViewById(R.id.btnOptionC)
+        btnSpeakWord = view.findViewById(R.id.btnSpeakWord)
+        btnSpeakExample = view.findViewById(R.id.btnSpeakExample)
 
         updateUI()
 
@@ -86,19 +95,41 @@ class LearningFragment : Fragment() {
                 showCompletionDialog()
             }
         }
+
+        // 发音按钮点击事件
+        btnSpeakWord.setOnClickListener {
+            val word = words[currentWordIndex]
+            speakOrWarn(word.word)
+        }
+
+        btnSpeakExample.setOnClickListener {
+            val word = words[currentWordIndex]
+            if (word.exampleSentenceEn.isNotBlank()) {
+                speakOrWarn(word.exampleSentenceEn)
+            } else {
+                Toast.makeText(requireContext(), "暂无例句", Toast.LENGTH_SHORT).show()
+            }
+        }
+    }
+
+    private fun speakOrWarn(text: String) {
+        ttsManager?.speak(text)
     }
 
     private fun updateUI() {
         val word = words[currentWordIndex]
-        tvWordText.text = word.wordText
+        tvWordText.text = word.word
         tvPronunciation.text = word.pronunciation
         tvPartOfSpeech.text = "词性：${word.partOfSpeech}"
-        tvDefinition.text = word.definitionCn
-        tvExampleEn.text = word.exampleEn
-        tvExampleCn.text = word.exampleCn
+        tvDefinition.text = word.definition
+        tvExampleEn.text = word.exampleSentenceEn
+        tvExampleCn.text = word.exampleSentenceCn
 
         val percent = if (words.size > 1) currentWordIndex * 100 / (words.size - 1) else 100
         tvProgressText.text = "${currentWordIndex + 1}/${words.size} | ${percent}% 完成"
+
+        // 切换单词时自动停止发音
+        ttsManager?.stop()
     }
 
     private fun handleAnswer(isCorrect: Boolean) {
@@ -116,5 +147,16 @@ class LearningFragment : Fragment() {
             }
             .setCancelable(false)
             .show()
+    }
+
+    override fun onPause() {
+        super.onPause()
+        ttsManager?.stop()
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        ttsManager?.shutdown()
+        ttsManager = null
     }
 }

@@ -28,14 +28,15 @@ class MainActivity : AppCompatActivity() {
     // 学习状态变量
     private val allWords = mutableListOf<WordEntity>()
     private val dailyTaskWords = mutableListOf<WordEntity>()
-    private var masteredWordIds = setOf<Int>()
+    private var masteredWordIds = setOf<String>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
         // 初始化依赖
-        repository = WordRepository(application as WordDailyApplication)
+        val app = application as WordDailyApplication
+        repository = WordRepository(app.database.wordDao(), app.database.progressDao())
         taskGenerator = DailyTaskGenerator()
 
         // 设置 UI 组件
@@ -43,7 +44,7 @@ class MainActivity : AppCompatActivity() {
 
         // 初始化数据库并加载进度
         lifecycleScope.launch {
-            repository.initializeDatabase()
+            repository.initializeDatabase(context = this@MainActivity)
             loadUserProgress()
         }
     }
@@ -54,7 +55,6 @@ class MainActivity : AppCompatActivity() {
             masteredWordIds = progress.masteredWordIds
                 .split(",")
                 .filter { it.isNotBlank() }
-                .mapNotNull { it.trim().toIntOrNull() }
                 .toSet()
             tvStreakCount.text = "🔥 连续学习 ${progress.totalStudyDays} 天\n完成 ${progress.totalScore} 个单词！"
         }

@@ -1,5 +1,7 @@
 package com.example.worddaily.data.model
 
+import androidx.room.Entity
+import androidx.room.PrimaryKey
 import java.util.Date
 
 data class Word(
@@ -34,4 +36,22 @@ data class TestResult(
     val userAnswer: String?,
     val correctAnswer: String?,
     var explanation: String? = null
+)
+
+// Room Entity - 数据库实体类
+@Entity(tableName = "words")
+data class WordEntity(
+    @PrimaryKey val id: String,
+    var word: String = "",
+    var pronunciation: String = "",
+    var partOfSpeech: String = "",
+    var definition: String = "",
+    var exampleSentenceEn: String = "",
+    var exampleSentenceCn: String = "",
+    var difficultyLevel: Int = 1
+)
+
+// JSON 数据类 - 用于从文件加载词库
+data class WordJson(
+    val words: List<Word>
 )
