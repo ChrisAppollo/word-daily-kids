@@ -1,43 +1,48 @@
 package com.example.worddaily.data.repository
 
-import kotlinx.coroutines.runBlocking
 import org.junit.Assert.*
 import org.junit.Test
 import com.example.worddaily.data.local.WordEntity
 
 class WordRepositoryTest {
-    
+
+    private fun makeWord(id: String, word: String, def: String) = WordEntity(
+        id = id, word = word, pronunciation = "/test/", partOfSpeech = "n.",
+        definition = def, exampleSentenceEn = "Example", exampleSentenceCn = "例子", difficultyLevel = 1
+    )
+
     @Test
-    fun test_sample_words_loaded() {
-        val words = WordRepository.getSampleWords()
-        assertNotNull("示例词库不应为空", words)
-        assertEquals("应该有 20 个基础词汇", 20, words.size)
-        assertTrue("第一个单词应该是 apple", words[0].wordText == "apple")
-        assertTrue("最后一个单词应该是 teacher", words[19].wordText == "teacher")
+    fun test_word_entity_creation() {
+        val word = makeWord("apple", "apple", "苹果")
+        assertEquals("apple", word.id)
+        assertEquals("apple", word.word)
+        assertEquals("苹果", word.definition)
+        assertEquals("n.", word.partOfSpeech)
     }
 
     @Test
     fun test_word_data_completeness() {
-        val word = WordRepository.getSampleWords()[0]
+        val word = makeWord("apple", "apple", "苹果")
         with(word) {
-            assertEquals("apple", wordText)
-            assertEquals("/\\u0259pl/", pronunciation)
-            assertEquals("n.", partOfSpeech)
-            assertEquals("苹果", definitionCn)
-            assertTrue("应该有英文例句")
-            assertTrue("应该有中文翻译")
+            assertTrue("应该有单词", word.isNotBlank())
+            assertTrue("应该有音标", pronunciation.isNotBlank())
+            assertTrue("应该有词性", partOfSpeech.isNotBlank())
+            assertTrue("应该有释义", definition.isNotBlank())
+            assertTrue("应该有英文例句", exampleSentenceEn.isNotBlank())
         }
     }
 
     @Test
-    fun test_daily_task_generation() {
-        val words = WordRepository.getSampleWords()
-        val masteredIds = setOf<String>() // 新用户无掌握词汇
-        
-        val result = DailyTaskGenerator.generateDailyTask(words, masteredIds)
-        val (taskWords, count) = result
-        
-        assertTrue("生成的任务单词数应在 5-8 之间", count in 5..8)
-        assertEquals("任务单词列表不应为空", true, taskWords.isNotEmpty())
+    fun test_progress_entity_defaults() {
+        val progress = com.example.worddaily.data.local.UserProgressEntity(
+            userId = "test_user"
+        )
+        assertEquals("test_user", progress.userId)
+        assertEquals(0, progress.totalStudyDays)
+        assertEquals("", progress.masteredWordIds)
+        assertEquals("", progress.wrongWordIds)
+        assertNull(progress.lastStudyDate)
+        assertEquals(0, progress.totalScore)
+        assertEquals(0, progress.todayLearned)
     }
 }

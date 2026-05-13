@@ -8,11 +8,11 @@
     <color name="textLight">#666666</color>        <!-- 浅色文字 -->
     <color name="success">#4CAF50</color>          <!-- 成功绿 -->
     <color name="error">#FF5252</color>            <!-- 错误红 -->
-    
+
     <!-- 进度条颜色 -->
     <color name="progressPrimary">#2196F3</color>
     <color name="progressSecondary">#4CAF50</color>
-    
+
     <!-- 按钮状态色 -->
     <color name="buttonTextOnPrimary">#FFFFFF</color>
     <color name="buttonTextOnAccent">#FFFFFF</color>

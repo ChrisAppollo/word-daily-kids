@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
     // UI 组件引用
     private lateinit var tvStreakCount: TextView
     private lateinit var btnStartLearning: Button
+    private lateinit var btnReviewWrong: Button
     private lateinit var tvDailyTip: TextView
     private lateinit var homeLayout: View
     private lateinit var fragmentContainer: FrameLayout
@@ -29,6 +30,7 @@ class MainActivity : AppCompatActivity() {
     private val allWords = mutableListOf<WordEntity>()
     private val dailyTaskWords = mutableListOf<WordEntity>()
     private var masteredWordIds = setOf<String>()
+    private var wrongWordIds = setOf<String>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -56,7 +58,18 @@ class MainActivity : AppCompatActivity() {
                 .split(",")
                 .filter { it.isNotBlank() }
                 .toSet()
-            tvStreakCount.text = "🔥 连续学习 ${progress.totalStudyDays} 天\n完成 ${progress.totalScore} 个单词！"
+            wrongWordIds = progress.wrongWordIds
+                .split(",")
+                .filter { it.isNotBlank() }
+                .toSet()
+
+            tvStreakCount.text = "🔥 连续学习 ${progress.totalStudyDays} 天\n" +
+                    "已掌握 ${masteredWordIds.size} 个单词\n" +
+                    "今日学习 ${progress.todayLearned} 个"
+
+            // 如果有错题，显示错题本按钮
+            btnReviewWrong.visibility = if (wrongWordIds.isNotEmpty()) View.VISIBLE else View.GONE
+            btnReviewWrong.text = "📖 错题本 (${wrongWordIds.size}个)"
         }
     }
 
@@ -65,12 +78,18 @@ class MainActivity : AppCompatActivity() {
         fragmentContainer = findViewById(R.id.fragmentContainer)
 
         tvStreakCount = findViewById(R.id.tvStreakCount)
-        tvStreakCount.text = "🔥 连续学习 0 天\n完成 0 个单词！"
+        tvStreakCount.text = "🔥 连续学习 0 天\n已掌握 0 个单词"
 
         btnStartLearning = findViewById(R.id.btnStartLearning)
         btnStartLearning.setOnClickListener {
             startDailyLearning()
         }
+
+        btnReviewWrong = findViewById(R.id.btnReviewWrong)
+        btnReviewWrong.setOnClickListener {
+            startReviewSession()
+        }
+        btnReviewWrong.visibility = View.GONE // 默认隐藏，有错题时才显示
 
         tvDailyTip = findViewById(R.id.tvDailyTip)
         tvDailyTip.text = "💡 今日目标：学习 5-8 个新单词，坚持每天进步！"
@@ -91,19 +110,52 @@ class MainActivity : AppCompatActivity() {
             dailyTaskWords.clear()
             dailyTaskWords.addAll(taskWords)
 
-            showLearningScreen()
+            showLearningScreen(ArrayList(dailyTaskWords))
         }
     }
 
-    private fun showLearningScreen() {
+    /**
+     * 开始错题复习
+     */
+    private fun startReviewSession() {
+        if (wrongWordIds.isEmpty()) {
+            Toast.makeText(this, "没有错题，太棒了！", Toast.LENGTH_SHORT).show()
+            return
+        }
+
+        lifecycleScope.launch {
+            val wrongWords = repository.getWordsByIds(wrongWordIds)
+            if (wrongWords.isEmpty()) {
+                showError("未找到错题数据")
+                return@launch
+            }
+
+            // 错题复习也传入全部单词作为干扰项来源
+            val all = repository.getAllWords()
+            showLearningScreen(ArrayList(wrongWords), ArrayList(all))
+        }
+    }
+
+    private fun showLearningScreen(words: ArrayList<WordEntity>, allWordsList: ArrayList<WordEntity>? = null) {
         // 隐藏主界面，显示学习界面
         homeLayout.visibility = View.GONE
         fragmentContainer.visibility = View.VISIBLE
 
-        val fragment = LearningFragment.newInstance(ArrayList(dailyTaskWords))
+        val allForDistractors = allWordsList ?: ArrayList(allWords)
+        val fragment = LearningFragment.newInstance(words, allForDistractors)
         supportFragmentManager.beginTransaction()
             .replace(R.id.fragmentContainer, fragment)
             .commit()
+    }
+
+    /**
+     * 学习完成回调 - 由 LearningFragment 调用
+     */
+    fun onLearningComplete(correctIds: Set<String>, wrongIds: Set<String>) {
+        lifecycleScope.launch {
+            repository.saveLearningResult(correctIds, wrongIds)
+            showHomeScreen()
+        }
     }
 
     fun showHomeScreen() {

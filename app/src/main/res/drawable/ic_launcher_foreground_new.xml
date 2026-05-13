@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background - bright gradient circle -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M0,0 L108,0 L108,108 L0,108 Z"/>
+
+    <!-- Rounded square background -->
+    <path
+        android:fillColor="#29B6F6"
+        android:pathData="M20,10 Q10,10 10,20 L10,88 Q10,98 20,98 L88,98 Q98,98 98,88 L98,20 Q98,10 88,10 Z"/>
+
+    <!-- Inner lighter area -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M22,14 Q14,14 14,22 L14,86 Q14,94 22,94 L86,94 Q94,94 94,86 L94,22 Q94,14 86,14 Z"/>
+
+    <!-- Open book - left page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,38 L52,32 L52,75 L26,80 Z"/>
+
+    <!-- Open book - right page -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M52,32 L78,38 L78,80 L52,75 Z"/>
+
+    <!-- Book spine -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M52,32 L52,75 L54,74 L54,33 Z"/>
+
+    <!-- Book cover bottom -->
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M24,80 L52,75 L52,77 L24,82 Z"/>
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M52,75 L78,80 L78,82 L52,77 Z"/>
+
+    <!-- Book cover left -->
+    <path
+        android:fillColor="#FF8A65"
+        android:pathData="M24,38 L26,38 L26,80 L24,82 Z"/>
+
+    <!-- Book cover right -->
+    <path
+        android:fillColor="#E64A19"
+        android:pathData="M78,38 L80,38 L80,82 L78,80 Z"/>
+
+    <!-- Big letter "A" - red, on right page -->
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M58,48 L63,68 L67,68 L72,48 L67,48 L65.5,54 L64.5,54 L63,48 Z"/>
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M62,57 L68,57 L67.5,62 L62.5,62 Z"/>
+
+    <!-- Big letter "B" - blue, on left page -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M33,48 L33,68 L41,68 C45,68 47,65 47,62.5 C47,60.5 45,58.5 43,58 L33,58 M33,58 L42,58 C44,58 46,56 46,54 C46,51 44,48 41,48 Z"/>
+
+    <!-- Small letter "C" - green, bottom right -->
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M66,62 C63,60 62,63 62,65 C62,67 63,70 66,68 C68,67 69,65 69,63 C69,61 68,60 66,62"/>
+
+    <!-- Star top-left -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M25,22 L26.8,17 L28.6,22 L33,22 L29.6,24.8 L30.8,29 L27,26.6 L23.2,29 L24.4,24.8 L21,22 Z"/>
+
+    <!-- Star top-right -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M78,18 L79.5,14 L81,18 L85,18 L82,20.5 L83,24 L80,22 L77,24 L78,20.5 L75,18 Z"/>
+
+    <!-- Small star -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M88,55 L89,52 L90,55 L93,55 L91,57 L91.5,59 L89.5,58 L87.5,59 L88,57 L86,55 Z"/>
+
+    <!-- Sparkle dots -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,50 A1.5,1.5 0 1,1 21,50 A1.5,1.5 0 1,1 18,50 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M90,35 A1,1 0 1,1 92,35 A1,1 0 1,1 90,35 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M15,70 A1,1 0 1,1 17,70 A1,1 0 1,1 15,70 Z"/>
+
+    <!-- Cute smiley on the book spine area -->
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M48,44 A1.2,1.2 0 1,1 50.4,44 A1.2,1.2 0 1,1 48,44 Z"/>
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M53,44 A1.2,1.2 0 1,1 55.4,44 A1.2,1.2 0 1,1 53,44 Z"/>
+    <path
+        android:strokeColor="#4E342E"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M49,47 Q51.5,49.5 54,47"/>
+
+</vector>

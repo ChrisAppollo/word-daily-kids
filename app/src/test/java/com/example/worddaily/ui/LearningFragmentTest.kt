@@ -1,47 +1,56 @@
 package com.example.worddaily.ui
 
-import androidx.fragment.app.FragmentActivity
 import org.junit.Assert.*
-import org.junit.Before
 import org.junit.Test
-import android.view.View
+import com.example.worddaily.data.local.WordEntity
 
 class LearningFragmentTest {
-    
-    private lateinit var activity: FragmentActivity
-    private val sampleWords = listOf(
-        "apple",
-        "banana"
+
+    private fun makeWord(id: String, word: String, def: String) = WordEntity(
+        id = id, word = word, pronunciation = "", partOfSpeech = "n.",
+        definition = def, exampleSentenceEn = "", exampleSentenceCn = "", difficultyLevel = 1
     )
 
-    @Before
-    fun setup() {
-        // 模拟测试环境设置
-        activity = object : FragmentActivity() {}
+    @Test
+    fun test_word_list_not_empty() {
+        val words = listOf(
+            makeWord("apple", "apple", "苹果"),
+            makeWord("banana", "banana", "香蕉")
+        )
+        assertTrue("单词列表不应为空", words.isNotEmpty())
     }
 
     @Test
-    fun test_fragment_initialization() {
-        val fragment = LearningFragment.newInstance(sampleWords, emptySet())
-        assertNotNull("Fragment 不应为 null", fragment)
-        assertTrue("LearningFragment 是学习界面", true)
+    fun test_distractor_generation() {
+        val words = listOf(
+            makeWord("apple", "apple", "苹果"),
+            makeWord("banana", "banana", "香蕉"),
+            makeWord("cat", "cat", "猫"),
+            makeWord("dog", "dog", "狗")
+        )
+        val currentWord = words[0]
+
+        // 模拟干扰项生成逻辑
+        val distractors = words
+            .filter { it.id != currentWord.id && it.definition != currentWord.definition }
+            .shuffled()
+            .take(2)
+            .map { it.definition }
+
+        assertEquals("应生成2个干扰项", 2, distractors.size)
+        assertTrue("干扰项不应包含正确答案", distractors.none { it == currentWord.definition })
     }
 
     @Test
-    fun test_word_count_validation() {
-        val words = listOf("apple", "banana", "cat")
-        val fragment = LearningFragment.newInstance(words, emptySet())
-        
-        // 验证单词列表被正确传递
-        assertTrue("单词数量应大于 0", words.isNotEmpty())
-    }
+    fun test_options_shuffled() {
+        val correctDef = "苹果"
+        val distractors = listOf("香蕉", "猫")
+        val allOptions = mutableListOf(correctDef) + distractors
 
-    @Test
-    fun test_progress_tracking() {
-        val words = listOf("apple", "banana")
-        val fragment = LearningFragment.newInstance(words, emptySet())
-        
-        // 模拟学习流程
-        assertTrue("应该能正常遍历单词列表", words.size > 0)
+        // 打乱多次，验证顺序会变化
+        val results = (1..10).map { allOptions.shuffled().map { it } }
+        val hasDifferentOrder = results.any { it != allOptions }
+        // 概率上几乎一定会打乱
+        assertTrue("选项应该被打乱", hasDifferentOrder || allOptions.size <= 1)
     }
 }

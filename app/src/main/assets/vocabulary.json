@@ -12,175 +12,200 @@
           "phonetic": "/ɑːnt/",
           "pos": "n.",
           "definition": "姨母；姨母 姑母；伯母；婶母",
-          "example": "My aunt lives in Beijing and she often visits us."
+          "example": "My aunt lives in Beijing and she often visits us.",
+          "example_cn": "我姑妈住在北京，她经常来看我们。"
         },
         {
           "word": "brother",
           "phonetic": "/ˈbrʌðə(r)/",
           "pos": "n.",
           "definition": "兄；弟",
-          "example": "My brother is two years older than me."
+          "example": "My brother is two years older than me.",
+          "example_cn": "我哥哥比我大两岁。"
         },
         {
           "word": "cousin",
           "phonetic": "/ˈkʌzn/",
           "pos": "n.",
           "definition": "堂（表）兄弟；堂（表）姐妹",
-          "example": "I have three cousins on my mother's side."
+          "example": "I have three cousins on my mother's side.",
+          "example_cn": "我母亲那边有三个表兄弟姐妹。"
         },
         {
           "word": "couple",
           "phonetic": "/ˈkʌpl/",
           "pos": "n.",
           "definition": "夫妇",
-          "example": "A couple of birds built a nest in our tree."
+          "example": "A couple of birds built a nest in our tree.",
+          "example_cn": "几只鸟在我们的树上筑了巢。"
         },
         {
           "word": "daughter",
           "phonetic": "/ˈdɔːtə(r)/",
           "pos": "n.",
           "definition": "女儿",
-          "example": "Their daughter just started primary school."
+          "example": "Their daughter just started primary school.",
+          "example_cn": "他们的女儿刚刚上小学。"
         },
         {
           "word": "family",
           "phonetic": "/ˈfæməli/",
           "pos": "n.",
           "definition": "家；家庭；家人；亲属；家族",
-          "example": "I have a big family with many relatives."
+          "example": "I have a big family with many relatives.",
+          "example_cn": "我有一个大家庭，有很多亲戚。"
         },
         {
           "word": "father",
           "phonetic": "/ˈfɑːðə(r)/",
           "pos": "n.",
           "definition": "爸爸；父亲",
-          "example": "My father works as an engineer."
+          "example": "My father works as an engineer.",
+          "example_cn": "我父亲是一名工程师。"
         },
         {
           "word": "grandchild",
           "phonetic": "/ˈɡræntʃaɪld/",
           "pos": "n.",
           "definition": "孙子/女，外孙子/孙女",
-          "example": "She is very proud of her grandchildren."
+          "example": "She is very proud of her grandchildren.",
+          "example_cn": "她为她的孙子们感到非常自豪。"
         },
         {
           "word": "granddaughter",
           "phonetic": "/ˈɡrændɔːtə(r)/",
           "pos": "n.",
           "definition": "孙女，外孙女",
-          "example": "Their granddaughter is very talented at piano."
+          "example": "Their granddaughter is very talented at piano.",
+          "example_cn": "他们的孙女很有钢琴天赋。"
         },
         {
           "word": "grandfather",
           "phonetic": "/ˈɡrænfɑːðə(r)/",
           "pos": "n.",
           "definition": "祖父；外祖父",
-          "example": "My grandfather tells me stories about his childhood."
+          "example": "My grandfather tells me stories about his childhood.",
+          "example_cn": "我的祖父给我讲了他童年的故事。"
         },
         {
           "word": "grandma",
           "phonetic": "/ˈɡrænmɑː/",
           "pos": "n.",
           "definition": "奶奶；外婆（口语）",
-          "example": "I love visiting my grandma on weekends."
+          "example": "I love visiting my grandma on weekends.",
+          "example_cn": "我喜欢周末去看望奶奶。"
         },
         {
           "word": "grandmother",
           "phonetic": "/ˈɡrænmʌðə(r)/",
           "pos": "n.",
           "definition": "祖母；外祖母",
-          "example": "My grandmother makes delicious dumplings."
+          "example": "My grandmother makes delicious dumplings.",
+          "example_cn": "我奶奶包的饺子很好吃。"
         },
         {
           "word": "grandpa",
           "phonetic": "/ˈɡrænpɑː/",
           "pos": "n.",
           "definition": "爷爷；外公(口语)",
-          "example": "My grandpa likes to play chess in the park."
+          "example": "My grandpa likes to play chess in the park.",
+          "example_cn": "我爷爷喜欢在公园下棋。"
         },
         {
           "word": "grandparent",
           "phonetic": "/ˈɡrænpeərənt/",
           "pos": "n.",
           "definition": "祖父母；外祖父母",
-          "example": "I spent the summer with my grandparents."
+          "example": "I spent the summer with my grandparents.",
+          "example_cn": "我和祖父母一起度过了夏天。"
         },
         {
           "word": "grandson",
           "phonetic": "/ˈɡrænsʌn/",
           "pos": "n.",
           "definition": "孙子，外孙子",
-          "example": "Their grandson is the same age as me."
+          "example": "Their grandson is the same age as me.",
+          "example_cn": "他们的孙子和我同岁。"
         },
         {
           "word": "granny",
           "phonetic": "/ˈɡræni/",
           "pos": "n.",
           "definition": "老奶奶",
-          "example": "Granny always has candy in her pocket."
+          "example": "Granny always has candy in her pocket.",
+          "example_cn": "奶奶的口袋里总是有糖果。"
         },
         {
           "word": "husband",
           "phonetic": "/ˈhʌzbənd/",
           "pos": "n.",
           "definition": "丈夫",
-          "example": "Her husband is a doctor at the local hospital."
+          "example": "Her husband is a doctor at the local hospital.",
+          "example_cn": "她的丈夫是当地医院的医生。"
         },
         {
           "word": "Mom",
           "phonetic": "/mɒm/",
           "pos": "n.",
           "definition": "(美Mum) 妈妈",
-          "example": "My mom cooks the best noodles in the world."
+          "example": "My mom cooks the best noodles in the world.",
+          "example_cn": "我妈妈煮的面条是世界上最好吃的。"
         },
         {
           "word": "mother",
           "phonetic": "/ˈmʌðə(r)/",
           "pos": "n.",
           "definition": "母亲；妈妈",
-          "example": "My mother helps me with my homework every day."
+          "example": "My mother helps me with my homework every day.",
+          "example_cn": "我妈妈每天都会辅导我做作业。"
         },
         {
           "word": "parent",
           "phonetic": "/ˈpeərənt/",
           "pos": "n.",
           "definition": "父母亲",
-          "example": "Every parent wants the best for their children."
+          "example": "Every parent wants the best for their children.",
+          "example_cn": "每个父母都希望给自己的孩子最好的。"
         },
         {
           "word": "relation",
           "phonetic": "/rɪˈleɪʃn/",
           "pos": "n.",
           "definition": "关系；亲属关系",
-          "example": "We have a close relation with our neighbors."
+          "example": "We have a close relation with our neighbors.",
+          "example_cn": "我们与邻国关系密切。"
         },
         {
           "word": "sister",
           "phonetic": "/ˈsɪstə(r)/",
           "pos": "n.",
           "definition": "姐；妹",
-          "example": "My sister and I share a bedroom."
+          "example": "My sister and I share a bedroom.",
+          "example_cn": "我和姐姐共用一间卧室。"
         },
         {
           "word": "son",
           "phonetic": "/sʌn/",
           "pos": "n.",
           "definition": "儿子",
-          "example": "Their son is studying abroad in England."
+          "example": "Their son is studying abroad in England.",
+          "example_cn": "他们的儿子正在英国留学。"
         },
         {
           "word": "uncle",
           "phonetic": "/ˈʌŋkl/",
           "pos": "n.",
           "definition": "叔；伯；舅；姨夫；姑夫",
-          "example": "My uncle bought me a new bicycle."
+          "example": "My uncle bought me a new bicycle.",
+          "example_cn": "我叔叔给我买了一辆新自行车。"
         },
         {
           "word": "wife",
           "phonetic": "/waɪf/",
           "pos": "n.",
           "definition": "妻子",
-          "example": "His wife is a famous singer."
+          "example": "His wife is a famous singer.",
+          "example_cn": "他的妻子是一位著名歌手。"
         }
       ]
     },
@@ -193,238 +218,272 @@
           "phonetic": "/bɒs/",
           "pos": "n.",
           "definition": "老板",
-          "example": "The boss gave everyone a day off."
+          "example": "The boss gave everyone a day off.",
+          "example_cn": "老板给大家放了一天假。"
         },
         {
           "word": "captain",
           "phonetic": "/ˈkæptɪn/",
           "pos": "n.",
           "definition": "船长，队长",
-          "example": "The captain led his team to victory."
+          "example": "The captain led his team to victory.",
+          "example_cn": "队长带领他的球队取得了胜利。"
         },
         {
           "word": "chairman",
           "phonetic": "/ˈtʃeəmən/",
           "pos": "n.",
           "definition": "主席",
-          "example": "The chairman called the meeting to order."
+          "example": "The chairman called the meeting to order.",
+          "example_cn": "主席宣布召开会议。"
         },
         {
           "word": "coach",
           "phonetic": "/kəʊtʃ/",
           "pos": "n.",
           "definition": "教练；",
-          "example": "Our coach teaches us how to play basketball."
+          "example": "Our coach teaches us how to play basketball.",
+          "example_cn": "我们的教练教我们如何打篮球。"
         },
         {
           "word": "cook",
           "phonetic": "/kʊk/",
           "pos": "n./v.",
           "definition": "厨师",
-          "example": "The cook prepared a delicious meal for us."
+          "example": "The cook prepared a delicious meal for us.",
+          "example_cn": "厨师为我们准备了美味的饭菜。"
         },
         {
           "word": "dentist",
           "phonetic": "/ˈdentɪst/",
           "pos": "n.",
           "definition": "牙医",
-          "example": "I visit the dentist twice a year."
+          "example": "I visit the dentist twice a year.",
+          "example_cn": "我每年去看两次牙医。"
         },
         {
           "word": "director",
           "phonetic": "/dəˈrektə(r)/",
           "pos": "n.",
           "definition": "主管，负责人",
-          "example": "The school director gave an important speech."
+          "example": "The school director gave an important speech.",
+          "example_cn": "学校校长作重要讲话。"
         },
         {
           "word": "doctor",
           "phonetic": "/ˈdɒktə(r)/",
           "pos": "n.",
           "definition": "医生",
-          "example": "You should see a doctor if you feel sick."
+          "example": "You should see a doctor if you feel sick.",
+          "example_cn": "如果您感觉不舒服，您应该去看医生。"
         },
         {
           "word": "driver",
           "phonetic": "/ˈdraɪvə(r)/",
           "pos": "n.",
           "definition": "驾驶员；司机",
-          "example": "The bus driver was very friendly."
+          "example": "The bus driver was very friendly.",
+          "example_cn": "巴士司机非常友好。"
         },
         {
           "word": "engineer",
           "phonetic": "/ˌendʒɪˈnɪə(r)/",
           "pos": "n.",
           "definition": "工程师",
-          "example": "My father is an engineer who builds bridges."
+          "example": "My father is an engineer who builds bridges.",
+          "example_cn": "我的父亲是一名建造桥梁的工程师。"
         },
         {
           "word": "farmer",
           "phonetic": "/ˈfɑːmə(r)/",
           "pos": "n.",
           "definition": "农民",
-          "example": "The farmer grows wheat and corn on his land."
+          "example": "The farmer grows wheat and corn on his land.",
+          "example_cn": "农民在他的土地上种植小麦和玉米。"
         },
         {
           "word": "fisherman",
           "phonetic": "/ˈfɪʃəmən/",
           "pos": "n.",
           "definition": "渔民；渔夫",
-          "example": "The fisherman caught a big fish this morning."
+          "example": "The fisherman caught a big fish this morning.",
+          "example_cn": "今天早上渔夫钓到了一条大鱼。"
         },
         {
           "word": "guard",
           "phonetic": "/ɡɑːd/",
           "pos": "n./v.",
           "definition": "看守，卫兵",
-          "example": "The guard checks everyone's ID at the gate."
+          "example": "The guard checks everyone's ID at the gate.",
+          "example_cn": "门卫在门口检查每个人的身份证。"
         },
         {
           "word": "king",
           "phonetic": "/kɪŋ/",
           "pos": "n.",
           "definition": "国王",
-          "example": "The king ruled the country for fifty years."
+          "example": "The king ruled the country for fifty years.",
+          "example_cn": "国王统治这个国家五十年。"
         },
         {
           "word": "leader",
           "phonetic": "/ˈliːdə(r)/",
           "pos": "n.",
           "definition": "领导者；指挥者",
-          "example": "She is a natural leader in our class."
+          "example": "She is a natural leader in our class.",
+          "example_cn": "她是我们班天生的领导者。"
         },
         {
           "word": "manager",
           "phonetic": "/ˈmænɪdʒə(r)/",
           "pos": "n.",
           "definition": "经理，管理人",
-          "example": "The manager approved our project plan."
+          "example": "The manager approved our project plan.",
+          "example_cn": "经理批准了我们的项目计划。"
         },
         {
           "word": "monitor",
           "phonetic": "/ˈmɒnɪtə(r)/",
           "pos": "n.",
           "definition": "班长，纠察生；",
-          "example": "Our class monitor helps the teacher every day."
+          "example": "Our class monitor helps the teacher every day.",
+          "example_cn": "我们的班长每天都会帮助老师。"
         },
         {
           "word": "nurse",
           "phonetic": "/nɜːs/",
           "pos": "n.",
           "definition": "护士，保育员",
-          "example": "The nurse took good care of the patients."
+          "example": "The nurse took good care of the patients.",
+          "example_cn": "护士把病人照顾得很好。"
         },
         {
           "word": "officer",
           "phonetic": "/ˈɒfɪsə(r)/",
           "pos": "n.",
           "definition": "军官；公务员，官员；警察，警官",
-          "example": "The police officer helped the lost child."
+          "example": "The police officer helped the lost child.",
+          "example_cn": "警察帮助了失踪的孩子。"
         },
         {
           "word": "pilot",
           "phonetic": "/ˈpaɪlət/",
           "pos": "n.",
           "definition": "飞行员",
-          "example": "The pilot flew the plane through the storm."
+          "example": "The pilot flew the plane through the storm.",
+          "example_cn": "飞行员驾驶飞机穿过暴风雨。"
         },
         {
           "word": "police",
           "phonetic": "/pəˈliːs/",
           "pos": "n.",
           "definition": "巡警；警察",
-          "example": "The police arrived at the scene quickly."
+          "example": "The police arrived at the scene quickly.",
+          "example_cn": "警方迅速赶到现场。"
         },
         {
           "word": "policeman",
           "phonetic": "/pəˈliːsmən/",
           "pos": "n.",
           "definition": "警察",
-          "example": "The policeman directed traffic at the crossroads."
+          "example": "The policeman directed traffic at the crossroads.",
+          "example_cn": "警察在十字路口指挥交通。"
         },
         {
           "word": "postman",
           "phonetic": "/ˈpəʊstmən/",
           "pos": "n.",
           "definition": "邮递员",
-          "example": "The postman delivers letters every morning."
+          "example": "The postman delivers letters every morning.",
+          "example_cn": "邮递员每天早上都会送信。"
         },
         {
           "word": "president",
           "phonetic": "/ˈprezɪdənt/",
           "pos": "n.",
           "definition": "总统",
-          "example": "The president gave a speech on TV."
+          "example": "The president gave a speech on TV.",
+          "example_cn": "总统在电视上发表讲话。"
         },
         {
           "word": "pupil",
           "phonetic": "/ˈpjuːpl/",
           "pos": "n.",
           "definition": "小学生",
-          "example": "Every pupil must finish their homework on time."
+          "example": "Every pupil must finish their homework on time.",
+          "example_cn": "每个学生都必须按时完成作业。"
         },
         {
           "word": "queen",
           "phonetic": "/kwiːn/",
           "pos": "n.",
           "definition": "女王；王后",
-          "example": "The queen waved to the crowd from her balcony."
+          "example": "The queen waved to the crowd from her balcony.",
+          "example_cn": "女王在阳台上向人群挥手致意。"
         },
         {
           "word": "scientist",
           "phonetic": "/ˈsaɪəntɪst/",
           "pos": "n.",
           "definition": "科学家",
-          "example": "The scientist discovered a new species."
+          "example": "The scientist discovered a new species.",
+          "example_cn": "这位科学家发现了一个新物种。"
         },
         {
           "word": "servant",
           "phonetic": "/ˈsɜːvənt/",
           "pos": "n.",
           "definition": "佣人，仆人",
-          "example": "The servant prepared tea for the guests."
+          "example": "The servant prepared tea for the guests.",
+          "example_cn": "仆人为客人准备茶水。"
         },
         {
           "word": "secretary",
           "phonetic": "/ˈsekrətri/",
           "pos": "n.",
           "definition": "秘书",
-          "example": "The secretary arranged the meeting schedule."
+          "example": "The secretary arranged the meeting schedule.",
+          "example_cn": "秘书安排了会议日程。"
         },
         {
           "word": "soldier",
           "phonetic": "/ˈsəʊldʒə(r)/",
           "pos": "n.",
           "definition": "士兵，战士",
-          "example": "The soldier defended his country bravely."
+          "example": "The soldier defended his country bravely.",
+          "example_cn": "这位战士勇敢地保卫了自己的国家。"
         },
         {
           "word": "speaker",
           "phonetic": "/ˈspiːkə(r)/",
           "pos": "n.",
           "definition": "演讲人；演说家",
-          "example": "The speaker gave an inspiring talk."
+          "example": "The speaker gave an inspiring talk.",
+          "example_cn": "演讲者发表了鼓舞人心的演讲。"
         },
         {
           "word": "student",
           "phonetic": "/ˈstjuːdənt/",
           "pos": "n.",
           "definition": "学生",
-          "example": "Every student should study hard."
+          "example": "Every student should study hard.",
+          "example_cn": "每个学生都应该努力学习。"
         },
         {
           "word": "teacher",
           "phonetic": "/ˈtiːtʃə(r)/",
           "pos": "n.",
           "definition": "教师，教员",
-          "example": "My teacher explains math problems very clearly."
+          "example": "My teacher explains math problems very clearly.",
+          "example_cn": "我的老师非常清楚地解释了数学问题。"
         },
         {
           "word": "worker",
           "phonetic": "/ˈwɜːkə(r)/",
           "pos": "n.",
           "definition": "工人；工作者",
-          "example": "The factory worker makes toys for children."
+          "example": "The factory worker makes toys for children.",
+          "example_cn": "工厂工人为孩子们制作玩具。"
         }
       ]
     },
@@ -437,252 +496,288 @@
           "phonetic": "/ˈbɑːskɪt/",
           "pos": "n.",
           "definition": "篮子",
-          "example": "She put the apples in a wicker basket."
+          "example": "She put the apples in a wicker basket.",
+          "example_cn": "她把苹果放在柳条篮里。"
         },
         {
           "word": "bed",
           "phonetic": "/bed/",
           "pos": "n.",
           "definition": "床",
-          "example": "I like to read books before going to bed."
+          "example": "I like to read books before going to bed.",
+          "example_cn": "我喜欢在睡觉前看书。"
         },
         {
           "word": "box",
           "phonetic": "/bɒks/",
           "pos": "n.",
           "definition": "盒子，箱子",
-          "example": "Please put the toys back in the box."
+          "example": "Please put the toys back in the box.",
+          "example_cn": "请把玩具放回盒子里。"
         },
         {
           "word": "bottle",
           "phonetic": "/ˈbɒtl/",
           "pos": "n.",
           "definition": "瓶子",
-          "example": "There is a bottle of water on the table."
+          "example": "There is a bottle of water on the table.",
+          "example_cn": "桌子上有一瓶水。"
         },
         {
           "word": "brush",
           "phonetic": "/brʌʃ/",
           "pos": "n./v.",
           "definition": "刷子",
-          "example": "I use a brush to paint pictures."
+          "example": "I use a brush to paint pictures.",
+          "example_cn": "我用画笔画画。"
         },
         {
           "word": "chair",
           "phonetic": "/tʃeə(r)/",
           "pos": "n.",
           "definition": "椅子",
-          "example": "Please take a seat on that chair."
+          "example": "Please take a seat on that chair.",
+          "example_cn": "请在那张椅子上坐下。"
         },
         {
           "word": "can",
           "phonetic": "/kæn/",
           "pos": "n./v./aux.",
           "definition": "(美）罐头，罐子",
-          "example": "I opened a can of soup for lunch."
+          "example": "I opened a can of soup for lunch.",
+          "example_cn": "我打开一罐汤当午餐。"
         },
         {
           "word": "candle",
           "phonetic": "/ˈkændl/",
           "pos": "n.",
           "definition": "蜡烛",
-          "example": "We lit a candle when the power went out."
+          "example": "We lit a candle when the power went out.",
+          "example_cn": "停电后我们点了一支蜡烛。"
         },
         {
           "word": "clock",
           "phonetic": "/klɒk/",
           "pos": "n.",
           "definition": "钟",
-          "example": "The clock on the wall shows three o'clock."
+          "example": "The clock on the wall shows three o'clock.",
+          "example_cn": "墙上的时钟显示三点钟。"
         },
         {
           "word": "cover",
           "phonetic": "/ˈkʌvə(r)/",
           "pos": "n./v.",
           "definition": "盖子，罩",
-          "example": "Put the cover on the pot to keep the food warm."
+          "example": "Put the cover on the pot to keep the food warm.",
+          "example_cn": "将锅盖盖在锅上以保持食物温暖。"
         },
         {
           "word": "desk",
           "phonetic": "/desk/",
           "pos": "n.",
           "definition": "书桌；办公桌",
-          "example": "My desk is always full of books."
+          "example": "My desk is always full of books.",
+          "example_cn": "我的桌子上总是摆满了书。"
         },
         {
           "word": "drawer",
           "phonetic": "/ˈdrɔː(r)/",
           "pos": "n.",
           "definition": "抽屉",
-          "example": "I keep my pencils in the top drawer."
+          "example": "I keep my pencils in the top drawer.",
+          "example_cn": "我把铅笔放在最上面的抽屉里。"
         },
         {
           "word": "furniture",
           "phonetic": "/ˈfɜːnɪtʃə(r)/",
           "pos": "n.",
           "definition": "家具",
-          "example": "We bought new furniture for the living room."
+          "example": "We bought new furniture for the living room.",
+          "example_cn": "我们为客厅买了新家具。"
         },
         {
           "word": "handbag",
           "phonetic": "/ˈhændbæɡ/",
           "pos": "n.",
           "definition": "手提包",
-          "example": "She left her handbag on the bus."
+          "example": "She left her handbag on the bus.",
+          "example_cn": "她把手提包落在公共汽车上。"
         },
         {
           "word": "iron",
           "phonetic": "/ˈaɪən/",
           "pos": "n./v.",
           "definition": "熨斗",
-          "example": "The gate is made of iron."
+          "example": "The gate is made of iron.",
+          "example_cn": "门是铁制的。"
         },
         {
           "word": "key",
           "phonetic": "/kiː/",
           "pos": "n.",
           "definition": "钥匙，键",
-          "example": "I lost my key and couldn't enter the house."
+          "example": "I lost my key and couldn't enter the house.",
+          "example_cn": "我丢了钥匙，无法进屋。"
         },
         {
           "word": "lamp",
           "phonetic": "/læmp/",
           "pos": "n.",
           "definition": "灯",
-          "example": "The lamp on the desk gives soft light."
+          "example": "The lamp on the desk gives soft light.",
+          "example_cn": "书桌上的灯发出柔和的光线。"
         },
         {
           "word": "lock",
           "phonetic": "/lɒk/",
           "pos": "n./v.",
           "definition": "锁",
-          "example": "Don't forget to lock the door when you leave."
+          "example": "Don't forget to lock the door when you leave.",
+          "example_cn": "离开时别忘了锁门。"
         },
         {
           "word": "mirror",
           "phonetic": "/ˈmɪrə(r)/",
           "pos": "n.",
           "definition": "镜子",
-          "example": "She looked at herself in the mirror."
+          "example": "She looked at herself in the mirror.",
+          "example_cn": "她看着镜子里的自己。"
         },
         {
           "word": "picture",
           "phonetic": "/ˈpɪktʃə(r)/",
           "pos": "n.",
           "definition": "图片,画片，照片",
-          "example": "There is a beautiful picture on the wall."
+          "example": "There is a beautiful picture on the wall.",
+          "example_cn": "墙上挂着一幅美丽的图画。"
         },
         {
           "word": "rope",
           "phonetic": "/rəʊp/",
           "pos": "n.",
           "definition": "粗绳；绳索",
-          "example": "The climber tied a rope around his waist."
+          "example": "The climber tied a rope around his waist.",
+          "example_cn": "登山者在腰间系了一根绳子。"
         },
         {
           "word": "rubbish",
           "phonetic": "/ˈrʌbɪʃ/",
           "pos": "n.",
           "definition": "垃圾；废物",
-          "example": "Please throw the rubbish into the bin."
+          "example": "Please throw the rubbish into the bin.",
+          "example_cn": "请将垃圾扔进垃圾桶。"
         },
         {
           "word": "safe",
           "phonetic": "/seɪf/",
           "pos": "adj./n.",
           "definition": "保险箱",
-          "example": "Keep your valuables in the safe."
+          "example": "Keep your valuables in the safe.",
+          "example_cn": "将您的贵重物品存放在保险箱中。"
         },
         {
           "word": "shelf",
           "phonetic": "/ʃelf/",
           "pos": "n.",
           "definition": "架子(复shelves)",
-          "example": "The books are neatly arranged on the shelf."
+          "example": "The books are neatly arranged on the shelf.",
+          "example_cn": "书架上的书整齐地排列着。"
         },
         {
           "word": "shower",
           "phonetic": "/ˈʃaʊə(r)/",
           "pos": "n.",
           "definition": "淋浴",
-          "example": "I take a shower every morning."
+          "example": "I take a shower every morning.",
+          "example_cn": "我每天早上都会洗澡。"
         },
         {
           "word": "soap",
           "phonetic": "/səʊp/",
           "pos": "n.",
           "definition": "肥皂",
-          "example": "Wash your hands with soap and water."
+          "example": "Wash your hands with soap and water.",
+          "example_cn": "用肥皂和水洗手。"
         },
         {
           "word": "sofa",
           "phonetic": "/ˈsəʊfə/",
           "pos": "n.",
           "definition": "沙发",
-          "example": "The cat is sleeping on the sofa."
+          "example": "The cat is sleeping on the sofa.",
+          "example_cn": "猫正在沙发上睡觉。"
         },
         {
           "word": "stick",
           "phonetic": "/stɪk/",
           "pos": "n./v.",
           "definition": "木棍；手杖；枝条",
-          "example": "The old man walks with a wooden stick."
+          "example": "The old man walks with a wooden stick.",
+          "example_cn": "老人拄着木棍走路。"
         },
         {
           "word": "table",
           "phonetic": "/ˈteɪbl/",
           "pos": "n.",
           "definition": "桌子",
-          "example": "We eat dinner at the dining table."
+          "example": "We eat dinner at the dining table.",
+          "example_cn": "我们在餐桌上吃晚饭。"
         },
         {
           "word": "thing",
           "phonetic": "/θɪŋ/",
           "pos": "n.",
           "definition": "事；东西，物（复数）局面；",
-          "example": "What is that strange thing in the box?"
+          "example": "What is that strange thing in the box?",
+          "example_cn": "盒子里那个奇怪的东西是什么？"
         },
         {
           "word": "thread",
           "phonetic": "/θred/",
           "pos": "n.",
           "definition": "线",
-          "example": "She used a needle and thread to sew the button."
+          "example": "She used a needle and thread to sew the button.",
+          "example_cn": "她用针和线缝了纽扣。"
         },
         {
           "word": "toothbrush",
           "phonetic": "/ˈtuːθbrʌʃ/",
           "pos": "n.",
           "definition": "牙刷",
-          "example": "Remember to change your toothbrush every three months."
+          "example": "Remember to change your toothbrush every three months.",
+          "example_cn": "记住每三个月更换一次牙刷。"
         },
         {
           "word": "toothpaste",
           "phonetic": "/ˈtuːθpeɪst/",
           "pos": "n.",
           "definition": "牙膏",
-          "example": "Squeeze some toothpaste onto your brush."
+          "example": "Squeeze some toothpaste onto your brush.",
+          "example_cn": "将一些牙膏挤到刷子上。"
         },
         {
           "word": "towel",
           "phonetic": "/ˈtaʊəl/",
           "pos": "n.",
           "definition": "浴巾，毛巾",
-          "example": "Dry your hands with a clean towel."
+          "example": "Dry your hands with a clean towel.",
+          "example_cn": "用干净的毛巾擦干双手。"
         },
         {
           "word": "umbrella",
           "phonetic": "/ʌmˈbrelə/",
           "pos": "n.",
           "definition": "雨伞；伞",
-          "example": "Take an umbrella in case it rains."
+          "example": "Take an umbrella in case it rains.",
+          "example_cn": "带上雨伞，以防下雨。"
         },
         {
           "word": "watch",
           "phonetic": "/wɒtʃ/",
           "pos": "n./v.",
           "definition": "手表",
-          "example": "My watch stopped working yesterday."
+          "example": "My watch stopped working yesterday.",
+          "example_cn": "我的手表昨天停止走动了。"
         }
       ]
     },
@@ -695,175 +790,200 @@
           "phonetic": "/bæɡ/",
           "pos": "n.",
           "definition": "书包；提包；口袋",
-          "example": "She packed her books into her school bag."
+          "example": "She packed her books into her school bag.",
+          "example_cn": "她把书装进书包里。"
         },
         {
           "word": "ball",
           "phonetic": "/bɔːl/",
           "pos": "n.",
           "definition": "球",
-          "example": "The children are playing with a ball in the yard."
+          "example": "The children are playing with a ball in the yard.",
+          "example_cn": "孩子们正在院子里玩球。"
         },
         {
           "word": "balloon",
           "phonetic": "/bəˈluːn/",
           "pos": "n.",
           "definition": "气球",
-          "example": "We filled the room with colorful balloons."
+          "example": "We filled the room with colorful balloons.",
+          "example_cn": "我们在房间里装满了五颜六色的气球。"
         },
         {
           "word": "card",
           "phonetic": "/kɑːd/",
           "pos": "n.",
           "definition": "纸牌",
-          "example": "She sent me a birthday card last week."
+          "example": "She sent me a birthday card last week.",
+          "example_cn": "她上周给我寄了一张生日贺卡。"
         },
         {
           "word": "chess",
           "phonetic": "/tʃes/",
           "pos": "n.",
           "definition": "棋",
-          "example": "My grandpa taught me how to play chess."
+          "example": "My grandpa taught me how to play chess.",
+          "example_cn": "我的爷爷教我如何下棋。"
         },
         {
           "word": "crayon",
           "phonetic": "/ˈkreɪən/",
           "pos": "n.",
           "definition": "蜡笔",
-          "example": "The child drew a rainbow with crayons."
+          "example": "The child drew a rainbow with crayons.",
+          "example_cn": "孩子用蜡笔画了一条彩虹。"
         },
         {
           "word": "diary",
           "phonetic": "/ˈdaɪəri/",
           "pos": "n.",
           "definition": "日记；日记簿",
-          "example": "I write in my diary every night before bed."
+          "example": "I write in my diary every night before bed.",
+          "example_cn": "我每天晚上睡觉前都会写日记。"
         },
         {
           "word": "dictionary",
           "phonetic": "/ˈdɪkʃənri/",
           "pos": "n.",
           "definition": "字典，词典",
-          "example": "Look up the word in the dictionary."
+          "example": "Look up the word in the dictionary.",
+          "example_cn": "在字典中查一下这个词。"
         },
         {
           "word": "doll",
           "phonetic": "/dɒl/",
           "pos": "n.",
           "definition": "玩偶，玩具娃娃",
-          "example": "The little girl loves her new doll."
+          "example": "The little girl loves her new doll.",
+          "example_cn": "小女孩很喜欢她的新洋娃娃。"
         },
         {
           "word": "eraser",
           "phonetic": "/ɪˈreɪzə(r)/",
           "pos": "n.",
           "definition": "橡皮",
-          "example": "I need an eraser to correct my mistake."
+          "example": "I need an eraser to correct my mistake.",
+          "example_cn": "我需要一块橡皮擦来纠正我的错误。"
         },
         {
           "word": "gift",
           "phonetic": "/ɡɪft/",
           "pos": "n.",
           "definition": "礼物；赠品",
-          "example": "Thank you for the wonderful birthday gift!"
+          "example": "Thank you for the wonderful birthday gift!",
+          "example_cn": "谢谢你送来的美妙的生日礼物！"
         },
         {
           "word": "gun",
           "phonetic": "/ɡʌn/",
           "pos": "n.",
           "definition": "枪",
-          "example": "Toy guns are not allowed in school."
+          "example": "Toy guns are not allowed in school.",
+          "example_cn": "学校不允许携带玩具枪。"
         },
         {
           "word": "ink",
           "phonetic": "/ɪŋk/",
           "pos": "n.",
           "definition": "墨水",
-          "example": "The pen ran out of ink during the exam."
+          "example": "The pen ran out of ink during the exam.",
+          "example_cn": "考试时笔没墨水了。"
         },
         {
           "word": "kite",
           "phonetic": "/kaɪt/",
           "pos": "n.",
           "definition": "风筝",
-          "example": "We flew a kite in the park on Sunday."
+          "example": "We flew a kite in the park on Sunday.",
+          "example_cn": "星期天我们在公园里放风筝。"
         },
         {
           "word": "notebook",
           "phonetic": "/ˈnəʊtbʊk/",
           "pos": "n.",
           "definition": "笔记簿",
-          "example": "I take notes in my notebook during class."
+          "example": "I take notes in my notebook during class.",
+          "example_cn": "上课时我在笔记本上做笔记。"
         },
         {
           "word": "paper",
           "phonetic": "/ˈpeɪpə(r)/",
           "pos": "n.",
           "definition": "纸",
-          "example": "Please write your answer on the paper."
+          "example": "Please write your answer on the paper.",
+          "example_cn": "请将你的答案写在纸上。"
         },
         {
           "word": "pen",
           "phonetic": "/pen/",
           "pos": "n.",
           "definition": "钢笔",
-          "example": "A good pen makes writing more enjoyable."
+          "example": "A good pen makes writing more enjoyable.",
+          "example_cn": "一支好笔，让书写变得更加愉快。"
         },
         {
           "word": "pencil",
           "phonetic": "/ˈpensl/",
           "pos": "n.",
           "definition": "铅笔",
-          "example": "Sharpen your pencil before the test."
+          "example": "Sharpen your pencil before the test.",
+          "example_cn": "考试前削尖铅笔。"
         },
         {
           "word": "postcard",
           "phonetic": "/ˈpəʊstkɑːd/",
           "pos": "n.",
           "definition": "明信片",
-          "example": "I sent a postcard from Paris to my friend."
+          "example": "I sent a postcard from Paris to my friend.",
+          "example_cn": "我从巴黎给我的朋友寄了一张明信片。"
         },
         {
           "word": "ruler",
           "phonetic": "/ˈruːlə(r)/",
           "pos": "n.",
           "definition": "尺；直尺",
-          "example": "Use a ruler to draw a straight line."
+          "example": "Use a ruler to draw a straight line.",
+          "example_cn": "使用尺子画一条直线。"
         },
         {
           "word": "schoolbag",
           "phonetic": "/ˈskuːlbæɡ/",
           "pos": "n.",
           "definition": "书包",
-          "example": "My schoolbag is very heavy with all these books."
+          "example": "My schoolbag is very heavy with all these books.",
+          "example_cn": "我的书包里装满了这些书，很重。"
         },
         {
           "word": "stamp",
           "phonetic": "/stæmp/",
           "pos": "n./v.",
           "definition": "邮票",
-          "example": "Collecting stamps is an interesting hobby."
+          "example": "Collecting stamps is an interesting hobby.",
+          "example_cn": "收集邮票是一个有趣的爱好。"
         },
         {
           "word": "tape",
           "phonetic": "/teɪp/",
           "pos": "n.",
           "definition": "录音带；带子",
-          "example": "I used tape to fix the torn paper."
+          "example": "I used tape to fix the torn paper.",
+          "example_cn": "我用胶带把撕破的纸固定起来。"
         },
         {
           "word": "toy",
           "phonetic": "/tɔɪ/",
           "pos": "n.",
           "definition": "玩具",
-          "example": "The toy store has many new arrivals."
+          "example": "The toy store has many new arrivals.",
+          "example_cn": "这家玩具店有很多新货。"
         },
         {
           "word": "tool",
           "phonetic": "/tuːl/",
           "pos": "n.",
           "definition": "工具",
-          "example": "A hammer is a useful tool for building things."
+          "example": "A hammer is a useful tool for building things.",
+          "example_cn": "锤子是建造东西的有用工具。"
         }
       ]
     },
@@ -876,91 +996,104 @@
           "phonetic": "/bel/",
           "pos": "n.",
           "definition": "钟；铃;钟（铃）声；钟形物",
-          "example": "The school bell rang at the end of class."
+          "example": "The school bell rang at the end of class.",
+          "example_cn": "下课铃声响起。"
         },
         {
           "word": "blackboard",
           "phonetic": "/ˈblækbɔːd/",
           "pos": "n.",
           "definition": "黑板",
-          "example": "The teacher wrote the answer on the blackboard."
+          "example": "The teacher wrote the answer on the blackboard.",
+          "example_cn": "老师把答案写在黑板上。"
         },
         {
           "word": "chalk",
           "phonetic": "/tʃɔːk/",
           "pos": "n.",
           "definition": "粉笔",
-          "example": "The teacher wrote with a piece of chalk."
+          "example": "The teacher wrote with a piece of chalk.",
+          "example_cn": "老师用粉笔写字。"
         },
         {
           "word": "class",
           "phonetic": "/klɑːs/",
           "pos": "n.",
           "definition": "班级",
-          "example": "Our class has thirty students."
+          "example": "Our class has thirty students.",
+          "example_cn": "我们班有三十名学生。"
         },
         {
           "word": "classroom",
           "phonetic": "/ˈklɑːsruːm/",
           "pos": "n.",
           "definition": "教室",
-          "example": "The classroom was clean and bright."
+          "example": "The classroom was clean and bright.",
+          "example_cn": "教室干净、明亮。"
         },
         {
           "word": "desk",
           "phonetic": "/desk/",
           "pos": "n.",
           "definition": "书桌，写字台",
-          "example": "My desk is always full of books."
+          "example": "My desk is always full of books.",
+          "example_cn": "我的桌子上总是摆满了书。"
         },
         {
           "word": "group",
           "phonetic": "/ɡruːp/",
           "pos": "n.",
           "definition": "小组",
-          "example": "We worked in a group of four."
+          "example": "We worked in a group of four.",
+          "example_cn": "我们四人一组工作。"
         },
         {
           "word": "lesson",
           "phonetic": "/ˈlesn/",
           "pos": "n.",
           "definition": "课，教训",
-          "example": "Today's lesson was about ancient history."
+          "example": "Today's lesson was about ancient history.",
+          "example_cn": "今天的课是关于古代历史的。"
         },
         {
           "word": "office",
           "phonetic": "/ˈɒfɪs/",
           "pos": "n.",
           "definition": "办公室；办公楼",
-          "example": "The teachers' office is on the second floor."
+          "example": "The teachers' office is on the second floor.",
+          "example_cn": "教师办公室在二楼。"
         },
         {
           "word": "playground",
           "phonetic": "/ˈpleɪɡraʊnd/",
           "pos": "n.",
           "definition": "运动场；操场",
-          "example": "The children are playing on the playground."
+          "example": "The children are playing on the playground.",
+          "example_cn": "孩子们正在操场上玩耍。"
         },
         {
           "word": "row",
           "phonetic": "/rəʊ/",
           "pos": "n./v.",
           "definition": "一排；一行；一列",
-          "example": "We sat in the front row of the theater."
+          "example": "We sat in the front row of the theater.",
+          "example_cn": "我们坐在剧院的前排。"
         },
         {
           "word": "school",
           "phonetic": "/skuːl/",
           "pos": "n.",
           "definition": "学校",
-          "example": "I walk to school every day."
+          "example": "I walk to school every day.",
+          "example_cn": "我每天步行去学校。"
         },
         {
           "word": "seat",
           "phonetic": "/siːt/",
           "pos": "n.",
           "definition": "座位",
-          "example": "Please take your seat and open your books."
+          "example": "Please take your seat and open your books.",
+          "example_cn": "请入座并打开书本。"
         }
       ]
     },
@@ -973,301 +1106,344 @@
           "phonetic": "/ˈæksent/",
           "pos": "n.",
           "definition": "口音，重音",
-          "example": "She speaks English with a British accent."
+          "example": "She speaks English with a British accent.",
+          "example_cn": "她说英语带有英国口音。"
         },
         {
           "word": "answer",
           "phonetic": "/ˈɑːnsə(r)/",
           "pos": "n./v.",
           "definition": "回答；答复",
-          "example": "Please raise your hand if you know the answer."
+          "example": "Please raise your hand if you know the answer.",
+          "example_cn": "知道答案的请举手。"
         },
         {
           "word": "composition",
           "phonetic": "/ˌkɒmpəˈzɪʃn/",
           "pos": "n.",
           "definition": "作文，作曲",
-          "example": "I wrote a composition about my summer vacation."
+          "example": "I wrote a composition about my summer vacation.",
+          "example_cn": "我写了一篇关于我暑假的作文。"
         },
         {
           "word": "conversation",
           "phonetic": "/ˌkɒnvəˈseɪʃn/",
           "pos": "n.",
           "definition": "对话",
-          "example": "We had a pleasant conversation over coffee."
+          "example": "We had a pleasant conversation over coffee.",
+          "example_cn": "我们边喝咖啡边聊得很愉快。"
         },
         {
           "word": "dialogue",
           "phonetic": "/ˈdaɪəlɒɡ/",
           "pos": "n.",
           "definition": "对话",
-          "example": "The dialogue in the play was very moving."
+          "example": "The dialogue in the play was very moving.",
+          "example_cn": "剧中的对话非常感人。"
         },
         {
           "word": "difficulty",
           "phonetic": "/ˈdɪfɪkəlti/",
           "pos": "n.",
           "definition": "困难，难处",
-          "example": "I had difficulty understanding the math problem."
+          "example": "I had difficulty understanding the math problem.",
+          "example_cn": "我很难理解数学问题。"
         },
         {
           "word": "discussion",
           "phonetic": "/dɪˈskʌʃn/",
           "pos": "n.",
           "definition": "讨论",
-          "example": "We had a heated discussion about the topic."
+          "example": "We had a heated discussion about the topic.",
+          "example_cn": "我们就这个话题进行了热烈的讨论。"
         },
         {
           "word": "example",
           "phonetic": "/ɪɡˈzɑːmpl/",
           "pos": "n.",
           "definition": "例子",
-          "example": "Can you give me an example of this word?"
+          "example": "Can you give me an example of this word?",
+          "example_cn": "你能给我这个词的例子吗？"
         },
         {
           "word": "fact",
           "phonetic": "/fækt/",
           "pos": "n.",
           "definition": "事实, 事件",
-          "example": "It is a fact that the Earth goes around the Sun."
+          "example": "It is a fact that the Earth goes around the Sun.",
+          "example_cn": "地球绕着太阳转是事实。"
         },
         {
           "word": "form",
           "phonetic": "/fɔːm/",
           "pos": "n./v.",
           "definition": "表，表格；",
-          "example": "Please fill in this form with your information."
+          "example": "Please fill in this form with your information.",
+          "example_cn": "请在此表格中填写您的信息。"
         },
         {
           "word": "grade",
           "phonetic": "/ɡreɪd/",
           "pos": "n.",
           "definition": "分数；成绩；",
-          "example": "She got the highest grade in the class."
+          "example": "She got the highest grade in the class.",
+          "example_cn": "她取得了班上最高的成绩。"
         },
         {
           "word": "grammar",
           "phonetic": "/ˈɡræmə(r)/",
           "pos": "n.",
           "definition": "语法",
-          "example": "English grammar can be tricky sometimes."
+          "example": "English grammar can be tricky sometimes.",
+          "example_cn": "英语语法有时可能很棘手。"
         },
         {
           "word": "handwriting",
           "phonetic": "/ˈhændraɪtɪŋ/",
           "pos": "n.",
           "definition": "字迹",
-          "example": "Your handwriting is very neat and beautiful."
+          "example": "Your handwriting is very neat and beautiful.",
+          "example_cn": "你的字迹非常工整、漂亮。"
         },
         {
           "word": "homework",
           "phonetic": "/ˈhəʊmwɜːk/",
           "pos": "n.",
           "definition": "家庭作业",
-          "example": "I have a lot of homework to do tonight."
+          "example": "I have a lot of homework to do tonight.",
+          "example_cn": "今晚我有很多作业要做。"
         },
         {
           "word": "knowledge",
           "phonetic": "/ˈnɒlɪdʒ/",
           "pos": "n.",
           "definition": "知识，学问",
-          "example": "Reading books can increase your knowledge."
+          "example": "Reading books can increase your knowledge.",
+          "example_cn": "读书可以增长知识。"
         },
         {
           "word": "language",
           "phonetic": "/ˈlæŋɡwɪdʒ/",
           "pos": "n.",
           "definition": "语言",
-          "example": "English is an international language."
+          "example": "English is an international language.",
+          "example_cn": "英语是一种国际语言。"
         },
         {
           "word": "letter",
           "phonetic": "/ˈletə(r)/",
           "pos": "n.",
           "definition": "字母",
-          "example": "I received a letter from my pen pal."
+          "example": "I received a letter from my pen pal.",
+          "example_cn": "我收到了一封来自笔友的来信。"
         },
         {
           "word": "meaning",
           "phonetic": "/ˈmiːnɪŋ/",
           "pos": "n.",
           "definition": "意思；含义；意图",
-          "example": "What is the meaning of this word?"
+          "example": "What is the meaning of this word?",
+          "example_cn": "这个词的意思是什么？"
         },
         {
           "word": "method",
           "phonetic": "/ˈmeθəd/",
           "pos": "n.",
           "definition": "方法，办法",
-          "example": "This is an effective method for learning vocabulary."
+          "example": "This is an effective method for learning vocabulary.",
+          "example_cn": "这是学习词汇的有效方法。"
         },
         {
           "word": "mistake",
           "phonetic": "/mɪˈsteɪk/",
           "pos": "n.",
           "definition": "错误",
-          "example": "Everyone makes mistakes sometimes."
+          "example": "Everyone makes mistakes sometimes.",
+          "example_cn": "每个人有时都会犯错误。"
         },
         {
           "word": "note",
           "phonetic": "/nəʊt/",
           "pos": "n./v.",
           "definition": "笔记；便笺",
-          "example": "I took notes during the lecture."
+          "example": "I took notes during the lecture.",
+          "example_cn": "我在讲座期间做了笔记。"
         },
         {
           "word": "point",
           "phonetic": "/pɔɪnt/",
           "pos": "n./v.",
           "definition": "要点",
-          "example": "That is an important point to remember."
+          "example": "That is an important point to remember.",
+          "example_cn": "这是需要记住的重要一点。"
         },
         {
           "word": "practice",
           "phonetic": "/ˈpræktɪs/",
           "pos": "n./v.",
           "definition": "实践；练习",
-          "example": "Practice makes perfect."
+          "example": "Practice makes perfect.",
+          "example_cn": "熟能生巧。"
         },
         {
           "word": "progress",
           "phonetic": "/ˈprəʊɡres/",
           "pos": "n.",
           "definition": "进步；进展；发展；前进",
-          "example": "You have made great progress this semester."
+          "example": "You have made great progress this semester.",
+          "example_cn": "这学期你进步很大。"
         },
         {
           "word": "pronunciation",
           "phonetic": "/prəˌnʌnsiˈeɪʃn/",
           "pos": "n.",
           "definition": "（单词或语言的）发音",
-          "example": "Her pronunciation of English words is excellent."
+          "example": "Her pronunciation of English words is excellent.",
+          "example_cn": "她的英语单词发音非常好。"
         },
         {
           "word": "point",
           "phonetic": "/pɔɪnt/",
           "pos": "n./v.",
           "definition": "要点",
-          "example": "That is an important point to remember."
+          "example": "That is an important point to remember.",
+          "example_cn": "这是需要记住的重要一点。"
         },
         {
           "word": "question",
           "phonetic": "/ˈkwestʃən/",
           "pos": "n./v.",
           "definition": "问题",
-          "example": "Do you have any questions about the lesson?"
+          "example": "Do you have any questions about the lesson?",
+          "example_cn": "您对课程有任何疑问吗？"
         },
         {
           "word": "reply",
           "phonetic": "/rɪˈplaɪ/",
           "pos": "n./v.",
           "definition": "回复；答复",
-          "example": "I am waiting for his reply to my email."
+          "example": "I am waiting for his reply to my email.",
+          "example_cn": "我正在等待他对我的电子邮件的回复。"
         },
         {
           "word": "research",
           "phonetic": "/rɪˈsɜːtʃ/",
           "pos": "n./v.",
           "definition": "研究；探讨",
-          "example": "Scientists do research to find new cures."
+          "example": "Scientists do research to find new cures.",
+          "example_cn": "科学家们进行研究以寻找新的治疗方法。"
         },
         {
           "word": "review",
           "phonetic": "/rɪˈvjuː/",
           "pos": "n./v.",
           "definition": "回顾；温习；复习",
-          "example": "Let's review what we learned last week."
+          "example": "Let's review what we learned last week.",
+          "example_cn": "让我们回顾一下上周学到的知识。"
         },
         {
           "word": "rule",
           "phonetic": "/ruːl/",
           "pos": "n./v.",
           "definition": "规则",
-          "example": "You must follow the school rules."
+          "example": "You must follow the school rules.",
+          "example_cn": "你必须遵守学校的规定。"
         },
         {
           "word": "score",
           "phonetic": "/skɔː(r)/",
           "pos": "n./v.",
           "definition": "得分",
-          "example": "He scored a goal in the football match."
+          "example": "He scored a goal in the football match.",
+          "example_cn": "他在足球比赛中打进一球。"
         },
         {
           "word": "search",
           "phonetic": "/sɜːtʃ/",
           "pos": "n./v.",
           "definition": "搜寻；搜查；探索",
-          "example": "I did a search on the Internet for information."
+          "example": "I did a search on the Internet for information.",
+          "example_cn": "我在互联网上搜索了一些信息。"
         },
         {
           "word": "sentence",
           "phonetic": "/ˈsentəns/",
           "pos": "n.",
           "definition": "句子",
-          "example": "Please write a sentence using this word."
+          "example": "Please write a sentence using this word.",
+          "example_cn": "请用这个词写一个句子。"
         },
         {
           "word": "speech",
           "phonetic": "/spiːtʃ/",
           "pos": "n.",
           "definition": "演讲",
-          "example": "The president gave an important speech."
+          "example": "The president gave an important speech.",
+          "example_cn": "总统发表重要讲话。"
         },
         {
           "word": "summary",
           "phonetic": "/ˈsʌməri/",
           "pos": "n.",
           "definition": "摘要，概要",
-          "example": "Write a summary of the story in fifty words."
+          "example": "Write a summary of the story in fifty words.",
+          "example_cn": "用五十字写出这个故事的概要。"
         },
         {
           "word": "term",
           "phonetic": "/tɜːm/",
           "pos": "n.",
           "definition": "学期",
-          "example": "The spring term starts in February."
+          "example": "The spring term starts in February.",
+          "example_cn": "春季学期从二月开始。"
         },
         {
           "word": "test",
           "phonetic": "/test/",
           "pos": "n./v.",
           "definition": "测验",
-          "example": "We have a spelling test every Friday."
+          "example": "We have a spelling test every Friday.",
+          "example_cn": "我们每周五有一次拼写测试。"
         },
         {
           "word": "title",
           "phonetic": "/ˈtaɪtl/",
           "pos": "n.",
           "definition": "标题，题目",
-          "example": "What is the title of this book?"
+          "example": "What is the title of this book?",
+          "example_cn": "这本书的书名是什么？"
         },
         {
           "word": "topic",
           "phonetic": "/ˈtɒpɪk/",
           "pos": "n.",
           "definition": "题目，话题",
-          "example": "The topic of today's discussion is environmental protection."
+          "example": "The topic of today's discussion is environmental protection.",
+          "example_cn": "今天讨论的话题是环境保护。"
         },
         {
           "word": "underline",
           "phonetic": "/ˌʌndəˈlaɪn/",
           "pos": "v.",
           "definition": "下划线",
-          "example": "Please underline the key words in the passage."
+          "example": "Please underline the key words in the passage.",
+          "example_cn": "请在文中的关键词下划线。"
         },
         {
           "word": "unit",
           "phonetic": "/ˈjuːnɪt/",
           "pos": "n.",
           "definition": "单元",
-          "example": "We are studying Unit Five this week."
+          "example": "We are studying Unit Five this week.",
+          "example_cn": "这周我们正在学习第五单元。"
         },
         {
           "word": "word",
           "phonetic": "/wɜːd/",
           "pos": "n.",
           "definition": "词，单词；话",
-          "example": "How do you spell this word?"
+          "example": "How do you spell this word?",
+          "example_cn": "这个词你怎么拼写？"
         }
       ]
     },
@@ -1280,84 +1456,96 @@
           "phonetic": "/kləʊn/",
           "pos": "n./v.",
           "definition": "克隆",
-          "example": "Scientists can clone animals in the laboratory."
+          "example": "Scientists can clone animals in the laboratory.",
+          "example_cn": "科学家可以在实验室中克隆动物。"
         },
         {
           "word": "development",
           "phonetic": "/dɪˈveləpmənt/",
           "pos": "n.",
           "definition": "发展",
-          "example": "The development of technology changes our lives."
+          "example": "The development of technology changes our lives.",
+          "example_cn": "技术的发展改变了我们的生活。"
         },
         {
           "word": "download",
           "phonetic": "/ˌdaʊnˈləʊd/",
           "pos": "v./n.",
           "definition": "下载（计算机用语）",
-          "example": "You can download music from the Internet."
+          "example": "You can download music from the Internet.",
+          "example_cn": "您可以从互联网下载音乐。"
         },
         {
           "word": "education",
           "phonetic": "/ˌedʒuˈkeɪʃn/",
           "pos": "n.",
           "definition": "教育",
-          "example": "Education is the key to success."
+          "example": "Education is the key to success.",
+          "example_cn": "教育是成功的关键。"
         },
         {
           "word": "experiment",
           "phonetic": "/ɪkˈsperɪmənt/",
           "pos": "n./v.",
           "definition": "实验",
-          "example": "We did an interesting experiment in chemistry class."
+          "example": "We did an interesting experiment in chemistry class.",
+          "example_cn": "我们在化学课上做了一个有趣的实验。"
         },
         {
           "word": "invention",
           "phonetic": "/ɪnˈvenʃn/",
           "pos": "n.",
           "definition": "发明物",
-          "example": "The telephone is a great invention."
+          "example": "The telephone is a great invention.",
+          "example_cn": "电话是一项伟大的发明。"
         },
         {
           "word": "influence",
           "phonetic": "/ˈɪnfluəns/",
           "pos": "n./v.",
           "definition": "影响",
-          "example": "Parents have a strong influence on their children."
+          "example": "Parents have a strong influence on their children.",
+          "example_cn": "父母对孩子有很大的影响。"
         },
         {
           "word": "information",
           "phonetic": "/ˌɪnfəˈmeɪʃn/",
           "pos": "n.",
           "definition": "信息，通知，消息",
-          "example": "You can find a lot of information on the Internet."
+          "example": "You can find a lot of information on the Internet.",
+          "example_cn": "您可以在互联网上找到很多信息。"
         },
         {
           "word": "machine",
           "phonetic": "/məˈʃiːn/",
           "pos": "n.",
           "definition": "机器",
-          "example": "The washing machine makes housework easier."
+          "example": "The washing machine makes housework easier.",
+          "example_cn": "洗衣机让家务事变得更轻松。"
         },
         {
           "word": "message",
           "phonetic": "/ˈmesɪdʒ/",
           "pos": "n.",
           "definition": "消息；信息",
-          "example": "I left a message on her phone."
+          "example": "I left a message on her phone.",
+          "example_cn": "我在她手机上留言了。"
         },
         {
           "word": "robot",
           "phonetic": "/ˈrəʊbɒt/",
           "pos": "n.",
           "definition": "机器人",
-          "example": "Robots can do many dangerous jobs for humans."
+          "example": "Robots can do many dangerous jobs for humans.",
+          "example_cn": "机器人可以为人类做许多危险的工作。"
         },
         {
           "word": "technology",
           "phonetic": "/tekˈnɒlədʒi/",
           "pos": "n.",
           "definition": "科学技术",
-          "example": "Modern technology makes life more convenient."
+          "example": "Modern technology makes life more convenient.",
+          "example_cn": "现代科技让生活更加便利。"
         }
       ]
     },
@@ -1370,91 +1558,104 @@
           "phonetic": "/kləʊðz/",
           "pos": "n.",
           "definition": "衣服，各种衣物",
-          "example": "I need to buy some new clothes for school."
+          "example": "I need to buy some new clothes for school.",
+          "example_cn": "我需要给学校买一些新衣服。"
         },
         {
           "word": "coat",
           "phonetic": "/kəʊt/",
           "pos": "n.",
           "definition": "外套",
-          "example": "Put on your coat, it's cold outside."
+          "example": "Put on your coat, it's cold outside.",
+          "example_cn": "穿上外套吧，外面很冷。"
         },
         {
           "word": "dress",
           "phonetic": "/dres/",
           "pos": "n./v.",
           "definition": "女服,连衣裙",
-          "example": "She wore a beautiful red dress to the party."
+          "example": "She wore a beautiful red dress to the party.",
+          "example_cn": "她穿着一件漂亮的红色连衣裙去参加聚会。"
         },
         {
           "word": "jacket",
           "phonetic": "/ˈdʒækɪt/",
           "pos": "n.",
           "definition": "短上衣，夹克衫",
-          "example": "I bought a new leather jacket."
+          "example": "I bought a new leather jacket.",
+          "example_cn": "我买了一件新皮夹克。"
         },
         {
           "word": "jeans",
           "phonetic": "/dʒiːnz/",
           "pos": "n.",
           "definition": "牛仔裤",
-          "example": "Jeans are comfortable for everyday wear."
+          "example": "Jeans are comfortable for everyday wear.",
+          "example_cn": "牛仔裤适合日常穿着。"
         },
         {
           "word": "overcoat",
           "phonetic": "/ˈəʊvəkəʊt/",
           "pos": "n.",
           "definition": "大衣",
-          "example": "He wore an overcoat to keep warm in winter."
+          "example": "He wore an overcoat to keep warm in winter.",
+          "example_cn": "冬天他穿了一件大衣来保暖。"
         },
         {
           "word": "raincoat",
           "phonetic": "/ˈreɪnkəʊt/",
           "pos": "n.",
           "definition": "雨衣",
-          "example": "Don't forget your raincoat, it might rain."
+          "example": "Don't forget your raincoat, it might rain.",
+          "example_cn": "别忘了带雨衣，可能会下雨。"
         },
         {
           "word": "shirt",
           "phonetic": "/ʃɜːt/",
           "pos": "n.",
           "definition": "男衬衫",
-          "example": "He wore a white shirt to the interview."
+          "example": "He wore a white shirt to the interview.",
+          "example_cn": "他在接受采访时穿着一件白衬衫。"
         },
         {
           "word": "shorts",
           "phonetic": "/ʃɔːts/",
           "pos": "n.",
           "definition": "短裤",
-          "example": "I prefer to wear shorts in summer."
+          "example": "I prefer to wear shorts in summer.",
+          "example_cn": "夏天我更喜欢穿短裤。"
         },
         {
           "word": "skirt",
           "phonetic": "/skɜːt/",
           "pos": "n.",
           "definition": "女裙",
-          "example": "She paired her skirt with a nice blouse."
+          "example": "She paired her skirt with a nice blouse.",
+          "example_cn": "她将裙子搭配了一件漂亮的衬衫。"
         },
         {
           "word": "sock",
           "phonetic": "/sɒk/",
           "pos": "n.",
           "definition": "短袜",
-          "example": "I can't find my other sock."
+          "example": "I can't find my other sock.",
+          "example_cn": "我找不到我的另一只袜子了。"
         },
         {
           "word": "sweater",
           "phonetic": "/ˈswetə(r)/",
           "pos": "n.",
           "definition": "毛线衣，厚运动衫",
-          "example": "My grandmother knitted this sweater for me."
+          "example": "My grandmother knitted this sweater for me.",
+          "example_cn": "这件毛衣是我奶奶给我织的。"
         },
         {
           "word": "trousers",
           "phonetic": "/ˈtraʊzəz/",
           "pos": "n.",
           "definition": "裤子",
-          "example": "These trousers are too long for me."
+          "example": "These trousers are too long for me.",
+          "example_cn": "这条裤子对我来说太长了。"
         }
       ]
     },
@@ -1467,70 +1668,80 @@
           "phonetic": "/ˈkʌlə(r)/",
           "pos": "n.",
           "definition": "(美 color)颜色，颜料；情调",
-          "example": "What is your favourite colour?"
+          "example": "What is your favourite colour?",
+          "example_cn": "你最喜欢什么颜色？"
         },
         {
           "word": "black",
           "phonetic": "/blæk/",
           "pos": "n./adj.",
           "definition": "黑色；黑色的",
-          "example": "The cat is black with white paws."
+          "example": "The cat is black with white paws.",
+          "example_cn": "这只猫是黑色的，爪子是白色的。"
         },
         {
           "word": "blue",
           "phonetic": "/bluː/",
           "pos": "n./adj.",
           "definition": "蓝色；蓝色的",
-          "example": "The sky is blue on a clear day."
+          "example": "The sky is blue on a clear day.",
+          "example_cn": "晴朗的日子里，天空是蓝色的。"
         },
         {
           "word": "brown",
           "phonetic": "/braʊn/",
           "pos": "n./adj.",
           "definition": "褐色；褐色的",
-          "example": "Her hair is light brown."
+          "example": "Her hair is light brown.",
+          "example_cn": "她的头发是浅棕色的。"
         },
         {
           "word": "green",
           "phonetic": "/ɡriːn/",
           "pos": "n./adj.",
           "definition": "绿色；绿色的",
-          "example": "The grass is green in spring."
+          "example": "The grass is green in spring.",
+          "example_cn": "春天的草是绿的。"
         },
         {
           "word": "orange",
           "phonetic": "/ˈɒrɪndʒ/",
           "pos": "n./adj.",
           "definition": "橙色；橙色的",
-          "example": "I drink a glass of orange juice every morning."
+          "example": "I drink a glass of orange juice every morning.",
+          "example_cn": "我每天早上都会喝一杯橙汁。"
         },
         {
           "word": "pink",
           "phonetic": "/pɪŋk/",
           "pos": "n./adj.",
           "definition": "粉红色；粉红色的",
-          "example": "The room was painted pink."
+          "example": "The room was painted pink.",
+          "example_cn": "房间被漆成了粉红色。"
         },
         {
           "word": "red",
           "phonetic": "/red/",
           "pos": "n./adj.",
           "definition": "红色；红色的",
-          "example": "Stop at the red light."
+          "example": "Stop at the red light.",
+          "example_cn": "等红灯就停下来。"
         },
         {
           "word": "white",
           "phonetic": "/waɪt/",
           "pos": "n./adj.",
           "definition": "白色；白色的",
-          "example": "The bride wore a white dress."
+          "example": "The bride wore a white dress.",
+          "example_cn": "新娘穿着白色礼服。"
         },
         {
           "word": "yellow",
           "phonetic": "/ˈjeləʊ/",
           "pos": "n./adj.",
           "definition": "黄色；黄色的",
-          "example": "The sunflowers are bright yellow."
+          "example": "The sunflowers are bright yellow.",
+          "example_cn": "向日葵是亮黄色的。"
         }
       ]
     },
@@ -1543,119 +1754,136 @@
           "phonetic": "/ækt/",
           "pos": "v./n.",
           "definition": "行为,举动",
-          "example": "He will act in the school play."
+          "example": "He will act in the school play.",
+          "example_cn": "他将在学校话剧中表演。"
         },
         {
           "word": "advertisement",
           "phonetic": "/ədˈvɜːtɪsmənt/",
           "pos": "n.",
           "definition": "广告",
-          "example": "I saw an advertisement for a new phone."
+          "example": "I saw an advertisement for a new phone.",
+          "example_cn": "我看到一则新手机的广告。"
         },
         {
           "word": "art",
           "phonetic": "/ɑːt/",
           "pos": "n.",
           "definition": "艺术；美术；艺术品",
-          "example": "She studies art at university."
+          "example": "She studies art at university.",
+          "example_cn": "她在大学学习艺术。"
         },
         {
           "word": "cinema",
           "phonetic": "/ˈsɪnəmə/",
           "pos": "n.",
           "definition": "电影院",
-          "example": "Let's go to the cinema this weekend."
+          "example": "Let's go to the cinema this weekend.",
+          "example_cn": "这个周末我们去电影院吧。"
         },
         {
           "word": "film",
           "phonetic": "/fɪlm/",
           "pos": "n.",
           "definition": "电影，胶卷",
-          "example": "This film won an Oscar award."
+          "example": "This film won an Oscar award.",
+          "example_cn": "这部电影获得了奥斯卡奖。"
         },
         {
           "word": "Internet",
           "phonetic": "/ˈɪntənet/",
           "pos": "n.",
           "definition": "互联网，因特网",
-          "example": "The Internet connects people around the world."
+          "example": "The Internet connects people around the world.",
+          "example_cn": "互联网将世界各地的人们联系起来。"
         },
         {
           "word": "interview",
           "phonetic": "/ˈɪntəvjuː/",
           "pos": "n./v.",
           "definition": "采访",
-          "example": "I have a job interview tomorrow."
+          "example": "I have a job interview tomorrow.",
+          "example_cn": "我明天有一个工作面试。"
         },
         {
           "word": "movie",
           "phonetic": "/ˈmuːvi/",
           "pos": "n.",
           "definition": "电影",
-          "example": "We watched an exciting movie last night."
+          "example": "We watched an exciting movie last night.",
+          "example_cn": "昨晚我们看了一部令人兴奋的电影。"
         },
         {
           "word": "news",
           "phonetic": "/njuːz/",
           "pos": "n.",
           "definition": "消息；新闻",
-          "example": "I watch the news every evening."
+          "example": "I watch the news every evening.",
+          "example_cn": "我每天晚上都会看新闻。"
         },
         {
           "word": "notice",
           "phonetic": "/ˈnəʊtɪs/",
           "pos": "n./v.",
           "definition": "通知，布告",
-          "example": "There is a notice on the bulletin board."
+          "example": "There is a notice on the bulletin board.",
+          "example_cn": "布告栏上有一个通知。"
         },
         {
           "word": "party",
           "phonetic": "/ˈpɑːti/",
           "pos": "n.",
           "definition": "晚会",
-          "example": "We had a birthday party for my sister."
+          "example": "We had a birthday party for my sister.",
+          "example_cn": "我们为我姐姐举办了一个生日聚会。"
         },
         {
           "word": "programme",
           "phonetic": "/ˈprəʊɡræm/",
           "pos": "n.",
           "definition": "(美program) 节目单；（电脑）程序",
-          "example": "My favourite TV programme is on at eight."
+          "example": "My favourite TV programme is on at eight.",
+          "example_cn": "我最喜欢的电视节目是八点播出。"
         },
         {
           "word": "role",
           "phonetic": "/rəʊl/",
           "pos": "n.",
           "definition": "角色",
-          "example": "She played the leading role in the play."
+          "example": "She played the leading role in the play.",
+          "example_cn": "她在剧中担任主角。"
         },
         {
           "word": "story",
           "phonetic": "/ˈstɔːri/",
           "pos": "n.",
           "definition": "故事",
-          "example": "Grandma told us a bedtime story."
+          "example": "Grandma told us a bedtime story.",
+          "example_cn": "奶奶给我们讲了一个睡前故事。"
         },
         {
           "word": "tale",
           "phonetic": "/teɪl/",
           "pos": "n.",
           "definition": "故事，传说；童话",
-          "example": "This is a fairy tale about a brave prince."
+          "example": "This is a fairy tale about a brave prince.",
+          "example_cn": "这是一个关于勇敢王子的童话故事。"
         },
         {
           "word": "window",
           "phonetic": "/ˈwɪndəʊ/",
           "pos": "n.",
           "definition": "窗户；计算机的窗口",
-          "example": "Please close the window, it's windy."
+          "example": "Please close the window, it's windy.",
+          "example_cn": "请关好窗户，风很大。"
         },
         {
           "word": "website",
           "phonetic": "/ˈwebsaɪt/",
           "pos": "n.",
           "definition": "网站，网点",
-          "example": "You can visit our website for more information."
+          "example": "You can visit our website for more information.",
+          "example_cn": "您可以访问我们的网站了解更多信息。"
         }
       ]
     },
@@ -1668,126 +1896,144 @@
           "phonetic": "/bɔːl/",
           "pos": "n.",
           "definition": "球",
-          "example": "The children are playing with a ball in the yard."
+          "example": "The children are playing with a ball in the yard.",
+          "example_cn": "孩子们正在院子里玩球。"
         },
         {
           "word": "balloon",
           "phonetic": "/bəˈluːn/",
           "pos": "n.",
           "definition": "气球",
-          "example": "We filled the room with colorful balloons."
+          "example": "We filled the room with colorful balloons.",
+          "example_cn": "我们在房间里装满了五颜六色的气球。"
         },
         {
           "word": "baseball",
           "phonetic": "/ˈbeɪsbɔːl/",
           "pos": "n.",
           "definition": "棒球",
-          "example": "Baseball is very popular in America."
+          "example": "Baseball is very popular in America.",
+          "example_cn": "棒球在美国很受欢迎。"
         },
         {
           "word": "basketball",
           "phonetic": "/ˈbɑːskɪtbɔːl/",
           "pos": "n.",
           "definition": "篮球",
-          "example": "He plays basketball every afternoon."
+          "example": "He plays basketball every afternoon.",
+          "example_cn": "他每天下午打篮球。"
         },
         {
           "word": "chess",
           "phonetic": "/tʃes/",
           "pos": "n.",
           "definition": "象棋",
-          "example": "My grandpa taught me how to play chess."
+          "example": "My grandpa taught me how to play chess.",
+          "example_cn": "我的爷爷教我如何下棋。"
         },
         {
           "word": "club",
           "phonetic": "/klʌb/",
           "pos": "n.",
           "definition": "俱乐部",
-          "example": "I joined the chess club at school."
+          "example": "I joined the chess club at school.",
+          "example_cn": "我在学校加入了国际象棋俱乐部。"
         },
         {
           "word": "coach",
           "phonetic": "/kəʊtʃ/",
           "pos": "n.",
           "definition": "教练",
-          "example": "Our coach teaches us how to play basketball."
+          "example": "Our coach teaches us how to play basketball.",
+          "example_cn": "我们的教练教我们如何打篮球。"
         },
         {
           "word": "exercise",
           "phonetic": "/ˈeksəsaɪz/",
           "pos": "n./v.",
           "definition": "练习；锻炼",
-          "example": "Regular exercise keeps you healthy."
+          "example": "Regular exercise keeps you healthy.",
+          "example_cn": "经常锻炼可以让你保持健康。"
         },
         {
           "word": "football",
           "phonetic": "/ˈfʊtbɔːl/",
           "pos": "n.",
           "definition": "足球",
-          "example": "Football is the most popular sport in the world."
+          "example": "Football is the most popular sport in the world.",
+          "example_cn": "足球是世界上最受欢迎的运动。"
         },
         {
           "word": "jump",
           "phonetic": "/dʒʌmp/",
           "pos": "v./n.",
           "definition": "跳；跃",
-          "example": "The rabbit can jump very high."
+          "example": "The rabbit can jump very high.",
+          "example_cn": "兔子能跳得很高。"
         },
         {
           "word": "kick",
           "phonetic": "/kɪk/",
           "pos": "v./n.",
           "definition": "踢，反冲",
-          "example": "He kicked the ball into the goal."
+          "example": "He kicked the ball into the goal.",
+          "example_cn": "他把球踢进了球门。"
         },
         {
           "word": "race",
           "phonetic": "/reɪs/",
           "pos": "n./v.",
           "definition": "(速度)竞赛",
-          "example": "She won first place in the running race."
+          "example": "She won first place in the running race.",
+          "example_cn": "她在跑步比赛中获得了第一名。"
         },
         {
           "word": "ride",
           "phonetic": "/raɪd/",
           "pos": "v./n.",
           "definition": "骑脚踏车或乘交通工具旅行",
-          "example": "Can you ride a horse?"
+          "example": "Can you ride a horse?",
+          "example_cn": "你会骑马吗？"
         },
         {
           "word": "sport",
           "phonetic": "/spɔːt/",
           "pos": "n.",
           "definition": "运动",
-          "example": "Swimming is my favourite sport."
+          "example": "Swimming is my favourite sport.",
+          "example_cn": "游泳是我最喜欢的运动。"
         },
         {
           "word": "swim",
           "phonetic": "/swɪm/",
           "pos": "v.",
           "definition": "游泳",
-          "example": "I learned to swim when I was five."
+          "example": "I learned to swim when I was five.",
+          "example_cn": "我五岁时就学会了游泳。"
         },
         {
           "word": "tennis",
           "phonetic": "/ˈtenɪs/",
           "pos": "n.",
           "definition": "网球",
-          "example": "They are playing tennis on the court."
+          "example": "They are playing tennis on the court.",
+          "example_cn": "他们正在球场上打网球。"
         },
         {
           "word": "volleyball",
           "phonetic": "/ˈvɒlibɔːl/",
           "pos": "n.",
           "definition": "排球",
-          "example": "Our school volleyball team won the match."
+          "example": "Our school volleyball team won the match.",
+          "example_cn": "我们学校排球队赢得了比赛。"
         },
         {
           "word": "walk",
           "phonetic": "/wɔːk/",
           "pos": "v./n.",
           "definition": "行走；步行",
-          "example": "I walk my dog in the park every morning."
+          "example": "I walk my dog in the park every morning.",
+          "example_cn": "我每天早上都在公园遛狗。"
         }
       ]
     },
@@ -1800,119 +2046,136 @@
           "phonetic": "/ˈæksɪdənt/",
           "pos": "n.",
           "definition": "事故，意外的事",
-          "example": "There was a car accident on the highway."
+          "example": "There was a car accident on the highway.",
+          "example_cn": "高速公路上发生了一起车祸。"
         },
         {
           "word": "ache",
           "phonetic": "/eɪk/",
           "pos": "n./v.",
           "definition": "疼痛",
-          "example": "I have an ache in my back."
+          "example": "I have an ache in my back.",
+          "example_cn": "我的背痛。"
         },
         {
           "word": "blind",
           "phonetic": "/blaɪnd/",
           "pos": "adj.",
           "definition": "失明",
-          "example": "The blind man walks with a white stick."
+          "example": "The blind man walks with a white stick.",
+          "example_cn": "盲人拄着一根白棍走路。"
         },
         {
           "word": "burn",
           "phonetic": "/bɜːn/",
           "pos": "v./n.",
           "definition": "烧伤火、热或酸所造成的伤害或伤痕",
-          "example": "Be careful not to burn yourself on the stove."
+          "example": "Be careful not to burn yourself on the stove.",
+          "example_cn": "小心不要被炉子烫伤。"
         },
         {
           "word": "cancer",
           "phonetic": "/ˈkænsə(r)/",
           "pos": "n.",
           "definition": "癌症",
-          "example": "Scientists are working hard to find a cure for cancer."
+          "example": "Scientists are working hard to find a cure for cancer.",
+          "example_cn": "科学家们正在努力寻找治疗癌症的方法。"
         },
         {
           "word": "cold",
           "phonetic": "/kəʊld/",
           "pos": "n./adj.",
           "definition": "伤风；感冒",
-          "example": "I caught a cold because of the bad weather."
+          "example": "I caught a cold because of the bad weather.",
+          "example_cn": "由于天气不好，我感冒了。"
         },
         {
           "word": "cough",
           "phonetic": "/kɒf/",
           "pos": "n./v.",
           "definition": "咳嗽",
-          "example": "Cover your mouth when you cough."
+          "example": "Cover your mouth when you cough.",
+          "example_cn": "咳嗽时捂住嘴。"
         },
         {
           "word": "cut",
           "phonetic": "/kʌt/",
           "pos": "v./n.",
           "definition": "剪；切；割",
-          "example": "I cut my finger while cooking."
+          "example": "I cut my finger while cooking.",
+          "example_cn": "我做饭时割伤了手指。"
         },
         {
           "word": "disease",
           "phonetic": "/dɪˈziːz/",
           "pos": "n.",
           "definition": "疾病",
-          "example": "Vaccines help prevent many diseases."
+          "example": "Vaccines help prevent many diseases.",
+          "example_cn": "疫苗有助于预防许多疾病。"
         },
         {
           "word": "fever",
           "phonetic": "/ˈfiːvə(r)/",
           "pos": "n.",
           "definition": "发烧；发热",
-          "example": "The child has a high fever and needs rest."
+          "example": "The child has a high fever and needs rest.",
+          "example_cn": "孩子发高烧，需要休息。"
         },
         {
           "word": "flu",
           "phonetic": "/fluː/",
           "pos": "n.",
           "definition": "流感",
-          "example": "Many people get the flu in winter."
+          "example": "Many people get the flu in winter.",
+          "example_cn": "很多人在冬天都会患上流感。"
         },
         {
           "word": "headache",
           "phonetic": "/ˈhedeɪk/",
           "pos": "n.",
           "definition": "头痛",
-          "example": "I have a terrible headache today."
+          "example": "I have a terrible headache today.",
+          "example_cn": "今天我头疼得厉害。"
         },
         {
           "word": "illness",
           "phonetic": "/ˈɪlnəs/",
           "pos": "n.",
           "definition": "疾病；生病；不健康",
-          "example": "He had to miss school due to illness."
+          "example": "He had to miss school due to illness.",
+          "example_cn": "他因病不得不缺课。"
         },
         {
           "word": "problem",
           "phonetic": "/ˈprɒbləm/",
           "pos": "n.",
           "definition": "问题，难题",
-          "example": "Can you help me solve this math problem?"
+          "example": "Can you help me solve this math problem?",
+          "example_cn": "你能帮我解决这道数学题吗？"
         },
         {
           "word": "toothache",
           "phonetic": "/ˈtuːθeɪk/",
           "pos": "n.",
           "definition": "牙疼",
-          "example": "I need to see a dentist because of my toothache."
+          "example": "I need to see a dentist because of my toothache.",
+          "example_cn": "由于牙痛，我需要去看牙医。"
         },
         {
           "word": "trouble",
           "phonetic": "/ˈtrʌbl/",
           "pos": "n.",
           "definition": "问题，疾病；烦恼，麻烦",
-          "example": "I'm in trouble because I forgot my homework."
+          "example": "I'm in trouble because I forgot my homework.",
+          "example_cn": "我有麻烦了，因为我忘了做作业。"
         },
         {
           "word": "wound",
           "phonetic": "/wuːnd/",
           "pos": "n.",
           "definition": "伤，伤害",
-          "example": "The soldier had a wound on his leg."
+          "example": "The soldier had a wound on his leg.",
+          "example_cn": "这名士兵的腿上有伤。"
         }
       ]
     },
@@ -1925,301 +2188,344 @@
           "phonetic": "/eɪk/",
           "pos": "n./v.",
           "definition": "疼痛",
-          "example": "I have an ache in my back."
+          "example": "I have an ache in my back.",
+          "example_cn": "我的背痛。"
         },
         {
           "word": "attention",
           "phonetic": "/əˈtenʃn/",
           "pos": "n.",
           "definition": "注意，关心",
-          "example": "Please pay attention to the teacher."
+          "example": "Please pay attention to the teacher.",
+          "example_cn": "请老师注意。"
         },
         {
           "word": "care",
           "phonetic": "/keə(r)/",
           "pos": "n./v.",
           "definition": "照料，保护，小心",
-          "example": "Take care when you cross the street."
+          "example": "Take care when you cross the street.",
+          "example_cn": "过马路时要小心。"
         },
         {
           "word": "cheer",
           "phonetic": "/tʃɪə(r)/",
           "pos": "n./v.",
           "definition": "欢呼; 喝彩",
-          "example": "The crowd began to cheer loudly."
+          "example": "The crowd began to cheer loudly.",
+          "example_cn": "人群开始大声欢呼。"
         },
         {
           "word": "cheat",
           "phonetic": "/tʃiːt/",
           "pos": "v./n.",
           "definition": "骗取，哄骗，作弊",
-          "example": "It is wrong to cheat in exams."
+          "example": "It is wrong to cheat in exams.",
+          "example_cn": "考试作弊是错误的。"
         },
         {
           "word": "cry",
           "phonetic": "/kraɪ/",
           "pos": "v./n.",
           "definition": "喊叫;哭",
-          "example": "The baby started to cry when his mother left."
+          "example": "The baby started to cry when his mother left.",
+          "example_cn": "当他妈妈离开时，婴儿开始哭泣。"
         },
         {
           "word": "doubt",
           "phonetic": "/daʊt/",
           "pos": "n./v.",
           "definition": "怀疑；疑惑",
-          "example": "I have no doubt that you will succeed."
+          "example": "I have no doubt that you will succeed.",
+          "example_cn": "我毫不怀疑你会成功。"
         },
         {
           "word": "emotion",
           "phonetic": "/ɪˈməʊʃn/",
           "pos": "n.",
           "definition": "感情，情感",
-          "example": "Anger is a strong emotion."
+          "example": "Anger is a strong emotion.",
+          "example_cn": "愤怒是一种强烈的情绪。"
         },
         {
           "word": "excuse",
           "phonetic": "/ɪkˈskjuːs/",
           "pos": "n./v.",
           "definition": "原谅；宽恕",
-          "example": "Please excuse me for being late."
+          "example": "Please excuse me for being late.",
+          "example_cn": "请原谅我迟到了。"
         },
         {
           "word": "favorite",
           "phonetic": "/ˈfeɪvərɪt/",
           "pos": "adj./n.",
           "definition": "最受喜爱的(东西）",
-          "example": "Blue is my favorite color."
+          "example": "Blue is my favorite color.",
+          "example_cn": "蓝色是我最喜欢的颜色。"
         },
         {
           "word": "fear",
           "phonetic": "/fɪə(r)/",
           "pos": "n./v.",
           "definition": "恐惧，害怕",
-          "example": "She has a fear of heights."
+          "example": "She has a fear of heights.",
+          "example_cn": "她有恐高症。"
         },
         {
           "word": "feeling",
           "phonetic": "/ˈfiːlɪŋ/",
           "pos": "n.",
           "definition": "感觉，知觉，触觉",
-          "example": "I have a strange feeling about this."
+          "example": "I have a strange feeling about this.",
+          "example_cn": "我对此有一种奇怪的感觉。"
         },
         {
           "word": "fun",
           "phonetic": "/fʌn/",
           "pos": "n.",
           "definition": "快乐；有趣的，令人愉快的",
-          "example": "We had a lot of fun at the party."
+          "example": "We had a lot of fun at the party.",
+          "example_cn": "我们在聚会上玩得很开心。"
         },
         {
           "word": "greeting",
           "phonetic": "/ˈɡriːtɪŋ/",
           "pos": "n.",
           "definition": "祝贺",
-          "example": "He waved his hand in greeting."
+          "example": "He waved his hand in greeting.",
+          "example_cn": "他挥手打招呼。"
         },
         {
           "word": "hate",
           "phonetic": "/heɪt/",
           "pos": "v.",
           "definition": "恨；讨厌",
-          "example": "I hate being late for school."
+          "example": "I hate being late for school.",
+          "example_cn": "我讨厌上学迟到。"
         },
         {
           "word": "hobby",
           "phonetic": "/ˈhɒbi/",
           "pos": "n.",
           "definition": "嗜好，兴趣",
-          "example": "Reading is my favorite hobby."
+          "example": "Reading is my favorite hobby.",
+          "example_cn": "阅读是我最大的爱好。"
         },
         {
           "word": "interest",
           "phonetic": "/ˈɪntrəst/",
           "pos": "n./v.",
           "definition": "兴趣，爱好",
-          "example": "She has a strong interest in music."
+          "example": "She has a strong interest in music.",
+          "example_cn": "她对音乐有着浓厚的兴趣。"
         },
         {
           "word": "joy",
           "phonetic": "/dʒɔɪ/",
           "pos": "n.",
           "definition": "欢乐，高兴，乐趣",
-          "example": "The children shouted with joy."
+          "example": "The children shouted with joy.",
+          "example_cn": "孩子们欢呼雀跃。"
         },
         {
           "word": "laugh",
           "phonetic": "/lɑːf/",
           "pos": "v./n.",
           "definition": "笑；大笑；嘲笑",
-          "example": "We all laughed at his funny joke."
+          "example": "We all laughed at his funny joke.",
+          "example_cn": "我们都被他的滑稽笑话逗笑了。"
         },
         {
           "word": "love",
           "phonetic": "/lʌv/",
           "pos": "n./v.",
           "definition": "爱；热爱；很喜欢",
-          "example": "I love my family very much."
+          "example": "I love my family very much.",
+          "example_cn": "我非常爱我的家人。"
         },
         {
           "word": "pardon",
           "phonetic": "/ˈpɑːdn/",
           "pos": "n./v.",
           "definition": "原谅，宽恕",
-          "example": "Pardon me, could you repeat that?"
+          "example": "Pardon me, could you repeat that?",
+          "example_cn": "对不起，你能再说一遍吗？"
         },
         {
           "word": "peace",
           "phonetic": "/piːs/",
           "pos": "n.",
           "definition": "和平；安宁；静寂",
-          "example": "We all hope for world peace."
+          "example": "We all hope for world peace.",
+          "example_cn": "我们都希望世界和平。"
         },
         {
           "word": "pity",
           "phonetic": "/ˈpɪti/",
           "pos": "n.",
           "definition": "怜悯；同情",
-          "example": "What a pity that you can't come!"
+          "example": "What a pity that you can't come!",
+          "example_cn": "可惜你不能来！"
         },
         {
           "word": "pleasure",
           "phonetic": "/ˈpleʒə(r)/",
           "pos": "n.",
           "definition": "愉快；快乐；高兴",
-          "example": "It's my pleasure to help you."
+          "example": "It's my pleasure to help you.",
+          "example_cn": "我很高兴为您提供帮助。"
         },
         {
           "word": "praise",
           "phonetic": "/preɪz/",
           "pos": "n./v.",
           "definition": "赞扬，表扬",
-          "example": "The teacher praised him for his hard work."
+          "example": "The teacher praised him for his hard work.",
+          "example_cn": "老师表扬了他的努力。"
         },
         {
           "word": "pride",
           "phonetic": "/praɪd/",
           "pos": "n.",
           "definition": "自豪，骄傲",
-          "example": "She takes pride in her daughter's achievements."
+          "example": "She takes pride in her daughter's achievements.",
+          "example_cn": "她为女儿的成就感到自豪。"
         },
         {
           "word": "regard",
           "phonetic": "/rɪˈɡɑːd/",
           "pos": "n./v.",
           "definition": "关心，注意，致意，问候，尊敬",
-          "example": "I have high regard for his opinion."
+          "example": "I have high regard for his opinion.",
+          "example_cn": "我非常尊重他的意见。"
         },
         {
           "word": "respect",
           "phonetic": "/rɪˈspekt/",
           "pos": "n./v.",
           "definition": "尊敬，尊重",
-          "example": "We should respect our elders."
+          "example": "We should respect our elders.",
+          "example_cn": "我们应该尊重我们的长辈。"
         },
         {
           "word": "regret",
           "phonetic": "/rɪˈɡret/",
           "pos": "n./v.",
           "definition": "可惜，遗憾；痛惜；哀悼",
-          "example": "I regret not studying harder."
+          "example": "I regret not studying harder.",
+          "example_cn": "我后悔没有更加努力地学习。"
         },
         {
           "word": "shame",
           "phonetic": "/ʃeɪm/",
           "pos": "n.",
           "definition": "羞愧，惭愧",
-          "example": "What a shame that it rained on picnic day!"
+          "example": "What a shame that it rained on picnic day!",
+          "example_cn": "野餐那天下雨真是太遗憾了！"
         },
         {
           "word": "silence",
           "phonetic": "/ˈsaɪləns/",
           "pos": "n.",
           "definition": "寂静；沉默",
-          "example": "There was a moment of silence in the room."
+          "example": "There was a moment of silence in the room.",
+          "example_cn": "房间里有一瞬间的沉默。"
         },
         {
           "word": "sense",
           "phonetic": "/sens/",
           "pos": "n.",
           "definition": "感觉，判断力",
-          "example": "Dogs have a keen sense of smell."
+          "example": "Dogs have a keen sense of smell.",
+          "example_cn": "狗有敏锐的嗅觉。"
         },
         {
           "word": "smell",
           "phonetic": "/smel/",
           "pos": "n./v.",
           "definition": "气味；嗅觉",
-          "example": "The flowers smell wonderful."
+          "example": "The flowers smell wonderful.",
+          "example_cn": "花闻起来很香。"
         },
         {
           "word": "smile",
           "phonetic": "/smaɪl/",
           "pos": "n./v.",
           "definition": "微笑",
-          "example": "She gave me a warm smile."
+          "example": "She gave me a warm smile.",
+          "example_cn": "她给了我一个温暖的微笑。"
         },
         {
           "word": "surprise",
           "phonetic": "/səˈpraɪz/",
           "pos": "n./v.",
           "definition": "使吃惊；景气；令人意想不到的事情",
-          "example": "The party was a complete surprise to her."
+          "example": "The party was a complete surprise to her.",
+          "example_cn": "这次聚会对她来说完全是一个惊喜。"
         },
         {
           "word": "sweet",
           "phonetic": "/swiːt/",
           "pos": "adj./n.",
           "definition": "甜蜜",
-          "example": "This candy is very sweet."
+          "example": "This candy is very sweet.",
+          "example_cn": "这糖非常甜。"
         },
         {
           "word": "taste",
           "phonetic": "/teɪst/",
           "pos": "n./v.",
           "definition": "尝；品尝；品味",
-          "example": "The cake tastes delicious."
+          "example": "The cake tastes delicious.",
+          "example_cn": "蛋糕味道鲜美。"
         },
         {
           "word": "thank",
           "phonetic": "/θæŋk/",
           "pos": "v.",
           "definition": "感谢；谢意",
-          "example": "I want to thank you for your help."
+          "example": "I want to thank you for your help.",
+          "example_cn": "我要感谢你的帮助。"
         },
         {
           "word": "touch",
           "phonetic": "/tʌtʃ/",
           "pos": "v./n.",
           "definition": "碰，触摸",
-          "example": "Don't touch the painting, please."
+          "example": "Don't touch the painting, please.",
+          "example_cn": "请不要碰这幅画。"
         },
         {
           "word": "wish",
           "phonetic": "/wɪʃ/",
           "pos": "n./v.",
           "definition": "愿望;祝愿",
-          "example": "I wish you good luck in the exam."
+          "example": "I wish you good luck in the exam.",
+          "example_cn": "祝你考试顺利。"
         },
         {
           "word": "wonder",
           "phonetic": "/ˈwʌndə(r)/",
           "pos": "n./v.",
           "definition": "惊讶，惊叹；奇迹",
-          "example": "I wonder what will happen next."
+          "example": "I wonder what will happen next.",
+          "example_cn": "我想知道接下来会发生什么。"
         },
         {
           "word": "worry",
           "phonetic": "/ˈwʌri/",
           "pos": "v./n.",
           "definition": "烦恼；担忧；发怒；困扰",
-          "example": "Don't worry, everything will be fine."
+          "example": "Don't worry, everything will be fine.",
+          "example_cn": "别担心，一切都会好起来的。"
         },
         {
           "word": "victory",
           "phonetic": "/ˈvɪktəri/",
           "pos": "n.",
           "definition": "胜利",
-          "example": "Our team celebrated the victory."
+          "example": "Our team celebrated the victory.",
+          "example_cn": "我们队庆祝了胜利。"
         }
       ]
     },
@@ -2232,280 +2538,320 @@
           "phonetic": "/ˈæpl/",
           "pos": "n.",
           "definition": "苹果",
-          "example": "An apple a day keeps the doctor away."
+          "example": "An apple a day keeps the doctor away.",
+          "example_cn": "一天一苹果，医生远离我。"
         },
         {
           "word": "banana",
           "phonetic": "/bəˈnɑːnə/",
           "pos": "n.",
           "definition": "香蕉",
-          "example": "Monkeys love to eat bananas."
+          "example": "Monkeys love to eat bananas.",
+          "example_cn": "猴子喜欢吃香蕉。"
         },
         {
           "word": "beef",
           "phonetic": "/biːf/",
           "pos": "n.",
           "definition": "牛肉",
-          "example": "We had roast beef for dinner."
+          "example": "We had roast beef for dinner.",
+          "example_cn": "晚餐我们吃了烤牛肉。"
         },
         {
           "word": "biscuit",
           "phonetic": "/ˈbɪskɪt/",
           "pos": "n.",
           "definition": "饼干",
-          "example": "Would you like a biscuit with your tea?"
+          "example": "Would you like a biscuit with your tea?",
+          "example_cn": "您想在喝茶时吃块饼干吗？"
         },
         {
           "word": "bread",
           "phonetic": "/bred/",
           "pos": "n.",
           "definition": "面包",
-          "example": "I had bread and butter for breakfast."
+          "example": "I had bread and butter for breakfast.",
+          "example_cn": "我早餐吃了面包和黄油。"
         },
         {
           "word": "butter",
           "phonetic": "/ˈbʌtə(r)/",
           "pos": "n.",
           "definition": "黄油",
-          "example": "Spread some butter on the bread."
+          "example": "Spread some butter on the bread.",
+          "example_cn": "在面包上涂一些黄油。"
         },
         {
           "word": "cabbage",
           "phonetic": "/ˈkæbɪdʒ/",
           "pos": "n.",
           "definition": "卷心菜",
-          "example": "Cabbage is a healthy vegetable."
+          "example": "Cabbage is a healthy vegetable.",
+          "example_cn": "卷心菜是一种健康蔬菜。"
         },
         {
           "word": "cake",
           "phonetic": "/keɪk/",
           "pos": "n.",
           "definition": "蛋糕；糕饼类食品",
-          "example": "She baked a chocolate cake for my birthday."
+          "example": "She baked a chocolate cake for my birthday.",
+          "example_cn": "她为我的生日烤了一个巧克力蛋糕。"
         },
         {
           "word": "candy",
           "phonetic": "/ˈkændi/",
           "pos": "n.",
           "definition": "糖果",
-          "example": "Children love to eat candy."
+          "example": "Children love to eat candy.",
+          "example_cn": "孩子们喜欢吃糖果。"
         },
         {
           "word": "cheese",
           "phonetic": "/tʃiːz/",
           "pos": "n.",
           "definition": "奶酪",
-          "example": "This pizza has extra cheese on top."
+          "example": "This pizza has extra cheese on top.",
+          "example_cn": "这个披萨上面有额外的奶酪。"
         },
         {
           "word": "chicken",
           "phonetic": "/ˈtʃɪkɪn/",
           "pos": "n.",
           "definition": "鸡肉",
-          "example": "We had fried chicken for lunch."
+          "example": "We had fried chicken for lunch.",
+          "example_cn": "我们午餐吃了炸鸡。"
         },
         {
           "word": "chocolate",
           "phonetic": "/ˈtʃɒklət/",
           "pos": "n.",
           "definition": "巧克力",
-          "example": "I love eating dark chocolate."
+          "example": "I love eating dark chocolate.",
+          "example_cn": "我喜欢吃黑巧克力。"
         },
         {
           "word": "dumpling",
           "phonetic": "/ˈdʌmplɪŋ/",
           "pos": "n.",
           "definition": "饺子",
-          "example": "Dumplings are traditional food for Spring Festival."
+          "example": "Dumplings are traditional food for Spring Festival.",
+          "example_cn": "饺子是春节的传统食品。"
         },
         {
           "word": "egg",
           "phonetic": "/eɡ/",
           "pos": "n.",
           "definition": "蛋；鸡蛋",
-          "example": "I had a boiled egg for breakfast."
+          "example": "I had a boiled egg for breakfast.",
+          "example_cn": "我早餐吃了一个煮鸡蛋。"
         },
         {
           "word": "food",
           "phonetic": "/fuːd/",
           "pos": "n.",
           "definition": "食物，食品",
-          "example": "Chinese food is famous all over the world."
+          "example": "Chinese food is famous all over the world.",
+          "example_cn": "中国菜闻名于世。"
         },
         {
           "word": "fruit",
           "phonetic": "/fruːt/",
           "pos": "n.",
           "definition": "水果",
-          "example": "Eating fresh fruit is good for your health."
+          "example": "Eating fresh fruit is good for your health.",
+          "example_cn": "吃新鲜水果对你的健康有益。"
         },
         {
           "word": "grape",
           "phonetic": "/ɡreɪp/",
           "pos": "n.",
           "definition": "葡萄",
-          "example": "These grapes are very sweet."
+          "example": "These grapes are very sweet.",
+          "example_cn": "这些葡萄非常甜。"
         },
         {
           "word": "ham",
           "phonetic": "/hæm/",
           "pos": "n.",
           "definition": "火腿",
-          "example": "I had a ham sandwich for lunch."
+          "example": "I had a ham sandwich for lunch.",
+          "example_cn": "我午餐吃了一个火腿三明治。"
         },
         {
           "word": "hamburger",
           "phonetic": "/ˈhæmbɜːɡə(r)/",
           "pos": "n.",
           "definition": "汉堡",
-          "example": "He ordered a hamburger and fries."
+          "example": "He ordered a hamburger and fries.",
+          "example_cn": "他点了一个汉堡和薯条。"
         },
         {
           "word": "lamb",
           "phonetic": "/læm/",
           "pos": "n.",
           "definition": "羊肉",
-          "example": "We had roast lamb for Sunday dinner."
+          "example": "We had roast lamb for Sunday dinner.",
+          "example_cn": "周日晚餐我们吃了烤羊肉。"
         },
         {
           "word": "meat",
           "phonetic": "/miːt/",
           "pos": "n.",
           "definition": "肉",
-          "example": "Too much meat is not good for health."
+          "example": "Too much meat is not good for health.",
+          "example_cn": "吃太多肉对健康不利。"
         },
         {
           "word": "noodle",
           "phonetic": "/ˈnuːdl/",
           "pos": "n.",
           "definition": "面条",
-          "example": "I love eating beef noodles."
+          "example": "I love eating beef noodles.",
+          "example_cn": "我喜欢吃牛肉面。"
         },
         {
           "word": "oil",
           "phonetic": "/ɔɪl/",
           "pos": "n.",
           "definition": "油",
-          "example": "We use oil to cook food."
+          "example": "We use oil to cook food.",
+          "example_cn": "桌子上那个奇怪的东西是什么？"
         },
         {
           "word": "orange",
           "phonetic": "/ˈɒrɪndʒ/",
           "pos": "n./adj.",
           "definition": "橙子",
-          "example": "I drink a glass of orange juice every morning."
+          "example": "I drink a glass of orange juice every morning.",
+          "example_cn": "我每天早上都会喝一杯橙汁。"
         },
         {
           "word": "pancake",
           "phonetic": "/ˈpænkeɪk/",
           "pos": "n.",
           "definition": "薄煎饼",
-          "example": "We had pancakes with syrup for breakfast."
+          "example": "We had pancakes with syrup for breakfast.",
+          "example_cn": "我们早餐吃了糖浆煎饼。"
         },
         {
           "word": "pear",
           "phonetic": "/peə(r)/",
           "pos": "n.",
           "definition": "梨",
-          "example": "This pear is juicy and sweet."
+          "example": "This pear is juicy and sweet.",
+          "example_cn": "这个梨多汁又甜。"
         },
         {
           "word": "pie",
           "phonetic": "/paɪ/",
           "pos": "n.",
           "definition": "馅饼，",
-          "example": "My grandma makes the best apple pie."
+          "example": "My grandma makes the best apple pie.",
+          "example_cn": "我奶奶做的苹果派是最好吃的。"
         },
         {
           "word": "pork",
           "phonetic": "/pɔːk/",
           "pos": "n.",
           "definition": "猪肉",
-          "example": "Pork is commonly used in Chinese cooking."
+          "example": "Pork is commonly used in Chinese cooking.",
+          "example_cn": "中国烹饪中常用猪肉。"
         },
         {
           "word": "potato",
           "phonetic": "/pəˈteɪtəʊ/",
           "pos": "n.",
           "definition": "土豆",
-          "example": "Mashed potato is my favorite side dish."
+          "example": "Mashed potato is my favorite side dish.",
+          "example_cn": "土豆泥是我最喜欢的配菜。"
         },
         {
           "word": "rice",
           "phonetic": "/raɪs/",
           "pos": "n.",
           "definition": "稻米,米饭",
-          "example": "Rice is a staple food in many Asian countries."
+          "example": "Rice is a staple food in many Asian countries.",
+          "example_cn": "大米是许多亚洲国家的主食。"
         },
         {
           "word": "salad",
           "phonetic": "/ˈsæləd/",
           "pos": "n.",
           "definition": "沙拉",
-          "example": "I had a fresh vegetable salad for lunch."
+          "example": "I had a fresh vegetable salad for lunch.",
+          "example_cn": "午餐我吃了一份新鲜蔬菜沙拉。"
         },
         {
           "word": "salt",
           "phonetic": "/sɔːlt/",
           "pos": "n.",
           "definition": "盐",
-          "example": "Please pass me the salt."
+          "example": "Please pass me the salt.",
+          "example_cn": "请把盐递给我。"
         },
         {
           "word": "sandwich",
           "phonetic": "/ˈsænwɪdʒ/",
           "pos": "n.",
           "definition": "三明治",
-          "example": "I made a ham sandwich for lunch."
+          "example": "I made a ham sandwich for lunch.",
+          "example_cn": "我午餐做了火腿三明治。"
         },
         {
           "word": "sausage",
           "phonetic": "/ˈsɒsɪdʒ/",
           "pos": "n.",
           "definition": "香肠",
-          "example": "Sausages are often eaten for breakfast."
+          "example": "Sausages are often eaten for breakfast.",
+          "example_cn": "早餐经常吃香肠。"
         },
         {
           "word": "strawberry",
           "phonetic": "/ˈstrɔːbəri/",
           "pos": "n.",
           "definition": "草莓",
-          "example": "The strawberry cake looks delicious."
+          "example": "The strawberry cake looks delicious.",
+          "example_cn": "草莓蛋糕看起来很好吃。"
         },
         {
           "word": "sugar",
           "phonetic": "/ˈʃʊɡə(r)/",
           "pos": "n.",
           "definition": "糖",
-          "example": "Too much sugar is bad for your teeth."
+          "example": "Too much sugar is bad for your teeth.",
+          "example_cn": "过多的糖对牙齿有害。"
         },
         {
           "word": "sweet",
           "phonetic": "/swiːt/",
           "pos": "adj./n.",
           "definition": "甜食；蜜饯；甜点；糖果；",
-          "example": "This candy is very sweet."
+          "example": "This candy is very sweet.",
+          "example_cn": "这糖非常甜。"
         },
         {
           "word": "tomato",
           "phonetic": "/təˈmɑːtəʊ/",
           "pos": "n.",
           "definition": "西红柿",
-          "example": "Tomato soup is my favorite."
+          "example": "Tomato soup is my favorite.",
+          "example_cn": "番茄汤是我的最爱。"
         },
         {
           "word": "vegetable",
           "phonetic": "/ˈvedʒtəbl/",
           "pos": "n.",
           "definition": "植物；蔬菜",
-          "example": "Eat more vegetables to stay healthy."
+          "example": "Eat more vegetables to stay healthy.",
+          "example_cn": "多吃蔬菜以保持健康。"
         },
         {
           "word": "watermelon",
           "phonetic": "/ˈwɔːtəmelən/",
           "pos": "n.",
           "definition": "西瓜",
-          "example": "Watermelon is perfect for hot summer days."
+          "example": "Watermelon is perfect for hot summer days.",
+          "example_cn": "西瓜非常适合炎热的夏季。"
         }
       ]
     },
@@ -2518,126 +2864,144 @@
           "phonetic": "/bəʊl/",
           "pos": "n.",
           "definition": "碗；钵",
-          "example": "She filled the bowl with rice."
+          "example": "She filled the bowl with rice.",
+          "example_cn": "她在碗里盛满了米饭。"
         },
         {
           "word": "breakfast",
           "phonetic": "/ˈbrekfəst/",
           "pos": "n.",
           "definition": "早餐",
-          "example": "I never skip breakfast."
+          "example": "I never skip breakfast.",
+          "example_cn": "我从不不吃早餐。"
         },
         {
           "word": "chopsticks",
           "phonetic": "/ˈtʃɒpstɪks/",
           "pos": "n.",
           "definition": "筷子",
-          "example": "Chinese people usually eat with chopsticks."
+          "example": "Chinese people usually eat with chopsticks.",
+          "example_cn": "中国人通常用筷子吃饭。"
         },
         {
           "word": "cooker",
           "phonetic": "/ˈkʊkə(r)/",
           "pos": "n.",
           "definition": "厨具",
-          "example": "The rice cooker makes perfect rice."
+          "example": "The rice cooker makes perfect rice.",
+          "example_cn": "电饭锅可以煮出完美的米饭。"
         },
         {
           "word": "cup",
           "phonetic": "/kʌp/",
           "pos": "n.",
           "definition": "小茶杯，一杯的容量",
-          "example": "Would you like a cup of tea?"
+          "example": "Would you like a cup of tea?",
+          "example_cn": "您想喝杯茶吗？"
         },
         {
           "word": "dinner",
           "phonetic": "/ˈdɪnə(r)/",
           "pos": "n.",
           "definition": "正餐；晚餐",
-          "example": "We have dinner at seven o'clock."
+          "example": "We have dinner at seven o'clock.",
+          "example_cn": "我们七点钟吃晚饭。"
         },
         {
           "word": "dish",
           "phonetic": "/dɪʃ/",
           "pos": "n.",
           "definition": "盘，碟，装菜盘",
-          "example": "This dish is too spicy for me."
+          "example": "This dish is too spicy for me.",
+          "example_cn": "这道菜对我来说太辣了。"
         },
         {
           "word": "fork",
           "phonetic": "/fɔːk/",
           "pos": "n.",
           "definition": "叉；餐叉",
-          "example": "Western people eat with a knife and fork."
+          "example": "Western people eat with a knife and fork.",
+          "example_cn": "西方人吃饭用刀叉。"
         },
         {
           "word": "glass",
           "phonetic": "/ɡlɑːs/",
           "pos": "n.",
           "definition": "玻璃杯；玻璃",
-          "example": "The window was made of thick glass."
+          "example": "The window was made of thick glass.",
+          "example_cn": "窗户是用厚玻璃制成的。"
         },
         {
           "word": "lunch",
           "phonetic": "/lʌntʃ/",
           "pos": "n.",
           "definition": "午餐",
-          "example": "I usually have lunch at school."
+          "example": "I usually have lunch at school.",
+          "example_cn": "我通常在学校吃午饭。"
         },
         {
           "word": "knife",
           "phonetic": "/naɪf/",
           "pos": "n.",
           "definition": "刀，匕首 (pl. knives)",
-          "example": "Be careful with that sharp knife."
+          "example": "Be careful with that sharp knife.",
+          "example_cn": "小心那把锋利的刀。"
         },
         {
           "word": "meal",
           "phonetic": "/miːl/",
           "pos": "n.",
           "definition": "一餐(饭)",
-          "example": "Dinner is the main meal of the day."
+          "example": "Dinner is the main meal of the day.",
+          "example_cn": "晚餐是一天中的主餐。"
         },
         {
           "word": "menu",
           "phonetic": "/ˈmenjuː/",
           "pos": "n.",
           "definition": "菜单",
-          "example": "Can I see the menu, please?"
+          "example": "Can I see the menu, please?",
+          "example_cn": "我可以看一下菜单吗？"
         },
         {
           "word": "picnic",
           "phonetic": "/ˈpɪknɪk/",
           "pos": "n./v.",
           "definition": "野餐",
-          "example": "We had a picnic by the lake."
+          "example": "We had a picnic by the lake.",
+          "example_cn": "我们在湖边野餐。"
         },
         {
           "word": "plate",
           "phonetic": "/pleɪt/",
           "pos": "n.",
           "definition": "盘子",
-          "example": "Put the cookies on a plate."
+          "example": "Put the cookies on a plate.",
+          "example_cn": "将饼干放在盘子上。"
         },
         {
           "word": "service",
           "phonetic": "/ˈsɜːvɪs/",
           "pos": "n.",
           "definition": "服务",
-          "example": "The service at this restaurant is excellent."
+          "example": "The service at this restaurant is excellent.",
+          "example_cn": "这家餐厅的服务非常好。"
         },
         {
           "word": "spoon",
           "phonetic": "/spuːn/",
           "pos": "n.",
           "definition": "勺子",
-          "example": "Stir the soup with a spoon."
+          "example": "Stir the soup with a spoon.",
+          "example_cn": "用勺子搅拌汤。"
         },
         {
           "word": "supper",
           "phonetic": "/ˈsʌpə(r)/",
           "pos": "n.",
           "definition": "晚餐",
-          "example": "We had a light supper before bed."
+          "example": "We had a light supper before bed.",
+          "example_cn": "睡觉前我们吃了一顿清淡的晚餐。"
         }
       ]
     },
@@ -2650,266 +3014,304 @@
           "phonetic": "/bæŋk/",
           "pos": "n.",
           "definition": "银行",
-          "example": "I need to go to the bank to deposit money."
+          "example": "I need to go to the bank to deposit money.",
+          "example_cn": "我需要去银行存钱。"
         },
         {
           "word": "capital",
           "phonetic": "/ˈkæpɪtl/",
           "pos": "n.",
           "definition": "省会，首都",
-          "example": "Beijing is the capital of China."
+          "example": "Beijing is the capital of China.",
+          "example_cn": "北京是中国的首都。"
         },
         {
           "word": "church",
           "phonetic": "/tʃɜːtʃ/",
           "pos": "n.",
           "definition": "教堂",
-          "example": "The church has a tall bell tower."
+          "example": "The church has a tall bell tower.",
+          "example_cn": "教堂有一座高高的钟楼。"
         },
         {
           "word": "city",
           "phonetic": "/ˈsɪti/",
           "pos": "n.",
           "definition": "城市；都市；市",
-          "example": "Shanghai is a modern and busy city."
+          "example": "Shanghai is a modern and busy city.",
+          "example_cn": "上海是一座现代化、繁忙的城市。"
         },
         {
           "word": "cinema",
           "phonetic": "/ˈsɪnəmə/",
           "pos": "n.",
           "definition": "电影院，电影",
-          "example": "Let's go to the cinema this weekend."
+          "example": "Let's go to the cinema this weekend.",
+          "example_cn": "这个周末我们去电影院吧。"
         },
         {
           "word": "college",
           "phonetic": "/ˈkɒlɪdʒ/",
           "pos": "n.",
           "definition": "专科学校；学院",
-          "example": "She is studying at a famous college."
+          "example": "She is studying at a famous college.",
+          "example_cn": "她在一所著名大学读书。"
         },
         {
           "word": "company",
           "phonetic": "/ˈkʌmpəni/",
           "pos": "n.",
           "definition": "公司",
-          "example": "He works for a big software company."
+          "example": "He works for a big software company.",
+          "example_cn": "他在一家大型软件公司工作。"
         },
         {
           "word": "factory",
           "phonetic": "/ˈfæktri/",
           "pos": "n.",
           "definition": "工厂",
-          "example": "The factory produces cars."
+          "example": "The factory produces cars.",
+          "example_cn": "该工厂生产汽车。"
         },
         {
           "word": "fair",
           "phonetic": "/feə(r)/",
           "pos": "n./adj.",
           "definition": "集市；庙会；展览会",
-          "example": "We went to the book fair last weekend."
+          "example": "We went to the book fair last weekend.",
+          "example_cn": "上周末我们去了书展。"
         },
         {
           "word": "farm",
           "phonetic": "/fɑːm/",
           "pos": "n./v.",
           "definition": "农场；农庄",
-          "example": "My uncle has a small farm in the countryside."
+          "example": "My uncle has a small farm in the countryside.",
+          "example_cn": "我叔叔在乡下有一个小农场。"
         },
         {
           "word": "flat",
           "phonetic": "/flæt/",
           "pos": "n./adj.",
           "definition": "楼中一套房间；公寓（常用复数）",
-          "example": "They live in a flat near the city center."
+          "example": "They live in a flat near the city center.",
+          "example_cn": "他们住在市中心附近的一套公寓里。"
         },
         {
           "word": "garden",
           "phonetic": "/ˈɡɑːdn/",
           "pos": "n.",
           "definition": "花园，果园，菜园",
-          "example": "Our garden is full of beautiful flowers."
+          "example": "Our garden is full of beautiful flowers.",
+          "example_cn": "我们的花园里开满了美丽的花朵。"
         },
         {
           "word": "government",
           "phonetic": "/ˈɡʌvənmənt/",
           "pos": "n.",
           "definition": "政府",
-          "example": "The government is building new roads."
+          "example": "The government is building new roads.",
+          "example_cn": "政府正在修建新道路。"
         },
         {
           "word": "hometown",
           "phonetic": "/ˈhəʊmtaʊn/",
           "pos": "n.",
           "definition": "家乡，故乡",
-          "example": "I visit my hometown every Spring Festival."
+          "example": "I visit my hometown every Spring Festival.",
+          "example_cn": "每年春节我都会回家乡。"
         },
         {
           "word": "hospital",
           "phonetic": "/ˈhɒspɪtl/",
           "pos": "n.",
           "definition": "医院",
-          "example": "The hospital is open twenty-four hours."
+          "example": "The hospital is open twenty-four hours.",
+          "example_cn": "医院二十四小时开放。"
         },
         {
           "word": "hotel",
           "phonetic": "/həʊˈtel/",
           "pos": "n.",
           "definition": "旅馆",
-          "example": "We stayed at a five-star hotel."
+          "example": "We stayed at a five-star hotel.",
+          "example_cn": "我们住在一家五星级酒店。"
         },
         {
           "word": "library",
           "phonetic": "/ˈlaɪbrəri/",
           "pos": "n.",
           "definition": "图书馆",
-          "example": "I often study in the school library."
+          "example": "I often study in the school library.",
+          "example_cn": "我经常在学校图书馆学习。"
         },
         {
           "word": "market",
           "phonetic": "/ˈmɑːkɪt/",
           "pos": "n.",
           "definition": "市场，集市",
-          "example": "The vegetable market is very crowded."
+          "example": "The vegetable market is very crowded.",
+          "example_cn": "菜市场非常拥挤。"
         },
         {
           "word": "museum",
           "phonetic": "/mjuˈziːəm/",
           "pos": "n.",
           "definition": "博物馆",
-          "example": "The museum has many ancient artifacts."
+          "example": "The museum has many ancient artifacts.",
+          "example_cn": "博物馆里有很多古代文物。"
         },
         {
           "word": "palace",
           "phonetic": "/ˈpæləs/",
           "pos": "n.",
           "definition": "皇宫，宫殿",
-          "example": "The Forbidden City is an imperial palace."
+          "example": "The Forbidden City is an imperial palace.",
+          "example_cn": "紫禁城是一座皇宫。"
         },
         {
           "word": "park",
           "phonetic": "/pɑːk/",
           "pos": "n./v.",
           "definition": "公园；停车",
-          "example": "Let's go to the park to play."
+          "example": "Let's go to the park to play.",
+          "example_cn": "我们去公园玩吧。"
         },
         {
           "word": "place",
           "phonetic": "/pleɪs/",
           "pos": "n./v.",
           "definition": "地方，处所",
-          "example": "This is a beautiful place to visit."
+          "example": "This is a beautiful place to visit.",
+          "example_cn": "这是一个美丽的旅游胜地。"
         },
         {
           "word": "pond",
           "phonetic": "/pɒnd/",
           "pos": "n.",
           "definition": "池塘",
-          "example": "There are ducks swimming in the pond."
+          "example": "There are ducks swimming in the pond.",
+          "example_cn": "池塘里有鸭子在游泳。"
         },
         {
           "word": "pool",
           "phonetic": "/puːl/",
           "pos": "n.",
           "definition": "水塘",
-          "example": "The swimming pool is open in summer."
+          "example": "The swimming pool is open in summer.",
+          "example_cn": "游泳池于夏季开放。"
         },
         {
           "word": "prison",
           "phonetic": "/ˈprɪzn/",
           "pos": "n.",
           "definition": "监狱",
-          "example": "The criminal was sent to prison."
+          "example": "The criminal was sent to prison.",
+          "example_cn": "罪犯被送进监狱。"
         },
         {
           "word": "restaurant",
           "phonetic": "/ˈrestrɒnt/",
           "pos": "n.",
           "definition": "餐馆；饭店",
-          "example": "We ate at a Chinese restaurant."
+          "example": "We ate at a Chinese restaurant.",
+          "example_cn": "我们在一家中餐馆吃饭。"
         },
         {
           "word": "set",
           "phonetic": "/set/",
           "pos": "v./n.",
           "definition": "设备，设置",
-          "example": "A set of tools is in the box."
+          "example": "A set of tools is in the box.",
+          "example_cn": "盒子里有一套工具。"
         },
         {
           "word": "shop",
           "phonetic": "/ʃɒp/",
           "pos": "n./v.",
           "definition": "商店",
-          "example": "I went to the shop to buy some milk."
+          "example": "I went to the shop to buy some milk.",
+          "example_cn": "我去商店买一些牛奶。"
         },
         {
           "word": "square",
           "phonetic": "/skweə(r)/",
           "pos": "n./adj.",
           "definition": "广场",
-          "example": "Tiananmen Square is in Beijing."
+          "example": "Tiananmen Square is in Beijing.",
+          "example_cn": "天安门广场位于北京。"
         },
         {
           "word": "stand",
           "phonetic": "/stænd/",
           "pos": "v./n.",
           "definition": "看台，台；坛；摊",
-          "example": "Please stand up when the teacher comes in."
+          "example": "Please stand up when the teacher comes in.",
+          "example_cn": "老师进来时请起立。"
         },
         {
           "word": "state",
           "phonetic": "/steɪt/",
           "pos": "n.",
           "definition": "州；邦",
-          "example": "Texas is a state in America."
+          "example": "Texas is a state in America.",
+          "example_cn": "德克萨斯州是美国的一个州。"
         },
         {
           "word": "store",
           "phonetic": "/stɔː(r)/",
           "pos": "n./v.",
           "definition": "商店",
-          "example": "The grocery store is on Main Street."
+          "example": "The grocery store is on Main Street.",
+          "example_cn": "杂货店位于主街上。"
         },
         {
           "word": "supermarket",
           "phonetic": "/ˈsuːpəmɑːkɪt/",
           "pos": "n.",
           "definition": "超级市场",
-          "example": "I do my shopping at the supermarket."
+          "example": "I do my shopping at the supermarket.",
+          "example_cn": "我在超市购物。"
         },
         {
           "word": "toilet",
           "phonetic": "/ˈtɔɪlət/",
           "pos": "n.",
           "definition": "厕所",
-          "example": "Where is the toilet, please?"
+          "example": "Where is the toilet, please?",
+          "example_cn": "请问厕所在哪里？"
         },
         {
           "word": "tower",
           "phonetic": "/ˈtaʊə(r)/",
           "pos": "n.",
           "definition": "塔，高楼",
-          "example": "The Eiffel Tower is in Paris."
+          "example": "The Eiffel Tower is in Paris.",
+          "example_cn": "埃菲尔铁塔位于巴黎。"
         },
         {
           "word": "university",
           "phonetic": "/ˌjuːnɪˈvɜːsəti/",
           "pos": "n.",
           "definition": "大学",
-          "example": "Peking University is a top university."
+          "example": "Peking University is a top university.",
+          "example_cn": "北京大学是一所顶尖大学。"
         },
         {
           "word": "town",
           "phonetic": "/taʊn/",
           "pos": "n.",
           "definition": "镇；城镇；市镇",
-          "example": "I live in a small town by the sea."
+          "example": "I live in a small town by the sea.",
+          "example_cn": "我住在海边的一个小镇。"
         },
         {
           "word": "zoo",
           "phonetic": "/zuː/",
           "pos": "n.",
           "definition": "动物园",
-          "example": "We saw pandas at the zoo."
+          "example": "We saw pandas at the zoo.",
+          "example_cn": "我们在动物园看到了熊猫。"
         }
       ]
     },
@@ -2922,105 +3324,120 @@
           "phonetic": "/ˈeəlaɪn/",
           "pos": "n.",
           "definition": "航空公司",
-          "example": "This airline flies to many countries."
+          "example": "This airline flies to many countries.",
+          "example_cn": "这家航空公司有飞往许多国家的航班。"
         },
         {
           "word": "airport",
           "phonetic": "/ˈeəpɔːt/",
           "pos": "n.",
           "definition": "飞机场",
-          "example": "The airport is about thirty kilometers away."
+          "example": "The airport is about thirty kilometers away.",
+          "example_cn": "距机场约三十公里。"
         },
         {
           "word": "bridge",
           "phonetic": "/brɪdʒ/",
           "pos": "n.",
           "definition": "桥",
-          "example": "The bridge connects the two cities."
+          "example": "The bridge connects the two cities.",
+          "example_cn": "这座桥连接着两个城市。"
         },
         {
           "word": "cross",
           "phonetic": "/krɒs/",
           "pos": "n./v.",
           "definition": "交叉；十字形的东西",
-          "example": "Be careful when you cross the road."
+          "example": "Be careful when you cross the road.",
+          "example_cn": "过马路时要小心。"
         },
         {
           "word": "direction",
           "phonetic": "/dəˈrekʃn/",
           "pos": "n.",
           "definition": "方向",
-          "example": "Can you tell me the direction to the station?"
+          "example": "Can you tell me the direction to the station?",
+          "example_cn": "你能告诉我去车站的方向吗？"
         },
         {
           "word": "flag",
           "phonetic": "/flæɡ/",
           "pos": "n.",
           "definition": "旗；标志",
-          "example": "The national flag was raised at dawn."
+          "example": "The national flag was raised at dawn.",
+          "example_cn": "黎明时分，国旗升起。"
         },
         {
           "word": "mark",
           "phonetic": "/mɑːk/",
           "pos": "n./v.",
           "definition": "记号；痕迹",
-          "example": "Put a mark next to the correct answer."
+          "example": "Put a mark next to the correct answer.",
+          "example_cn": "在正确答案旁边做个标记。"
         },
         {
           "word": "path",
           "phonetic": "/pɑːθ/",
           "pos": "n.",
           "definition": "小路，小径",
-          "example": "We walked along a narrow path in the forest."
+          "example": "We walked along a narrow path in the forest.",
+          "example_cn": "我们沿着森林里一条狭窄的小路行走。"
         },
         {
           "word": "railway",
           "phonetic": "/ˈreɪlweɪ/",
           "pos": "n.",
           "definition": "铁路；铁轨",
-          "example": "The railway station is very busy."
+          "example": "The railway station is very busy.",
+          "example_cn": "火车站非常繁忙。"
         },
         {
           "word": "road",
           "phonetic": "/rəʊd/",
           "pos": "n.",
           "definition": "路",
-          "example": "The road was blocked by fallen trees."
+          "example": "The road was blocked by fallen trees.",
+          "example_cn": "道路被倒下的树木挡住了。"
         },
         {
           "word": "station",
           "phonetic": "/ˈsteɪʃn/",
           "pos": "n.",
           "definition": "站；所；台",
-          "example": "We waited at the bus station."
+          "example": "We waited at the bus station.",
+          "example_cn": "我们在公交车站等车。"
         },
         {
           "word": "stop",
           "phonetic": "/stɒp/",
           "pos": "v./n.",
           "definition": "车站",
-          "example": "The bus stop is just around the corner."
+          "example": "The bus stop is just around the corner.",
+          "example_cn": "巴士站就位于拐角处。"
         },
         {
           "word": "street",
           "phonetic": "/striːt/",
           "pos": "n.",
           "definition": "街；街道",
-          "example": "Don't play in the street, it's dangerous."
+          "example": "Don't play in the street, it's dangerous.",
+          "example_cn": "不要在街上玩，很危险。"
         },
         {
           "word": "traffic",
           "phonetic": "/ˈtræfɪk/",
           "pos": "n.",
           "definition": "交通；交通量",
-          "example": "The traffic is heavy during rush hour."
+          "example": "The traffic is heavy during rush hour.",
+          "example_cn": "高峰时段交通拥堵。"
         },
         {
           "word": "way",
           "phonetic": "/weɪ/",
           "pos": "n.",
           "definition": "道路",
-          "example": "Which way should we go?"
+          "example": "Which way should we go?",
+          "example_cn": "我们应该走哪条路？"
         }
       ]
     },
@@ -3033,105 +3450,120 @@
           "phonetic": "/ˈeəlaɪn/",
           "pos": "n.",
           "definition": "航空公司",
-          "example": "This airline flies to many countries."
+          "example": "This airline flies to many countries.",
+          "example_cn": "这家航空公司有飞往许多国家的航班。"
         },
         {
           "word": "beach",
           "phonetic": "/biːtʃ/",
           "pos": "n.",
           "definition": "海滩；湖滩",
-          "example": "We spent the day at the beach."
+          "example": "We spent the day at the beach.",
+          "example_cn": "我们在海滩度过了一天。"
         },
         {
           "word": "camp",
           "phonetic": "/kæmp/",
           "pos": "n./v.",
           "definition": "营地",
-          "example": "We went to summer camp last year."
+          "example": "We went to summer camp last year.",
+          "example_cn": "去年我们去参加了夏令营。"
         },
         {
           "word": "country",
           "phonetic": "/ˈkʌntri/",
           "pos": "n.",
           "definition": "国家",
-          "example": "China is a large country."
+          "example": "China is a large country.",
+          "example_cn": "中国是一个大国。"
         },
         {
           "word": "map",
           "phonetic": "/mæp/",
           "pos": "n./v.",
           "definition": "地图",
-          "example": "I need a map to find my way."
+          "example": "I need a map to find my way.",
+          "example_cn": "我需要一张地图来找到我的路。"
         },
         {
           "word": "package",
           "phonetic": "/ˈpækɪdʒ/",
           "pos": "n.",
           "definition": "包裹",
-          "example": "I received a package from my friend."
+          "example": "I received a package from my friend.",
+          "example_cn": "我收到了朋友寄来的包裹。"
         },
         {
           "word": "picnic",
           "phonetic": "/ˈpɪknɪk/",
           "pos": "n./v.",
           "definition": "郊游野餐，聚餐",
-          "example": "We had a picnic by the lake."
+          "example": "We had a picnic by the lake.",
+          "example_cn": "我们在湖边野餐。"
         },
         {
           "word": "sail",
           "phonetic": "/seɪl/",
           "pos": "v./n.",
           "definition": "帆；航行",
-          "example": "We plan to sail around the world."
+          "example": "We plan to sail around the world.",
+          "example_cn": "我们计划环游世界。"
         },
         {
           "word": "passport",
           "phonetic": "/ˈpɑːspɔːt/",
           "pos": "n.",
           "definition": "护照",
-          "example": "You need a passport to travel abroad."
+          "example": "You need a passport to travel abroad.",
+          "example_cn": "您需要护照才能出国旅行。"
         },
         {
           "word": "sight",
           "phonetic": "/saɪt/",
           "pos": "n.",
           "definition": "视力，景物",
-          "example": "The sunset was a beautiful sight."
+          "example": "The sunset was a beautiful sight.",
+          "example_cn": "日落景色很美。"
         },
         {
           "word": "tent",
           "phonetic": "/tent/",
           "pos": "n.",
           "definition": "帐篷",
-          "example": "We set up a tent in the mountains."
+          "example": "We set up a tent in the mountains.",
+          "example_cn": "我们在山上搭起了帐篷。"
         },
         {
           "word": "tour",
           "phonetic": "/tʊə(r)/",
           "pos": "n./v.",
           "definition": "旅行；旅游；参观；游览",
-          "example": "We took a tour of the ancient city."
+          "example": "We took a tour of the ancient city.",
+          "example_cn": "我们参观了古城。"
         },
         {
           "word": "travel",
           "phonetic": "/ˈtrævl/",
           "pos": "v./n.",
           "definition": "旅行；游历",
-          "example": "I love to travel to different countries."
+          "example": "I love to travel to different countries.",
+          "example_cn": "我喜欢去不同的国家旅行。"
         },
         {
           "word": "trip",
           "phonetic": "/trɪp/",
           "pos": "n.",
           "definition": "旅行",
-          "example": "We are planning a trip to Japan."
+          "example": "We are planning a trip to Japan.",
+          "example_cn": "我们正计划去日本旅行。"
         },
         {
           "word": "visit",
           "phonetic": "/ˈvɪzɪt/",
           "pos": "v./n.",
           "definition": "参观；游览;拜访；访问",
-          "example": "I will visit my grandparents this weekend."
+          "example": "I will visit my grandparents this weekend.",
+          "example_cn": "这个周末我将去看望我的祖父母。"
         }
       ]
     },
@@ -3144,56 +3576,64 @@
           "phonetic": "/eɪdʒ/",
           "pos": "n.",
           "definition": "时代，时期，年龄",
-          "example": "He started learning piano at the age of five."
+          "example": "He started learning piano at the age of five.",
+          "example_cn": "他五岁开始学习钢琴。"
         },
         {
           "word": "century",
           "phonetic": "/ˈsentʃəri/",
           "pos": "n.",
           "definition": "世纪",
-          "example": "The castle was built in the twelfth century."
+          "example": "The castle was built in the twelfth century.",
+          "example_cn": "这座城堡建于十二世纪。"
         },
         {
           "word": "future",
           "phonetic": "/ˈfjuːtʃə(r)/",
           "pos": "n./adj.",
           "definition": "未来，将来",
-          "example": "I dream about my future career."
+          "example": "I dream about my future career.",
+          "example_cn": "我梦想着我未来的职业生涯。"
         },
         {
           "word": "past",
           "phonetic": "/pɑːst/",
           "pos": "n./adj./prep.",
           "definition": "过去",
-          "example": "In the past, people traveled by horse."
+          "example": "In the past, people traveled by horse.",
+          "example_cn": "过去，人们出行都是骑马。"
         },
         {
           "word": "period",
           "phonetic": "/ˈpɪəriəd/",
           "pos": "n.",
           "definition": "时期",
-          "example": "The dinosaurs lived in a different period."
+          "example": "The dinosaurs lived in a different period.",
+          "example_cn": "恐龙生活在不同的时期。"
         },
         {
           "word": "present",
           "phonetic": "/ˈpreznt/",
           "pos": "n./adj.",
           "definition": "现在",
-          "example": "I live in the present, not the past."
+          "example": "I live in the present, not the past.",
+          "example_cn": "我活在现在，而不是过去。"
         },
         {
           "word": "time",
           "phonetic": "/taɪm/",
           "pos": "n.",
           "definition": "时间；时期；钟点；次，回",
-          "example": "Time flies when you're having fun."
+          "example": "Time flies when you're having fun.",
+          "example_cn": "当你玩得开心的时候，时间过得真快。"
         },
         {
           "word": "year",
           "phonetic": "/jɪə(r)/",
           "pos": "n.",
           "definition": "年",
-          "example": "A year has twelve months."
+          "example": "A year has twelve months.",
+          "example_cn": "一年有十二个月。"
         }
       ]
     },
@@ -3206,91 +3646,104 @@
           "phonetic": "/mʌnθ/",
           "pos": "n.",
           "definition": "月,月份",
-          "example": "My birthday is in the month of June."
+          "example": "My birthday is in the month of June.",
+          "example_cn": "我的生日是六月。"
         },
         {
           "word": "January",
           "phonetic": "/ˈdʒænjuəri/",
           "pos": "n.",
           "definition": "一月",
-          "example": "January is the first month of the year."
+          "example": "January is the first month of the year.",
+          "example_cn": "一月是一年中的第一个月。"
         },
         {
           "word": "February",
           "phonetic": "/ˈfebruəri/",
           "pos": "n.",
           "definition": "二月",
-          "example": "February has only twenty-eight days."
+          "example": "February has only twenty-eight days.",
+          "example_cn": "二月只有二十八天。"
         },
         {
           "word": "March",
           "phonetic": "/mɑːtʃ/",
           "pos": "n./v.",
           "definition": "三月",
-          "example": "March is when spring begins."
+          "example": "March is when spring begins.",
+          "example_cn": "三月是春天开始的时候。"
         },
         {
           "word": "April",
           "phonetic": "/ˈeɪprəl/",
           "pos": "n.",
           "definition": "四月",
-          "example": "April showers bring May flowers."
+          "example": "April showers bring May flowers.",
+          "example_cn": "四月的阵雨带来五月的花朵。"
         },
         {
           "word": "May",
           "phonetic": "/meɪ/",
           "pos": "aux./n.",
           "definition": "五月",
-          "example": "May Day is on the first of May."
+          "example": "May Day is on the first of May.",
+          "example_cn": "五一节是五月一日。"
         },
         {
           "word": "June",
           "phonetic": "/dʒuːn/",
           "pos": "n.",
           "definition": "六月",
-          "example": "June is a popular month for weddings."
+          "example": "June is a popular month for weddings.",
+          "example_cn": "六月是举办婚礼的热门月份。"
         },
         {
           "word": "July",
           "phonetic": "/dʒuˈlaɪ/",
           "pos": "n.",
           "definition": "七月",
-          "example": "July is the hottest month here."
+          "example": "July is the hottest month here.",
+          "example_cn": "七月是这里最热的月份。"
         },
         {
           "word": "August",
           "phonetic": "/ˈɔːɡəst/",
           "pos": "adj.",
           "definition": "八月",
-          "example": "School starts in late August."
+          "example": "School starts in late August.",
+          "example_cn": "学校于八月下旬开学。"
         },
         {
           "word": "September",
           "phonetic": "/sepˈtembə(r)/",
           "pos": "n.",
           "definition": "九月",
-          "example": "September is the start of autumn."
+          "example": "September is the start of autumn.",
+          "example_cn": "九月是秋天的开始。"
         },
         {
           "word": "October",
           "phonetic": "/ɒkˈtəʊbə(r)/",
           "pos": "n.",
           "definition": "十月",
-          "example": "October is my favorite month."
+          "example": "October is my favorite month.",
+          "example_cn": "十月是我最喜欢的月份。"
         },
         {
           "word": "November",
           "phonetic": "/nəʊˈvembə(r)/",
           "pos": "n.",
           "definition": "十一月",
-          "example": "November can be quite cold."
+          "example": "November can be quite cold.",
+          "example_cn": "十一月可能会很冷。"
         },
         {
           "word": "December",
           "phonetic": "/dɪˈsembə(r)/",
           "pos": "n.",
           "definition": "十二月",
-          "example": "December is the month of Christmas."
+          "example": "December is the month of Christmas.",
+          "example_cn": "十二月是圣诞节的月份。"
         }
       ]
     },
@@ -3303,63 +3756,72 @@
           "phonetic": "/nuːn/",
           "pos": "n.",
           "definition": "中午",
-          "example": "The sun is highest at noon."
+          "example": "The sun is highest at noon.",
+          "example_cn": "中午太阳最高。"
         },
         {
           "word": "afternoon",
           "phonetic": "/ˌɑːftəˈnuːn/",
           "pos": "n.",
           "definition": "下午；午后",
-          "example": "We have PE class in the afternoon."
+          "example": "We have PE class in the afternoon.",
+          "example_cn": "下午我们有体育课。"
         },
         {
           "word": "evening",
           "phonetic": "/ˈiːvnɪŋ/",
           "pos": "n.",
           "definition": "傍晚；黄昏；晚上",
-          "example": "I like to read in the evening."
+          "example": "I like to read in the evening.",
+          "example_cn": "我喜欢在晚上读书。"
         },
         {
           "word": "night",
           "phonetic": "/naɪt/",
           "pos": "n.",
           "definition": "夜；夜晚",
-          "example": "The stars shine bright at night."
+          "example": "The stars shine bright at night.",
+          "example_cn": "夜晚星星闪闪发亮。"
         },
         {
           "word": "hour",
           "phonetic": "/ˈaʊə(r)/",
           "pos": "n.",
           "definition": "小时；点钟",
-          "example": "The meeting lasted for two hours."
+          "example": "The meeting lasted for two hours.",
+          "example_cn": "会议持续了两个小时。"
         },
         {
           "word": "minute",
           "phonetic": "/ˈmɪnɪt/",
           "pos": "n./adj.",
           "definition": "分钟",
-          "example": "Wait a minute, I'm almost ready."
+          "example": "Wait a minute, I'm almost ready.",
+          "example_cn": "等一下，我快准备好了。"
         },
         {
           "word": "second",
           "phonetic": "/ˈsekənd/",
           "pos": "num./n./adj.",
           "definition": "秒",
-          "example": "I'll be there in a second."
+          "example": "I'll be there in a second.",
+          "example_cn": "我马上就到。"
         },
         {
           "word": "moment",
           "phonetic": "/ˈməʊmənt/",
           "pos": "n.",
           "definition": "瞬间；片刻",
-          "example": "Just a moment, please."
+          "example": "Just a moment, please.",
+          "example_cn": "请稍等片刻。"
         },
         {
           "word": "while",
           "phonetic": "/waɪl/",
           "pos": "n./conj.",
           "definition": "一会儿；一段时间",
-          "example": "I haven't seen him for a while."
+          "example": "I haven't seen him for a while.",
+          "example_cn": "我有一段时间没见到他了。"
         }
       ]
     },
@@ -3372,35 +3834,40 @@
           "phonetic": "/əˈmerɪkə/",
           "pos": "n.",
           "definition": "美洲",
-          "example": "America is a continent with many countries."
+          "example": "America is a continent with many countries.",
+          "example_cn": "美洲是一个拥有许多国家的大陆。"
         },
         {
           "word": "Asia",
           "phonetic": "/ˈeɪʒə/",
           "pos": "n.",
           "definition": "亚洲",
-          "example": "Asia is the largest continent."
+          "example": "Asia is the largest continent.",
+          "example_cn": "亚洲是最大的大陆。"
         },
         {
           "word": "Atlantic",
           "phonetic": "/ətˈlæntɪk/",
           "pos": "adj./n.",
           "definition": "大西洋",
-          "example": "The Atlantic Ocean separates America and Europe."
+          "example": "The Atlantic Ocean separates America and Europe.",
+          "example_cn": "大西洋将美洲和欧洲分开。"
         },
         {
           "word": "Europe",
           "phonetic": "/ˈjʊərəp/",
           "pos": "n.",
           "definition": "欧洲",
-          "example": "Europe has many beautiful old cities."
+          "example": "Europe has many beautiful old cities.",
+          "example_cn": "欧洲有许多美丽的古老城市。"
         },
         {
           "word": "Pacific",
           "phonetic": "/pəˈsɪfɪk/",
           "pos": "adj./n.",
           "definition": "太平洋",
-          "example": "The Pacific is the largest ocean."
+          "example": "The Pacific is the largest ocean.",
+          "example_cn": "太平洋是最大的海洋。"
         }
       ]
     },
@@ -3413,189 +3880,216 @@
           "phonetic": "/əˈdres/",
           "pos": "n./v.",
           "definition": "住址；地址；通讯处",
-          "example": "What is your home address?"
+          "example": "What is your home address?",
+          "example_cn": "您的家庭住址是什么？"
         },
         {
           "word": "area",
           "phonetic": "/ˈeəriə/",
           "pos": "n.",
           "definition": "地区，面积",
-          "example": "This area is famous for its tea."
+          "example": "This area is famous for its tea.",
+          "example_cn": "该地区以茶闻名。"
         },
         {
           "word": "bottom",
           "phonetic": "/ˈbɒtəm/",
           "pos": "n.",
           "definition": "底部",
-          "example": "The treasure was at the bottom of the sea."
+          "example": "The treasure was at the bottom of the sea.",
+          "example_cn": "宝藏就在海底。"
         },
         {
           "word": "break",
           "phonetic": "/breɪk/",
           "pos": "v./n.",
           "definition": "间隙",
-          "example": "Let's take a ten-minute break."
+          "example": "Let's take a ten-minute break.",
+          "example_cn": "我们休息十分钟吧。"
         },
         {
           "word": "corner",
           "phonetic": "/ˈkɔːnə(r)/",
           "pos": "n./v.",
           "definition": "角，角落，拐角",
-          "example": "The shop is on the corner of Main Street."
+          "example": "The shop is on the corner of Main Street.",
+          "example_cn": "这家商店位于主街的拐角处。"
         },
         {
           "word": "dark",
           "phonetic": "/dɑːk/",
           "pos": "n./adj.",
           "definition": "暗处",
-          "example": "Don't be afraid of the dark."
+          "example": "Don't be afraid of the dark.",
+          "example_cn": "不要害怕黑暗。"
         },
         {
           "word": "east",
           "phonetic": "/iːst/",
           "pos": "n./adj./adv.",
           "definition": "东，东部",
-          "example": "The sun rises in the east."
+          "example": "The sun rises in the east.",
+          "example_cn": "太阳从东方升起。"
         },
         {
           "word": "edge",
           "phonetic": "/edʒ/",
           "pos": "n.",
           "definition": "边缘",
-          "example": "Be careful near the edge of the cliff."
+          "example": "Be careful near the edge of the cliff.",
+          "example_cn": "在悬崖边缘附近要小心。"
         },
         {
           "word": "end",
           "phonetic": "/end/",
           "pos": "n./v.",
           "definition": "结束；终止；穷尽；到…..的尽头",
-          "example": "The story has a happy end."
+          "example": "The story has a happy end.",
+          "example_cn": "这个故事有一个幸福的结局。"
         },
         {
           "word": "first",
           "phonetic": "/fɜːst/",
           "pos": "num./adv./adj.",
           "definition": "开始，开端",
-          "example": "I came first in the race."
+          "example": "I came first in the race.",
+          "example_cn": "我在比赛中获得了第一名。"
         },
         {
           "word": "floor",
           "phonetic": "/flɔː(r)/",
           "pos": "n.",
           "definition": "楼层；层",
-          "example": "My classroom is on the third floor."
+          "example": "My classroom is on the third floor.",
+          "example_cn": "我的教室在三楼。"
         },
         {
           "word": "front",
           "phonetic": "/frʌnt/",
           "pos": "n./adj.",
           "definition": "前面的；前部的；前面；前部；前线",
-          "example": "Please sit in the front of the class."
+          "example": "Please sit in the front of the class.",
+          "example_cn": "请坐在班级的前面。"
         },
         {
           "word": "last",
           "phonetic": "/lɑːst/",
           "pos": "adj./adv./n.",
           "definition": "最后",
-          "example": "December is the last month of the year."
+          "example": "December is the last month of the year.",
+          "example_cn": "十二月是一年中的最后一个月。"
         },
         {
           "word": "left",
           "phonetic": "/left/",
           "pos": "adj./adv./n.",
           "definition": "左边；左面；左方",
-          "example": "Turn left at the traffic lights."
+          "example": "Turn left at the traffic lights.",
+          "example_cn": "在红绿灯处左转。"
         },
         {
           "word": "level",
           "phonetic": "/ˈlevl/",
           "pos": "n./adj.",
           "definition": "水平线，水平",
-          "example": "The water level rose after the rain."
+          "example": "The water level rose after the rain.",
+          "example_cn": "雨后水位上升。"
         },
         {
           "word": "line",
           "phonetic": "/laɪn/",
           "pos": "n./v.",
           "definition": "（人或物之）排；列",
-          "example": "Please stand in a straight line."
+          "example": "Please stand in a straight line.",
+          "example_cn": "请站成一条直线。"
         },
         {
           "word": "middle",
           "phonetic": "/ˈmɪdl/",
           "pos": "n./adj.",
           "definition": "中间；当中；中级的",
-          "example": "I sat in the middle of the row."
+          "example": "I sat in the middle of the row.",
+          "example_cn": "我坐在一排的中间。"
         },
         {
           "word": "north",
           "phonetic": "/nɔːθ/",
           "pos": "n./adj./adv.",
           "definition": "北方",
-          "example": "Canada is to the north of America."
+          "example": "Canada is to the north of America.",
+          "example_cn": "加拿大位于美洲北部。"
         },
         {
           "word": "outside",
           "phonetic": "/ˌaʊtˈsaɪd/",
           "pos": "n./adj./adv./prep.",
           "definition": "在外面",
-          "example": "It's cold outside, wear a coat."
+          "example": "It's cold outside, wear a coat.",
+          "example_cn": "外面冷，穿件外套吧。"
         },
         {
           "word": "position",
           "phonetic": "/pəˈzɪʃn/",
           "pos": "n.",
           "definition": "位置，形势",
-          "example": "What is your position in the company?"
+          "example": "What is your position in the company?",
+          "example_cn": "你在公司的职位是什么？"
         },
         {
           "word": "side",
           "phonetic": "/saɪd/",
           "pos": "n./v.",
           "definition": "边，旁边，面，侧面",
-          "example": "Whose side are you on?"
+          "example": "Whose side are you on?",
+          "example_cn": "你站在哪一边？"
         },
         {
           "word": "south",
           "phonetic": "/saʊθ/",
           "pos": "n./adj./adv.",
           "definition": "南方",
-          "example": "Australia is in the Southern Hemisphere."
+          "example": "Australia is in the Southern Hemisphere.",
+          "example_cn": "澳大利亚位于南半球。"
         },
         {
           "word": "space",
           "phonetic": "/speɪs/",
           "pos": "n.",
           "definition": "空间",
-          "example": "There is not enough space in this room."
+          "example": "There is not enough space in this room.",
+          "example_cn": "这个房间没有足够的空间。"
         },
         {
           "word": "surface",
           "phonetic": "/ˈsɜːfɪs/",
           "pos": "n.",
           "definition": "表面",
-          "example": "The surface of the lake was calm."
+          "example": "The surface of the lake was calm.",
+          "example_cn": "湖面平静。"
         },
         {
           "word": "there",
           "phonetic": "/ðeə(r)/",
           "pos": "adv.",
           "definition": "那里，那儿",
-          "example": "Put the book over there."
+          "example": "Put the book over there.",
+          "example_cn": "把书放在那儿。"
         },
         {
           "word": "top",
           "phonetic": "/tɒp/",
           "pos": "n./adj.",
           "definition": "顶；上部",
-          "example": "The bird sat on the top of the tree."
+          "example": "The bird sat on the top of the tree.",
+          "example_cn": "那只鸟坐在树顶上。"
         },
         {
           "word": "west",
           "phonetic": "/west/",
           "pos": "n./adj./adv.",
           "definition": "西方",
-          "example": "The sun sets in the west."
+          "example": "The sun sets in the west.",
+          "example_cn": "太阳从西边落下。"
         }
       ]
     },
@@ -3608,77 +4102,88 @@
           "phonetic": "/biː/",
           "pos": "n.",
           "definition": "蜜蜂",
-          "example": "A bee is busy collecting nectar."
+          "example": "A bee is busy collecting nectar.",
+          "example_cn": "一只蜜蜂正忙着采集花蜜。"
         },
         {
           "word": "bird",
           "phonetic": "/bɜːd/",
           "pos": "n.",
           "definition": "鸟",
-          "example": "The bird sang beautifully in the tree."
+          "example": "The bird sang beautifully in the tree.",
+          "example_cn": "小鸟在树上唱着美妙的歌。"
         },
         {
           "word": "butterfly",
           "phonetic": "/ˈbʌtəflaɪ/",
           "pos": "n.",
           "definition": "蝴蝶",
-          "example": "A butterfly landed on the flower."
+          "example": "A butterfly landed on the flower.",
+          "example_cn": "一只蝴蝶落在花上。"
         },
         {
           "word": "chicken",
           "phonetic": "/ˈtʃɪkɪn/",
           "pos": "n.",
           "definition": "鸡",
-          "example": "We had fried chicken for lunch."
+          "example": "We had fried chicken for lunch.",
+          "example_cn": "我们午餐吃了炸鸡。"
         },
         {
           "word": "duck",
           "phonetic": "/dʌk/",
           "pos": "n./v.",
           "definition": "鸭子",
-          "example": "The duck swam across the pond."
+          "example": "The duck swam across the pond.",
+          "example_cn": "鸭子游过了池塘。"
         },
         {
           "word": "fish",
           "phonetic": "/fɪʃ/",
           "pos": "n./v.",
           "definition": "鱼，鱼肉；钓鱼",
-          "example": "I caught a big fish in the river."
+          "example": "I caught a big fish in the river.",
+          "example_cn": "我在河里钓到了一条大鱼。"
         },
         {
           "word": "fly",
           "phonetic": "/flaɪ/",
           "pos": "v./n.",
           "definition": "苍蝇",
-          "example": "A fly buzzed around the room."
+          "example": "A fly buzzed around the room.",
+          "example_cn": "一只苍蝇在房间里嗡嗡地飞来飞去。"
         },
         {
           "word": "goose",
           "phonetic": "/ɡuːs/",
           "pos": "n.",
           "definition": "鹅",
-          "example": "The goose hissed at the stranger."
+          "example": "The goose hissed at the stranger.",
+          "example_cn": "鹅对陌生人发出嘶嘶声。"
         },
         {
           "word": "hen",
           "phonetic": "/hen/",
           "pos": "n.",
           "definition": "母鸡",
-          "example": "The hen laid an egg this morning."
+          "example": "The hen laid an egg this morning.",
+          "example_cn": "母鸡今天早上下了一个蛋。"
         },
         {
           "word": "whale",
           "phonetic": "/weɪl/",
           "pos": "n.",
           "definition": "鲸鱼",
-          "example": "The whale is the largest animal on Earth."
+          "example": "The whale is the largest animal on Earth.",
+          "example_cn": "鲸鱼是地球上最大的动物。"
         },
         {
           "word": "wing",
           "phonetic": "/wɪŋ/",
           "pos": "n.",
           "definition": "翅膀，翼",
-          "example": "The bird spread its wings and flew away."
+          "example": "The bird spread its wings and flew away.",
+          "example_cn": "小鸟展开翅膀飞走了。"
         }
       ]
     },
@@ -3691,112 +4196,128 @@
           "phonetic": "/dɪˈɡriː/",
           "pos": "n.",
           "definition": "度数",
-          "example": "Water freezes at zero degrees Celsius."
+          "example": "Water freezes at zero degrees Celsius.",
+          "example_cn": "水在零摄氏度时结冰。"
         },
         {
           "word": "drop",
           "phonetic": "/drɒp/",
           "pos": "v./n.",
           "definition": "滴",
-          "example": "A drop of rain fell on my nose."
+          "example": "A drop of rain fell on my nose.",
+          "example_cn": "一滴雨落在我的鼻子上。"
         },
         {
           "word": "inch",
           "phonetic": "/ɪntʃ/",
           "pos": "n.",
           "definition": "英寸",
-          "example": "The table is about thirty inches long."
+          "example": "The table is about thirty inches long.",
+          "example_cn": "桌子长约三十英寸。"
         },
         {
           "word": "kind",
           "phonetic": "/kaɪnd/",
           "pos": "n./adj.",
           "definition": "种类",
-          "example": "What kind of music do you like?"
+          "example": "What kind of music do you like?",
+          "example_cn": "你喜欢什么样的音乐？"
         },
         {
           "word": "meter",
           "phonetic": "/ˈmiːtə(r)/",
           "pos": "n.",
           "definition": "英 metre，米；公尺",
-          "example": "The room is five meters wide."
+          "example": "The room is five meters wide.",
+          "example_cn": "房间宽五米。"
         },
         {
           "word": "mile",
           "phonetic": "/maɪl/",
           "pos": "n.",
           "definition": "英里",
-          "example": "We walked for about three miles."
+          "example": "We walked for about three miles.",
+          "example_cn": "我们走了大约三英里。"
         },
         {
           "word": "once",
           "phonetic": "/wʌns/",
           "pos": "adv./conj.",
           "definition": "一次；一度",
-          "example": "I have been to Paris once."
+          "example": "I have been to Paris once.",
+          "example_cn": "我去过巴黎一次。"
         },
         {
           "word": "package",
           "phonetic": "/ˈpækɪdʒ/",
           "pos": "n.",
           "definition": "一包，一袋，一盒",
-          "example": "I received a package from my friend."
+          "example": "I received a package from my friend.",
+          "example_cn": "我收到了朋友寄来的包裹。"
         },
         {
           "word": "pair",
           "phonetic": "/peə(r)/",
           "pos": "n.",
           "definition": "一双；一队",
-          "example": "I need a new pair of shoes."
+          "example": "I need a new pair of shoes.",
+          "example_cn": "我需要一双新鞋。"
         },
         {
           "word": "passage",
           "phonetic": "/ˈpæsɪdʒ/",
           "pos": "n.",
           "definition": "（文章等的）一节，一段",
-          "example": "Read the passage and answer the questions."
+          "example": "Read the passage and answer the questions.",
+          "example_cn": "阅读短文并回答问题。"
         },
         {
           "word": "piece",
           "phonetic": "/piːs/",
           "pos": "n.",
           "definition": "一（片，张，件）",
-          "example": "Can I have a piece of cake?"
+          "example": "Can I have a piece of cake?",
+          "example_cn": "我可以吃一块蛋糕吗？"
         },
         {
           "word": "pound",
           "phonetic": "/paʊnd/",
           "pos": "n.",
           "definition": "英镑",
-          "example": "The baby weighs eight pounds."
+          "example": "The baby weighs eight pounds.",
+          "example_cn": "婴儿重八磅。"
         },
         {
           "word": "row",
           "phonetic": "/rəʊ/",
           "pos": "n./v.",
           "definition": "一（排）；一（行）",
-          "example": "We sat in the front row of the theater."
+          "example": "We sat in the front row of the theater.",
+          "example_cn": "我们坐在剧院的前排。"
         },
         {
           "word": "sort",
           "phonetic": "/sɔːt/",
           "pos": "n./v.",
           "definition": "种类；类别",
-          "example": "What sort of books do you like?"
+          "example": "What sort of books do you like?",
+          "example_cn": "你喜欢什么类型的书？"
         },
         {
           "word": "ton",
           "phonetic": "/tʌn/",
           "pos": "n.",
           "definition": "（重量单位）吨",
-          "example": "The truck can carry up to ten tons."
+          "example": "The truck can carry up to ten tons.",
+          "example_cn": "这辆卡车最多可运载十吨。"
         },
         {
           "word": "weight",
           "phonetic": "/weɪt/",
           "pos": "n.",
           "definition": "重量，体重",
-          "example": "I am trying to lose some weight."
+          "example": "I am trying to lose some weight.",
+          "example_cn": "我正在努力减肥。"
         }
       ]
     },
@@ -3809,84 +4330,96 @@
           "phonetic": "/ˈbɪznəs/",
           "pos": "n.",
           "definition": "商业，买卖，交易",
-          "example": "He started his own business last year."
+          "example": "He started his own business last year.",
+          "example_cn": "他去年开始自己创业。"
         },
         {
           "word": "cost",
           "phonetic": "/kɒst/",
           "pos": "n./v.",
           "definition": "价格",
-          "example": "How much does this book cost?"
+          "example": "How much does this book cost?",
+          "example_cn": "这本书多少钱？"
         },
         {
           "word": "deal",
           "phonetic": "/diːl/",
           "pos": "n./v.",
           "definition": "协议，交易",
-          "example": "We made a deal with the supplier."
+          "example": "We made a deal with the supplier.",
+          "example_cn": "我们与供应商达成了协议。"
         },
         {
           "word": "fair",
           "phonetic": "/feə(r)/",
           "pos": "n./adj.",
           "definition": "展览会；市集",
-          "example": "We went to the book fair last weekend."
+          "example": "We went to the book fair last weekend.",
+          "example_cn": "上周末我们去了书展。"
         },
         {
           "word": "industry",
           "phonetic": "/ˈɪndəstri/",
           "pos": "n.",
           "definition": "工业，企业",
-          "example": "Tourism is an important industry here."
+          "example": "Tourism is an important industry here.",
+          "example_cn": "旅游业是这里的重要产业。"
         },
         {
           "word": "list",
           "phonetic": "/lɪst/",
           "pos": "n./v.",
           "definition": "一览表，清单",
-          "example": "Make a list of things you need to buy."
+          "example": "Make a list of things you need to buy.",
+          "example_cn": "列出您需要购买的物品清单。"
         },
         {
           "word": "sale",
           "phonetic": "/seɪl/",
           "pos": "n.",
           "definition": "出售；销售",
-          "example": "The store is having a big sale."
+          "example": "The store is having a big sale.",
+          "example_cn": "商店正在进行大促销。"
         },
         {
           "word": "show",
           "phonetic": "/ʃəʊ/",
           "pos": "v./n.",
           "definition": "展览；展览会",
-          "example": "The fashion show was amazing."
+          "example": "The fashion show was amazing.",
+          "example_cn": "时装秀真是太棒了。"
         },
         {
           "word": "supply",
           "phonetic": "/səˈplaɪ/",
           "pos": "n./v.",
           "definition": "供给，补给；供应品",
-          "example": "We need to supply more water to the village."
+          "example": "We need to supply more water to the village.",
+          "example_cn": "我们需要向村庄供应更多的水。"
         },
         {
           "word": "total",
           "phonetic": "/ˈtəʊtl/",
           "pos": "n./adj./v.",
           "definition": "总计，合计",
-          "example": "The total cost is one hundred yuan."
+          "example": "The total cost is one hundred yuan.",
+          "example_cn": "总共花费一百元。"
         },
         {
           "word": "trade",
           "phonetic": "/treɪd/",
           "pos": "n./v.",
           "definition": "交易，贸易",
-          "example": "Trade between the two countries has increased."
+          "example": "Trade between the two countries has increased.",
+          "example_cn": "两国之间的贸易有所增加。"
         },
         {
           "word": "value",
           "phonetic": "/ˈvæljuː/",
           "pos": "n./v.",
           "definition": "价值，价格",
-          "example": "The value of this painting is very high."
+          "example": "The value of this painting is very high.",
+          "example_cn": "这幅画的价值非常高。"
         }
       ]
     },
@@ -3899,147 +4432,168 @@
           "phonetic": "/bɔːd/",
           "pos": "n./v.",
           "definition": "甲板、木板",
-          "example": "Write your name on the board."
+          "example": "Write your name on the board.",
+          "example_cn": "把你的名字写在黑板上。"
         },
         {
           "word": "chalk",
           "phonetic": "/tʃɔːk/",
           "pos": "n.",
           "definition": "粉笔",
-          "example": "The teacher wrote with a piece of chalk."
+          "example": "The teacher wrote with a piece of chalk.",
+          "example_cn": "老师用粉笔写字。"
         },
         {
           "word": "coal",
           "phonetic": "/kəʊl/",
           "pos": "n.",
           "definition": "煤",
-          "example": "Coal was used to power steam engines."
+          "example": "Coal was used to power steam engines.",
+          "example_cn": "煤炭被用来为蒸汽机提供动力。"
         },
         {
           "word": "fat",
           "phonetic": "/fæt/",
           "pos": "n./adj.",
           "definition": "脂肪",
-          "example": "Too much fat is bad for your health."
+          "example": "Too much fat is bad for your health.",
+          "example_cn": "过多的脂肪对你的健康有害。"
         },
         {
           "word": "fire",
           "phonetic": "/ˈfaɪə(r)/",
           "pos": "n./v.",
           "definition": "火",
-          "example": "Be careful with fire in the forest."
+          "example": "Be careful with fire in the forest.",
+          "example_cn": "小心森林里的火灾。"
         },
         {
           "word": "glass",
           "phonetic": "/ɡlɑːs/",
           "pos": "n.",
           "definition": "玻璃",
-          "example": "The window was made of thick glass."
+          "example": "The window was made of thick glass.",
+          "example_cn": "窗户是用厚玻璃制成的。"
         },
         {
           "word": "gold",
           "phonetic": "/ɡəʊld/",
           "pos": "n./adj.",
           "definition": "金子，黄金",
-          "example": "Gold is a precious metal."
+          "example": "Gold is a precious metal.",
+          "example_cn": "黄金是一种贵金属。"
         },
         {
           "word": "ice",
           "phonetic": "/aɪs/",
           "pos": "n.",
           "definition": "冰",
-          "example": "The lake was covered with ice in winter."
+          "example": "The lake was covered with ice in winter.",
+          "example_cn": "冬天，湖面结满了冰。"
         },
         {
           "word": "iron",
           "phonetic": "/ˈaɪən/",
           "pos": "n./v.",
           "definition": "铸铁",
-          "example": "The gate is made of iron."
+          "example": "The gate is made of iron.",
+          "example_cn": "门是铁制的。"
         },
         {
           "word": "metal",
           "phonetic": "/ˈmetl/",
           "pos": "n.",
           "definition": "金属",
-          "example": "Gold is a valuable metal."
+          "example": "Gold is a valuable metal.",
+          "example_cn": "黄金是一种有价值的金属。"
         },
         {
           "word": "matter",
           "phonetic": "/ˈmætə(r)/",
           "pos": "n./v.",
           "definition": "物质",
-          "example": "What's the matter? You look sad."
+          "example": "What's the matter? You look sad.",
+          "example_cn": "怎么了？"
         },
         {
           "word": "object",
           "phonetic": "/ˈɒbdʒɪkt/",
           "pos": "n./v.",
           "definition": "物，物体",
-          "example": "What is that strange object on the table?"
+          "example": "What is that strange object on the table?",
+          "example_cn": "你看起来很悲伤。"
         },
         {
           "word": "oil",
           "phonetic": "/ɔɪl/",
           "pos": "n.",
           "definition": "油类；油",
-          "example": "We use oil to cook food."
+          "example": "We use oil to cook food.",
+          "example_cn": "桌子上那个奇怪的东西是什么？"
         },
         {
           "word": "rock",
           "phonetic": "/rɒk/",
           "pos": "n./v.",
           "definition": "岩石",
-          "example": "The climber stood on a large rock."
+          "example": "The climber stood on a large rock.",
+          "example_cn": "我们用油来烹饪食物。"
         },
         {
           "word": "paint",
           "phonetic": "/peɪnt/",
           "pos": "n./v.",
           "definition": "油漆；颜料",
-          "example": "We need to buy some paint for the walls."
+          "example": "We need to buy some paint for the walls.",
+          "example_cn": "登山者站在一块大岩石上。"
         },
         {
           "word": "rubber",
           "phonetic": "/ˈrʌbə(r)/",
           "pos": "n.",
           "definition": "橡皮；橡胶",
-          "example": "I used a rubber to erase the mistake."
+          "example": "I used a rubber to erase the mistake.",
+          "example_cn": "我们需要买一些墙漆。"
         },
         {
           "word": "sand",
           "phonetic": "/sænd/",
           "pos": "n.",
           "definition": "沙；沙子",
-          "example": "The children played in the sand."
+          "example": "The children played in the sand.",
+          "example_cn": "我用橡皮擦掉了错误。"
         },
         {
           "word": "silk",
           "phonetic": "/sɪlk/",
           "pos": "n.",
           "definition": "（蚕）丝；绸；丝织品",
-          "example": "Silk is a soft and smooth fabric."
+          "example": "Silk is a soft and smooth fabric.",
+          "example_cn": "孩子们在沙子里玩耍。"
         },
         {
           "word": "silver",
           "phonetic": "/ˈsɪlvə(r)/",
           "pos": "n./adj.",
           "definition": "银",
-          "example": "She wore a beautiful silver necklace."
+          "example": "She wore a beautiful silver necklace.",
+          "example_cn": "丝绸是一种柔软光滑的织物。"
         },
         {
           "word": "steel",
           "phonetic": "/stiːl/",
           "pos": "n.",
           "definition": "钢，钢铁",
-          "example": "The bridge is made of steel."
+          "example": "The bridge is made of steel.",
+          "example_cn": "她戴着一条漂亮的银项链。"
         },
         {
           "word": "stone",
           "phonetic": "/stəʊn/",
           "pos": "n.",
           "definition": "石头；石块",
-          "example": "He threw a stone into the water."
+          "example": "He threw a stone into the water.",
+          "example_cn": "这座桥是钢制的。"
         }
       ]
     },
@@ -4052,203 +4606,232 @@
           "phonetic": "/kɔːl/",
           "pos": "v./n.",
           "definition": "喊,叫;电话,通话",
-          "example": "I'll call you when I get home."
+          "example": "I'll call you when I get home.",
+          "example_cn": "他把一块石头扔进水里。"
         },
         {
           "word": "control",
           "phonetic": "/kənˈtrəʊl/",
           "pos": "v./n.",
           "definition": "控制",
-          "example": "You need to learn to control your temper."
+          "example": "You need to learn to control your temper.",
+          "example_cn": "我到家后会给你打电话。"
         },
         {
           "word": "discovery",
           "phonetic": "/dɪˈskʌvəri/",
           "pos": "n.",
           "definition": "发现",
-          "example": "The discovery of penicillin saved many lives."
+          "example": "The discovery of penicillin saved many lives.",
+          "example_cn": "你需要学会控制自己的脾气。"
         },
         {
           "word": "fight",
           "phonetic": "/faɪt/",
           "pos": "v./n.",
           "definition": "打架，斗争",
-          "example": "The two boys had a fight in the playground."
+          "example": "The two boys had a fight in the playground.",
+          "example_cn": "青霉素的发现拯救了许多人的生命。"
         },
         {
           "word": "help",
           "phonetic": "/help/",
           "pos": "v./n.",
           "definition": "帮助",
-          "example": "Can you help me with my homework?"
+          "example": "Can you help me with my homework?",
+          "example_cn": "两个男孩在操场上打架了。"
         },
         {
           "word": "hit",
           "phonetic": "/hɪt/",
           "pos": "v./n.",
           "definition": "打，击；",
-          "example": "The ball hit the window and broke it."
+          "example": "The ball hit the window and broke it.",
+          "example_cn": "你能帮我做作业吗？"
         },
         {
           "word": "hurry",
           "phonetic": "/ˈhʌri/",
           "pos": "v./n.",
           "definition": "赶紧，急忙",
-          "example": "Hurry up, or we'll miss the bus."
+          "example": "Hurry up, or we'll miss the bus.",
+          "example_cn": "快点吧，不然我们就错过公共汽车了。"
         },
         {
           "word": "idea",
           "phonetic": "/aɪˈdɪə/",
           "pos": "n.",
           "definition": "计划；计策；主意；想法；意见",
-          "example": "I have a good idea for the project."
+          "example": "I have a good idea for the project.",
+          "example_cn": "我对这个项目有一个好主意。"
         },
         {
           "word": "increase",
           "phonetic": "/ɪnˈkriːs/",
           "pos": "v./n.",
           "definition": "增长",
-          "example": "The price of oil has increased."
+          "example": "The price of oil has increased.",
+          "example_cn": "石油价格上涨了。"
         },
         {
           "word": "instruction",
           "phonetic": "/ɪnˈstrʌkʃn/",
           "pos": "n.",
           "definition": "教导，指令，命令",
-          "example": "Follow the instruction carefully."
+          "example": "Follow the instruction carefully.",
+          "example_cn": "仔细按照说明进行操作。"
         },
         {
           "word": "introduction",
           "phonetic": "/ˌɪntrəˈdʌkʃn/",
           "pos": "n.",
           "definition": "介绍，引见",
-          "example": "Let me give you a brief introduction."
+          "example": "Let me give you a brief introduction.",
+          "example_cn": "我给大家简单介绍一下。"
         },
         {
           "word": "joke",
           "phonetic": "/dʒəʊk/",
           "pos": "n./v.",
           "definition": "笑话，玩笑",
-          "example": "He told a funny joke and everyone laughed."
+          "example": "He told a funny joke and everyone laughed.",
+          "example_cn": "他讲了一个有趣的笑话，大家都笑了。"
         },
         {
           "word": "kiss",
           "phonetic": "/kɪs/",
           "pos": "v./n.",
           "definition": "吻，轻拂",
-          "example": "She gave her mother a kiss goodbye."
+          "example": "She gave her mother a kiss goodbye.",
+          "example_cn": "她向母亲吻别。"
         },
         {
           "word": "knock",
           "phonetic": "/nɒk/",
           "pos": "v./n.",
           "definition": "敲，打，击",
-          "example": "Someone is knocking at the door."
+          "example": "Someone is knocking at the door.",
+          "example_cn": "有人在敲门。"
         },
         {
           "word": "mention",
           "phonetic": "/ˈmenʃn/",
           "pos": "v./n.",
           "definition": "提及，关于",
-          "example": "Did he mention my name?"
+          "example": "Did he mention my name?",
+          "example_cn": "他有提到我的名字吗？"
         },
         {
           "word": "offer",
           "phonetic": "/ˈɒfə(r)/",
           "pos": "v./n.",
           "definition": "提供，提议，出价，意图",
-          "example": "Can I offer you a cup of coffee?"
+          "example": "Can I offer you a cup of coffee?",
+          "example_cn": "我可以请你喝杯咖啡吗？"
         },
         {
           "word": "pull",
           "phonetic": "/pʊl/",
           "pos": "v./n.",
           "definition": "拉力，引力",
-          "example": "Pull the door, don't push it."
+          "example": "Pull the door, don't push it.",
+          "example_cn": "拉门，不要推门。"
         },
         {
           "word": "push",
           "phonetic": "/pʊʃ/",
           "pos": "v./n.",
           "definition": "推",
-          "example": "Push the button to start the machine."
+          "example": "Push the button to start the machine.",
+          "example_cn": "按下按钮启动机器。"
         },
         {
           "word": "repair",
           "phonetic": "/rɪˈpeə(r)/",
           "pos": "v./n.",
           "definition": "修理，修补",
-          "example": "He knows how to repair bicycles."
+          "example": "He knows how to repair bicycles.",
+          "example_cn": "他知道如何修理自行车。"
         },
         {
           "word": "sail",
           "phonetic": "/seɪl/",
           "pos": "v./n.",
           "definition": "航海，航行",
-          "example": "We plan to sail around the world."
+          "example": "We plan to sail around the world.",
+          "example_cn": "我们计划环游世界。"
         },
         {
           "word": "shout",
           "phonetic": "/ʃaʊt/",
           "pos": "v./n.",
           "definition": "呼喊",
-          "example": "Don't shout at me, I'm not deaf."
+          "example": "Don't shout at me, I'm not deaf.",
+          "example_cn": "别对我大喊大叫，我又不是聋子。"
         },
         {
           "word": "smoke",
           "phonetic": "/sməʊk/",
           "pos": "n./v.",
           "definition": "吸烟；抽烟",
-          "example": "Smoking is not allowed in this building."
+          "example": "Smoking is not allowed in this building.",
+          "example_cn": "这栋大楼内禁止吸烟。"
         },
         {
           "word": "speech",
           "phonetic": "/spiːtʃ/",
           "pos": "n.",
           "definition": "演讲",
-          "example": "The president gave an important speech."
+          "example": "The president gave an important speech.",
+          "example_cn": "总统发表重要讲话。"
         },
         {
           "word": "stay",
           "phonetic": "/steɪ/",
           "pos": "v./n.",
           "definition": "逗留，停止",
-          "example": "Please stay here until I come back."
+          "example": "Please stay here until I come back.",
+          "example_cn": "请留在这里直到我回来。"
         },
         {
           "word": "survey",
           "phonetic": "/ˈsɜːveɪ/",
           "pos": "n./v.",
           "definition": "调查，勘测，检查",
-          "example": "We did a survey about students' hobbies."
+          "example": "We did a survey about students' hobbies.",
+          "example_cn": "我们对学生的兴趣爱好进行了调查。"
         },
         {
           "word": "swing",
           "phonetic": "/swɪŋ/",
           "pos": "v./n.",
           "definition": "摇摆，摇动",
-          "example": "The children love to swing on the playground."
+          "example": "The children love to swing on the playground.",
+          "example_cn": "孩子们喜欢在操场上荡秋千。"
         },
         {
           "word": "wash",
           "phonetic": "/wɒʃ/",
           "pos": "v./n.",
           "definition": "洗涤",
-          "example": "Don't forget to wash your hands."
+          "example": "Don't forget to wash your hands.",
+          "example_cn": "别忘了洗手。"
         },
         {
           "word": "talk",
           "phonetic": "/tɔːk/",
           "pos": "v./n.",
           "definition": "谈话，空谈，演讲",
-          "example": "Can we talk about this later?"
+          "example": "Can we talk about this later?",
+          "example_cn": "我们可以稍后再讨论这个吗？"
         },
         {
           "word": "use",
           "phonetic": "/juːz/",
           "pos": "v./n.",
           "definition": "使用，利用，应用",
-          "example": "How do you use this machine?"
+          "example": "How do you use this machine?",
+          "example_cn": "你如何使用这台机器？"
         }
       ]
     },
@@ -4261,112 +4844,128 @@
           "phonetic": "/ədˈvɑːntɪdʒ/",
           "pos": "n.",
           "definition": "优点",
-          "example": "Living in the city has many advantages."
+          "example": "Living in the city has many advantages.",
+          "example_cn": "生活在城市有很多优势。"
         },
         {
           "word": "age",
           "phonetic": "/eɪdʒ/",
           "pos": "n.",
           "definition": "年龄,年纪",
-          "example": "He started learning piano at the age of five."
+          "example": "He started learning piano at the age of five.",
+          "example_cn": "他五岁开始学习钢琴。"
         },
         {
           "word": "danger",
           "phonetic": "/ˈdeɪndʒə(r)/",
           "pos": "n.",
           "definition": "危险",
-          "example": "Swimming here is very dangerous."
+          "example": "Swimming here is very dangerous.",
+          "example_cn": "在这里游泳是非常危险的。"
         },
         {
           "word": "friendship",
           "phonetic": "/ˈfrendʃɪp/",
           "pos": "n.",
           "definition": "友谊，友爱",
-          "example": "True friendship lasts forever."
+          "example": "True friendship lasts forever.",
+          "example_cn": "真正的友谊天长地久。"
         },
         {
           "word": "gesture",
           "phonetic": "/ˈdʒestʃə(r)/",
           "pos": "n./v.",
           "definition": "手势",
-          "example": "He made a gesture to show his approval."
+          "example": "He made a gesture to show his approval.",
+          "example_cn": "他做了一个手势以表示同意。"
         },
         {
           "word": "hope",
           "phonetic": "/həʊp/",
           "pos": "n./v.",
           "definition": "希望",
-          "example": "I hope you will come to my party."
+          "example": "I hope you will come to my party.",
+          "example_cn": "我希望你能来参加我的聚会。"
         },
         {
           "word": "luck",
           "phonetic": "/lʌk/",
           "pos": "n.",
           "definition": "幸运",
-          "example": "Good luck with your exam!"
+          "example": "Good luck with your exam!",
+          "example_cn": "祝你考试顺利！"
         },
         {
           "word": "memory",
           "phonetic": "/ˈmeməri/",
           "pos": "n.",
           "definition": "记忆力，记得的事",
-          "example": "I have a good memory for faces."
+          "example": "I have a good memory for faces.",
+          "example_cn": "我对面孔有很好的记忆力。"
         },
         {
           "word": "name",
           "phonetic": "/neɪm/",
           "pos": "n./v.",
           "definition": "名字，姓名，名称",
-          "example": "What is your name?"
+          "example": "What is your name?",
+          "example_cn": "你叫什么名字？"
         },
         {
           "word": "need",
           "phonetic": "/niːd/",
           "pos": "v./n.",
           "definition": "需要；要；缺乏",
-          "example": "I need some help with this problem."
+          "example": "I need some help with this problem.",
+          "example_cn": "我需要一些帮助来解决这个问题。"
         },
         {
           "word": "noise",
           "phonetic": "/nɔɪz/",
           "pos": "n.",
           "definition": "噪音；喧闹声；嘈杂声",
-          "example": "Please don't make so much noise."
+          "example": "Please don't make so much noise.",
+          "example_cn": "请不要发出这么大的噪音。"
         },
         {
           "word": "part",
           "phonetic": "/pɑːt/",
           "pos": "n./v.",
           "definition": "部分",
-          "example": "This is the best part of the movie."
+          "example": "This is the best part of the movie.",
+          "example_cn": "这是电影中最好的部分。"
         },
         {
           "word": "riddle",
           "phonetic": "/ˈrɪdl/",
           "pos": "n.",
           "definition": "谜语",
-          "example": "Can you solve this riddle?"
+          "example": "Can you solve this riddle?",
+          "example_cn": "你能解开这个谜语吗？"
         },
         {
           "word": "same",
           "phonetic": "/seɪm/",
           "pos": "adj./pron.",
           "definition": "同样的事",
-          "example": "We go to the same school."
+          "example": "We go to the same school.",
+          "example_cn": "我们上同一所学校。"
         },
         {
           "word": "secret",
           "phonetic": "/ˈsiːkrət/",
           "pos": "n./adj.",
           "definition": "秘密，秘诀",
-          "example": "Can you keep a secret?"
+          "example": "Can you keep a secret?",
+          "example_cn": "你能保守秘密吗？"
         },
         {
           "word": "sound",
           "phonetic": "/saʊnd/",
           "pos": "n./v./adj.",
           "definition": "声；声音",
-          "example": "That sounds like a good idea."
+          "example": "That sounds like a good idea.",
+          "example_cn": "这听起来是个好主意。"
         }
       ]
     }

@@ -52,6 +52,20 @@
             android:textAlignment="center"
             android:padding="16dp" />
 
+        <!-- 错题本按钮 -->
+        <Button
+            android:id="@+id/btnReviewWrong"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#FF5722"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="📖 错题本"
+            android:textAlignment="center"
+            android:padding="14dp"
+            android:visibility="gone" />
+
         <TextView
             android:id="@+id/tvDailyTip"
             android:textSize="16sp"

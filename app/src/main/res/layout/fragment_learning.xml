@@ -78,16 +78,18 @@
                     android:text="词性：名词 (n.)"
                     android:gravity="center"/>
 
+                <!-- 释义（答题前隐藏，答后显示） -->
                 <TextView
                     android:id="@+id/tvDefinition"
                     android:textSize="20sp"
-                    android:textColor="#FF0000"
+                    android:textColor="#999999"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="苹果"
+                    android:text="❓ 答对后显示释义"
                     android:gravity="center"/>
 
+                <!-- 例句英文 -->
                 <TextView
                     android:id="@+id/tvExampleEn"
                     android:textSize="15sp"
@@ -98,68 +100,66 @@
                     android:text="I eat an apple every day."
                     android:gravity="center"/>
 
-                <!-- 例句发音按钮 -->
-                <Button
-                    android:id="@+id/btnSpeakExample"
-                    android:layout_width="wrap_content"
-                    android:layout_height="40dp"
-                    android:layout_gravity="center"
-                    android:layout_marginTop="6dp"
-                    android:text="🔊 读例句"
-                    android:textSize="14sp"
-                    android:textColor="#FFFFFF"
-                    android:backgroundTint="#4CAF50"/>
-
+                <!-- 例句中文翻译（答题前隐藏） -->
                 <TextView
                     android:id="@+id/tvExampleCn"
                     android:textSize="15sp"
-                    android:textColor="#333333"
+                    android:textColor="#666666"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
-                    android:text="我每天吃一个苹果。"
+                    android:text=""
+                    android:visibility="gone"
                     android:gravity="center"/>
             </LinearLayout>
 
-            <!-- 选项按钮区 -->
-            <LinearLayout
-                android:orientation="horizontal"
+            <!-- 答题提示 -->
+            <TextView
+                android:id="@+id/tvQuizHint"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#333333"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:gravity="center">
+                android:text="🤔 这个单词的中文意思是什么？"
+                android:gravity="center"/>
+
+            <!-- 选项按钮区 -->
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp">
 
                 <Button
                     android:id="@+id/btnOptionA"
                     android:textSize="16sp"
                     android:textColor="#FFFFFF"
                     android:backgroundTint="#4CAF50"
-                    android:layout_width="0dp"
-                    android:layout_weight="1"
-                    android:layout_height="48dp"
-                    android:text="正确 ✅"
-                    android:layout_marginEnd="8dp"/>
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:text="A. 苹果"
+                    android:layout_marginBottom="8dp"/>
 
                 <Button
                     android:id="@+id/btnOptionB"
                     android:textSize="16sp"
                     android:textColor="#FFFFFF"
                     android:backgroundTint="#FF9800"
-                    android:layout_width="0dp"
-                    android:layout_weight="1"
-                    android:layout_height="48dp"
-                    android:text="错误 ❌"
-                    android:layout_marginEnd="8dp"/>
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:text="B. 香蕉"
+                    android:layout_marginBottom="8dp"/>
 
                 <Button
                     android:id="@+id/btnOptionC"
                     android:textSize="16sp"
                     android:textColor="#FFFFFF"
                     android:backgroundTint="#FF5722"
-                    android:layout_width="0dp"
-                    android:layout_weight="1"
-                    android:layout_height="48dp"
-                    android:text="不确定 ⚠️"/>
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:text="C. 汽车"/>
             </LinearLayout>
 
             <!-- 进度和下一步按钮 -->
