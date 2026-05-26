@@ -12,11 +12,13 @@ import kotlinx.coroutines.withContext
 import org.json.JSONObject
 import java.text.SimpleDateFormat
 import java.util.*
+import java.util.concurrent.TimeUnit
 
 class WordRepository(private val wordDao: WordDao, private val progressDao: ProgressDao) {
 
     companion object {
         const val DEFAULT_USER_ID = "default_user"
+        private const val DATE_FORMAT = "yyyy-MM-dd"
     }
 
     private val _progressState = MutableLiveData<UserProgressEntity?>()
@@ -63,48 +65,13 @@ class WordRepository(private val wordDao: WordDao, private val progressDao: Prog
         }
     }
 
-    // 生成唯一的单词 ID
-    private fun generateWordId(word: String): String {
-        return word.lowercase().replace(Regex("\\W+"), "")
-    }
-
-    // 获取示例词库（用于首次安装）
-    private fun getSampleWords(): List<WordEntity> {
-        return listOf(
-            WordEntity(
-                id = "apple",
-                word = "apple",
-                pronunciation = "/ˈæpl/",
-                partOfSpeech = "n.",
-                definition = "苹果",
-                exampleSentenceEn = "I like to eat apples.",
-                exampleSentenceCn = "我喜欢吃苹果。",
-                difficultyLevel = 1
-            ),
-            WordEntity(
-                id = "banana",
-                word = "banana",
-                pronunciation = "/bəˈnɑːnə/",
-                partOfSpeech = "n.",
-                definition = "香蕉",
-                exampleSentenceEn = "Monkeys love bananas.",
-                exampleSentenceCn = "猴子喜欢香蕉。",
-                difficultyLevel = 1
-            )
-        )
-    }
-
     suspend fun initializeDatabase(context: Context) {
         withContext(Dispatchers.IO) {
             val existingWords = wordDao.getAllWords()
             if (existingWords.isEmpty()) {
-                // 首次安装，加载完整词库
                 val allWords = loadWordsFromAssets(context)
                 if (allWords.isNotEmpty()) {
                     allWords.forEach { wordDao.insertWord(it) }
-                } else {
-                    // 如果 JSON 加载失败，使用示例词库
-                    getSampleWords().forEach { wordDao.insertWord(it) }
                 }
             }
 
@@ -137,11 +104,46 @@ class WordRepository(private val wordDao: WordDao, private val progressDao: Prog
         }
     }
 
+    /**
+     * 获取用户进度，同时检查并处理日期变化：
+     * 1. 如果跨天了，重置 todayLearned = 0
+     * 2. 如果中断了（lastStudyDate 不是昨天也不是今天），重置连续天数
+     */
     suspend fun getUserProgress(userId: String = DEFAULT_USER_ID): UserProgressEntity? {
         return withContext(Dispatchers.IO) {
-            progressDao.getProgress(userId).also {
-                _progressState.postValue(it)
+            val progress = progressDao.getProgress(userId) ?: return@withContext null
+
+            val today = getTodayString()
+            val yesterday = getYesterdayString()
+
+            var needUpdate = false
+            var updatedProgress = progress
+
+            // 检查是否跨天（0点重置今日学习数）
+            if (progress.lastStudyDate != today) {
+                // 跨天了，重置今日学习数
+                updatedProgress = updatedProgress.copy(todayLearned = 0)
+                needUpdate = true
+
+                // 检查连续天数是否中断
+                if (progress.lastStudyDate != null && progress.lastStudyDate != yesterday) {
+                    // lastStudyDate 既不是今天也不是昨天，说明中断了
+                    // 比如：lastStudyDate = "2026-05-11"，today = "2026-05-13"，中间断了一天
+                    val daysBetween = getDaysBetween(progress.lastStudyDate!!, today)
+                    if (daysBetween > 1) {
+                        // 中断超过1天，重置连续学习天数
+                        updatedProgress = updatedProgress.copy(totalStudyDays = 0)
+                        needUpdate = true
+                    }
+                }
             }
+
+            if (needUpdate) {
+                progressDao.saveProgress(updatedProgress)
+            }
+
+            _progressState.postValue(updatedProgress)
+            updatedProgress
         }
     }
 
@@ -157,7 +159,8 @@ class WordRepository(private val wordDao: WordDao, private val progressDao: Prog
         withContext(Dispatchers.IO) {
             val progress = progressDao.getProgress(DEFAULT_USER_ID) ?: return@withContext
 
-            val today = SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()).format(Date())
+            val today = getTodayString()
+            val yesterday = getYesterdayString()
 
             // 合并已掌握的单词（去重）
             val existingMastered = progress.masteredWordIds
@@ -168,11 +171,34 @@ class WordRepository(private val wordDao: WordDao, private val progressDao: Prog
             val existingWrong = progress.wrongWordIds
                 .split(",").filter { it.isNotBlank() }.toMutableSet()
             existingWrong.addAll(wrongWordIds)
-            existingWrong.removeAll(correctWordIds) // 答对了就从错题中移除
+            existingWrong.removeAll(correctWordIds)
 
-            // 判断是否是新的一天
+            // 判断连续学习天数
             val isNewDay = progress.lastStudyDate != today
-            val newStudyDays = if (isNewDay) progress.totalStudyDays + 1 else progress.totalStudyDays
+            val newStudyDays: Int
+            val newTodayLearned: Int
+
+            if (isNewDay) {
+                // 新的一天
+                if (progress.lastStudyDate == yesterday) {
+                    // 昨天学过，连续天数 +1
+                    newStudyDays = progress.totalStudyDays + 1
+                } else if (progress.lastStudyDate == null) {
+                    // 首次学习
+                    newStudyDays = 1
+                } else {
+                    // 中断了（不是昨天也不是今天），重置为 1
+                    val daysBetween = getDaysBetween(progress.lastStudyDate!!, today)
+                    newStudyDays = if (daysBetween > 1) 1 else progress.totalStudyDays + 1
+                }
+                // 新的一天，今日学习数从本次开始
+                newTodayLearned = correctWordIds.size + wrongWordIds.size
+            } else {
+                // 同一天，连续天数不变
+                newStudyDays = progress.totalStudyDays
+                // 今日学习数累加
+                newTodayLearned = progress.todayLearned + correctWordIds.size + wrongWordIds.size
+            }
 
             val updatedProgress = progress.copy(
                 totalStudyDays = newStudyDays,
@@ -180,12 +206,42 @@ class WordRepository(private val wordDao: WordDao, private val progressDao: Prog
                 wrongWordIds = existingWrong.joinToString(","),
                 lastStudyDate = today,
                 totalScore = progress.totalScore + correctWordIds.size,
-                todayLearned = if (isNewDay) correctWordIds.size + wrongWordIds.size
-                              else progress.todayLearned + correctWordIds.size + wrongWordIds.size
+                todayLearned = newTodayLearned
             )
 
             progressDao.saveProgress(updatedProgress)
             _progressState.postValue(updatedProgress)
+        }
+    }
+
+    // ========== 日期工具方法 ==========
+
+    /** 获取今天日期字符串 yyyy-MM-dd */
+    private fun getTodayString(): String {
+        return SimpleDateFormat(DATE_FORMAT, Locale.getDefault()).format(Date())
+    }
+
+    /** 获取昨天日期字符串 yyyy-MM-dd */
+    private fun getYesterdayString(): String {
+        val calendar = Calendar.getInstance()
+        calendar.add(Calendar.DAY_OF_YEAR, -1)
+        return SimpleDateFormat(DATE_FORMAT, Locale.getDefault()).format(calendar.time)
+    }
+
+    /** 计算两个日期之间的天数差 */
+    private fun getDaysBetween(dateStr1: String, dateStr2: String): Long {
+        return try {
+            val sdf = SimpleDateFormat(DATE_FORMAT, Locale.getDefault())
+            val date1 = sdf.parse(dateStr1)
+            val date2 = sdf.parse(dateStr2)
+            if (date1 != null && date2 != null) {
+                val diffMillis = date2.time - date1.time
+                TimeUnit.DAYS.convert(diffMillis, TimeUnit.MILLISECONDS)
+            } else {
+                999 // 解析失败，视为中断
+            }
+        } catch (e: Exception) {
+            999 // 异常视为中断
         }
     }
 }
