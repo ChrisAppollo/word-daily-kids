@@ -17,7 +17,8 @@ class TtsManager(private val context: Context) {
     companion object {
         private const val TAG = "TtsManager"
         private const val YOUDAO_TTS = "https://dict.youdao.com/dictvoice"
-        private const val GOOGLE_TTS = "https://translate.google.com/translate_tts"
+        private const val GOOGLE_TTS = "https://translate.googleapis.com/translate_tts"
+        private const val MAX_RETRIES = 2
     }
 
     private var mediaPlayer: MediaPlayer? = null
@@ -36,15 +37,18 @@ class TtsManager(private val context: Context) {
         val encoded = URLEncoder.encode(text, "UTF-8")
 
         val url = if (isSentence) {
-            // Google Translate TTS: tl=en, client=tw-ob
-            "$GOOGLE_TTS?ie=UTF-8&q=$encoded&tl=en&client=tw-ob"
+            // Google Translate TTS: tl=en, client=gtx
+            "$GOOGLE_TTS?ie=UTF-8&q=$encoded&tl=en&client=gtx"
         } else {
             // 有道词典 TTS: type=2 美式
             "$YOUDAO_TTS?audio=$encoded&type=2"
         }
 
         Log.d(TAG, "播放(${if (isSentence) "例句/Google" else "单词/有道"}): $text")
+        playUrl(url, 0)
+    }
 
+    private fun playUrl(url: String, retryCount: Int) {
         try {
             mediaPlayer = MediaPlayer().apply {
                 setAudioAttributes(
@@ -62,12 +66,19 @@ class TtsManager(private val context: Context) {
                     releasePlayer()
                 }
                 setOnErrorListener { mp, what, extra ->
-                    Log.e(TAG, "播放错误: what=$what, extra=$extra")
+                    Log.e(TAG, "播放错误: what=$what, extra=$extra, retry=$retryCount")
                     releasePlayer()
+                    // 重试
+                    if (retryCount < MAX_RETRIES) {
+                        Log.d(TAG, "重试播放 (${retryCount + 1}/$MAX_RETRIES)")
+                        android.os.Handler(android.os.Looper.getMainLooper()).postDelayed({
+                            playUrl(url, retryCount + 1)
+                        }, 500)
+                    }
                     true
                 }
                 val headers = HashMap<String, String>()
-                headers["User-Agent"] = "Mozilla/5.0 (Linux; Android 12)"
+                headers["User-Agent"] = "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36"
                 setDataSource(context, Uri.parse(url), headers)
                 prepareAsync()
             }
